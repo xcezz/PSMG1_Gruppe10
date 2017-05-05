@@ -1,0 +1,72 @@
+/**
+ * Custom Stylesheet
+ * Use this file to override Materialize files
+ *
+ */
+ 
+body {
+  background-color: #921c28;
+}
+
+.marvel-color {
+  color: #921c28 !important;
+}
+
+.marvel {
+  background: url('http://37.media.tumblr.com/tumblr_mbha9qWF401qcixnko4_500.gif');
+  background-size: cover;
+  -webkit-animation: fadeOut 9s infinite;
+  -moz-animation: fadeOut 9s infinite;
+  animation: fadeOut 9s infinite;
+}
+
+nav ul a,
+nav .brand-logo {
+  color: #fff;
+}
+
+p {
+  line-height: 2rem;
+}
+
+.button-collapse {
+  color: #921c28;
+}
+
+.parallax-container {
+  min-height: 380px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+  .parallax-container .section {
+    width: 100%;
+  }
+
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+footer.page-footer {
+  margin: 0;
+}
