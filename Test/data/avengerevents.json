@@ -1,0 +1,13847 @@
+[
+	{
+		"id": 9578,
+		"events": [
+			"Crossing"
+		],
+		"characters": [
+			"Iron Man",
+			"Kang"
+		]
+	},
+	{
+		"id": 7280,
+		"events": [
+			"Crossing"
+		],
+		"characters": [
+			"Avengers",
+			"Iron Man",
+			"Kang",
+			"Mantis",
+			"Masque"
+		]
+	},
+	{
+		"id": 9577,
+		"events": [
+			"Crossing"
+		],
+		"characters": [
+			"Hawkeye",
+			"Iron Man",
+			"Masque"
+		]
+	},
+	{
+		"id": 7279,
+		"events": [
+			"Crossing"
+		],
+		"characters": [
+			"Avengers",
+			"Kang",
+			"Mantis",
+			"Wasp"
+		]
+	},
+	{
+		"id": 7278,
+		"events": [
+			"Crossing"
+		],
+		"characters": [
+			"Avengers",
+			"Kang",
+			"Mantis",
+			"Masque"
+		]
+	},
+	{
+		"id": 9576,
+		"events": [
+			"Crossing"
+		],
+		"characters": [
+			"Hawkeye",
+			"Iron Man",
+			"Masque"
+		]
+	},
+	{
+		"id": 9575,
+		"events": [
+			"Crossing"
+		],
+		"characters": [
+			"Iron Man"
+		]
+	},
+	{
+		"id": 7277,
+		"events": [
+			"Crossing"
+		],
+		"characters": [
+			"Avengers",
+			"Mantis"
+		]
+	},
+	{
+		"id": 7276,
+		"events": [
+			"Crossing"
+		],
+		"characters": [
+			"Avengers",
+			"Deathcry",
+			"Magdalene"
+		]
+	},
+	{
+		"id": 9574,
+		"events": [
+			"Crossing"
+		],
+		"characters": [
+			"Iron Man",
+			"Masque"
+		]
+	},
+	{
+		"id": 9573,
+		"events": [
+			"Crossing"
+		],
+		"characters": [
+			"Iron Man"
+		]
+	},
+	{
+		"id": 7275,
+		"events": [
+			"Crossing"
+		],
+		"characters": [
+			"Avengers",
+			"Deathcry",
+			"Magdalene"
+		]
+	},
+	{
+		"id": 29321,
+		"events": [
+			"Atlantis Attacks"
+		],
+		"characters": [
+			"Avengers",
+			"Fantastic Four",
+			"Invisible Woman",
+			"Quasar (Phyla-Vell)",
+			"She-Hulk (Jennifer Walters)",
+			"X-Men"
+		]
+	},
+	{
+		"id": 29322,
+		"events": [
+			"Atlantis Attacks"
+		],
+		"characters": [
+			"Avengers",
+			"Fantastic Four",
+			"Invisible Woman",
+			"Quasar (Phyla-Vell)",
+			"She-Hulk (Jennifer Walters)",
+			"X-Men"
+		]
+	},
+	{
+		"id": 18326,
+		"events": [
+			"Atlantis Attacks"
+		],
+		"characters": [
+			"Punisher"
+		]
+	},
+	{
+		"id": 17794,
+		"events": [
+			"Atlantis Attacks"
+		],
+		"characters": []
+	},
+	{
+		"id": 17842,
+		"events": [
+			"Atlantis Attacks",
+			"Evolutionary War"
+		],
+		"characters": [
+			"Avengers",
+			"Firebird"
+		]
+	},
+	{
+		"id": 19861,
+		"events": [
+			"Atlantis Attacks"
+		],
+		"characters": [
+			"Iron Man"
+		]
+	},
+	{
+		"id": 10417,
+		"events": [
+			"Atlantis Attacks"
+		],
+		"characters": [
+			"New Mutants"
+		]
+	},
+	{
+		"id": 16898,
+		"events": [
+			"Atlantis Attacks"
+		],
+		"characters": [
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 8701,
+		"events": [
+			"Atlantis Attacks"
+		],
+		"characters": [
+			"Doctor Doom",
+			"Fantastic Four"
+		]
+	},
+	{
+		"id": 6932,
+		"events": [
+			"Atlantis Attacks"
+		],
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"id": 16675,
+		"events": [
+			"Atlantis Attacks"
+		],
+		"characters": [
+			"Loki",
+			"Thor"
+		]
+	},
+	{
+		"id": 12359,
+		"events": [
+			"Atlantis Attacks"
+		],
+		"characters": [
+			"Celestials",
+			"Colossus",
+			"Dazzler",
+			"Eternals",
+			"Gateway",
+			"Havok",
+			"Jubilee",
+			"Longshot",
+			"Polaris",
+			"Psylocke",
+			"Rogue",
+			"Storm",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"id": 10339,
+		"events": [
+			"Atlantis Attacks"
+		],
+		"characters": [
+			"Boom Boom",
+			"Namorita",
+			"New Mutants"
+		]
+	},
+	{
+		"id": 23512,
+		"events": [
+			"Atlantis Attacks"
+		],
+		"characters": [
+			"Adam Warlock",
+			"Archangel",
+			"Beast",
+			"Boom Boom",
+			"Cannonball",
+			"Cyclops",
+			"Human Torch",
+			"Iceman",
+			"J. Jonah Jameson",
+			"Jean Grey",
+			"Leech",
+			"Magneto",
+			"Power Pack",
+			"Rictor",
+			"Sub-Mariner",
+			"Sunspot",
+			"Thing",
+			"Thor",
+			"Wolfsbane",
+			"X-Factor",
+			"X-Men"
+		]
+	},
+	{
+		"id": 1507,
+		"events": [
+			"Infinity Gauntlet"
+		],
+		"characters": []
+	},
+	{
+		"id": 9291,
+		"events": [
+			"Infinity Gauntlet"
+		],
+		"characters": [
+			"Defenders",
+			"Doctor Strange",
+			"Nebula",
+			"Silver Surfer",
+			"Thanos"
+		]
+	},
+	{
+		"id": 20197,
+		"events": [
+			"Infinity Gauntlet"
+		],
+		"characters": [
+			"Adam Warlock",
+			"Clea",
+			"Dormammu",
+			"Mephisto",
+			"Scarlet Witch",
+			"Wong"
+		]
+	},
+	{
+		"id": 15196,
+		"events": [
+			"Infinity Gauntlet"
+		],
+		"characters": [
+			"Silver Surfer"
+		]
+	},
+	{
+		"id": 15195,
+		"events": [
+			"Infinity Gauntlet"
+		],
+		"characters": [
+			"Silver Surfer"
+		]
+	},
+	{
+		"id": 9290,
+		"events": [
+			"Infinity Gauntlet"
+		],
+		"characters": [
+			"Adam Warlock",
+			"Defenders",
+			"Mephisto",
+			"Nebula",
+			"Thanos",
+			"The Watchers"
+		]
+	},
+	{
+		"id": 20196,
+		"events": [
+			"Infinity Gauntlet"
+		],
+		"characters": [
+			"Clea",
+			"Firelord",
+			"Scarlet Witch",
+			"Thor"
+		]
+	},
+	{
+		"id": 15194,
+		"events": [
+			"Infinity Gauntlet"
+		],
+		"characters": [
+			"Silver Surfer",
+			"Thanos"
+		]
+	},
+	{
+		"id": 20195,
+		"events": [
+			"Infinity Gauntlet"
+		],
+		"characters": [
+			"Ancient One",
+			"Clea",
+			"Doctor Doom",
+			"Doctor Strange",
+			"Scarlet Witch"
+		]
+	},
+	{
+		"id": 9289,
+		"events": [
+			"Infinity Gauntlet"
+		],
+		"characters": [
+			"Avengers",
+			"Defenders",
+			"Mephisto",
+			"Thanos",
+			"The Watchers"
+		]
+	},
+	{
+		"id": 15193,
+		"events": [
+			"Infinity Gauntlet"
+		],
+		"characters": [
+			"Silver Surfer",
+			"Thanos"
+		]
+	},
+	{
+		"id": 15192,
+		"events": [
+			"Infinity Gauntlet"
+		],
+		"characters": [
+			"Silver Surfer"
+		]
+	},
+	{
+		"id": 15191,
+		"events": [
+			"Infinity Gauntlet"
+		],
+		"characters": [
+			"Silver Surfer"
+		]
+	},
+	{
+		"id": 18913,
+		"events": [
+			"Infinity Gauntlet"
+		],
+		"characters": [
+			"Quasar (Phyla-Vell)",
+			"Thanos"
+		]
+	},
+	{
+		"id": 20194,
+		"events": [
+			"Infinity Gauntlet"
+		],
+		"characters": [
+			"Ancient One",
+			"Captain America",
+			"Clea",
+			"Doctor Doom",
+			"Firelord",
+			"Hercules",
+			"Hulk",
+			"Nightmare",
+			"Nova",
+			"She-Hulk (Jennifer Walters)",
+			"Spider-Man",
+			"Sub-Mariner",
+			"Thanos",
+			"Thor",
+			"Vision",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 9288,
+		"events": [
+			"Infinity Gauntlet"
+		],
+		"characters": [
+			"Avengers",
+			"Death",
+			"Defenders",
+			"Galactus",
+			"Mephisto",
+			"Silver Surfer",
+			"Thanos"
+		]
+	},
+	{
+		"id": 9196,
+		"events": [
+			"Infinity Gauntlet"
+		],
+		"characters": [
+			"Hulk"
+		]
+	},
+	{
+		"id": 15190,
+		"events": [
+			"Infinity Gauntlet"
+		],
+		"characters": [
+			"Silver Surfer"
+		]
+	},
+	{
+		"id": 20193,
+		"events": [
+			"Infinity Gauntlet"
+		],
+		"characters": [
+			"Adam Warlock",
+			"Clea",
+			"Doctor Doom",
+			"Hercules",
+			"Human Torch",
+			"Man-Thing",
+			"Mr. Fantastic",
+			"Nightmare",
+			"Silver Surfer",
+			"Spider-Man",
+			"Thing",
+			"Thor"
+		]
+	},
+	{
+		"id": 9195,
+		"events": [
+			"Infinity Gauntlet"
+		],
+		"characters": [
+			"Abomination (Emil Blonsky)",
+			"Hulk"
+		]
+	},
+	{
+		"id": 9287,
+		"events": [
+			"Infinity Gauntlet"
+		],
+		"characters": [
+			"Avengers",
+			"Death",
+			"Mephisto",
+			"Thanos"
+		]
+	},
+	{
+		"id": 15189,
+		"events": [
+			"Infinity Gauntlet"
+		],
+		"characters": [
+			"Silver Surfer"
+		]
+	},
+	{
+		"id": 20192,
+		"events": [
+			"Infinity Gauntlet"
+		],
+		"characters": [
+			"Dormammu",
+			"Galactus",
+			"Mephisto",
+			"Nightmare",
+			"Shalla-bal",
+			"Sif",
+			"Silver Surfer",
+			"Thing",
+			"Thor"
+		]
+	},
+	{
+		"id": 9286,
+		"events": [
+			"Infinity Gauntlet"
+		],
+		"characters": [
+			"Death",
+			"Doctor Strange",
+			"Mephisto",
+			"Silver Surfer",
+			"Thanos"
+		]
+	},
+	{
+		"id": 15188,
+		"events": [
+			"Infinity Gauntlet"
+		],
+		"characters": [
+			"Silver Surfer"
+		]
+	},
+	{
+		"id": 29101,
+		"events": [
+			"Other - Evolve or Die"
+		],
+		"characters": []
+	},
+	{
+		"id": 3360,
+		"events": [
+			"Other - Evolve or Die"
+		],
+		"characters": [
+			"Mary Jane Watson",
+			"Spider-Man",
+			"Tony Stark"
+		]
+	},
+	{
+		"id": 3361,
+		"events": [
+			"Other - Evolve or Die"
+		],
+		"characters": [
+			"Mary Jane Watson",
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 3398,
+		"events": [
+			"Other - Evolve or Die"
+		],
+		"characters": [
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 3132,
+		"events": [
+			"Other - Evolve or Die"
+		],
+		"characters": [
+			"Avengers",
+			"Mary Jane Watson",
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 3192,
+		"events": [
+			"Other - Evolve or Die"
+		],
+		"characters": [
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 3020,
+		"events": [
+			"Other - Evolve or Die"
+		],
+		"characters": [
+			"Morlun",
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 3087,
+		"events": [
+			"Other - Evolve or Die"
+		],
+		"characters": [
+			"Mary Jane Watson",
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 3021,
+		"events": [
+			"Other - Evolve or Die"
+		],
+		"characters": [
+			"Black Panther",
+			"Mr. Fantastic",
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 2452,
+		"events": [
+			"Other - Evolve or Die"
+		],
+		"characters": [
+			"Mary Jane Watson",
+			"Spider-Man",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 2559,
+		"events": [
+			"Other - Evolve or Die"
+		],
+		"characters": [
+			"Mary Jane Watson",
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 17842,
+		"events": [
+			"Atlantis Attacks",
+			"Evolutionary War"
+		],
+		"characters": [
+			"Avengers",
+			"Firebird"
+		]
+	},
+	{
+		"id": 11735,
+		"events": [
+			"Evolutionary War"
+		],
+		"characters": [
+			"Thor"
+		]
+	},
+	{
+		"id": 18294,
+		"events": [
+			"Evolutionary War"
+		],
+		"characters": [
+			"Avengers",
+			"High Evolutionary"
+		]
+	},
+	{
+		"id": 17940,
+		"events": [
+			"Evolutionary War"
+		],
+		"characters": [
+			"Hawkeye",
+			"High Evolutionary",
+			"Mantis",
+			"Mockingbird",
+			"Moon Knight",
+			"Tigra (Greer Nelson)",
+			"Wonder Man"
+		]
+	},
+	{
+		"id": 16897,
+		"events": [
+			"Evolutionary War"
+		],
+		"characters": [
+			"High Evolutionary",
+			"Penance (Robert Baldwin)",
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 8700,
+		"events": [
+			"Evolutionary War"
+		],
+		"characters": [
+			"Crystal",
+			"Fantastic Four",
+			"High Evolutionary"
+		]
+	},
+	{
+		"id": 6931,
+		"events": [
+			"Evolutionary War"
+		],
+		"characters": [
+			"Avengers",
+			"High Evolutionary"
+		]
+	},
+	{
+		"id": 12358,
+		"events": [
+			"Evolutionary War"
+		],
+		"characters": [
+			"Colossus",
+			"Dazzler",
+			"Forge",
+			"Gateway",
+			"Havok",
+			"High Evolutionary",
+			"Longshot",
+			"Mojo",
+			"Psylocke",
+			"Rogue",
+			"Storm",
+			"Wolverine",
+			"X-Men",
+			"Zaladane"
+		]
+	},
+	{
+		"id": 10338,
+		"events": [
+			"Evolutionary War"
+		],
+		"characters": [
+			"New Mutants"
+		]
+	},
+	{
+		"id": 23511,
+		"events": [
+			"Evolutionary War"
+		],
+		"characters": [
+			"Apocalypse",
+			"Archangel",
+			"Avalanche",
+			"Beast",
+			"Blob",
+			"Boom Boom",
+			"Caliban",
+			"Colossus",
+			"Cyclops",
+			"Dark Phoenix",
+			"Franklin Richards",
+			"High Evolutionary",
+			"Iceman",
+			"Jean Grey",
+			"Leech",
+			"Madelyne Pryor",
+			"Nightcrawler",
+			"Professor X",
+			"Psylocke",
+			"Purifiers",
+			"Pyro",
+			"Rictor",
+			"Spiral (Rita Wayword)",
+			"Storm",
+			"Wolverine",
+			"X-Factor",
+			"X-Men"
+		]
+	},
+	{
+		"id": 47808,
+		"events": [
+			"Inhumanity",
+			"Marvel NOW!"
+		],
+		"characters": []
+	},
+	{
+		"id": 48563,
+		"events": [
+			"Inhumanity"
+		],
+		"characters": [
+			"Avengers",
+			"Spider-Girl (Anya Corazon)",
+			"Spider-Woman (Jessica Drew)",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 48653,
+		"events": [
+			"Inhumanity"
+		],
+		"characters": []
+	},
+	{
+		"id": 48320,
+		"events": [
+			"Inhumanity"
+		],
+		"characters": []
+	},
+	{
+		"id": 49350,
+		"events": [
+			"Inhumanity"
+		],
+		"characters": []
+	},
+	{
+		"id": 48763,
+		"events": [
+			"Inhumanity"
+		],
+		"characters": []
+	},
+	{
+		"id": 43527,
+		"events": [
+			"Inhumanity"
+		],
+		"characters": [
+			"Black Bolt",
+			"Black Panther",
+			"Doctor Strange",
+			"Iron Man",
+			"Mr. Fantastic",
+			"Namor"
+		]
+	},
+	{
+		"id": 48562,
+		"events": [
+			"Inhumanity"
+		],
+		"characters": [
+			"Avengers",
+			"Black Widow",
+			"Captain America",
+			"Hulk",
+			"Spider-Girl (Anya Corazon)",
+			"Spider-Woman (Jessica Drew)",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 48652,
+		"events": [
+			"Inhumanity"
+		],
+		"characters": []
+	},
+	{
+		"id": 48673,
+		"events": [
+			"Inhumanity"
+		],
+		"characters": []
+	},
+	{
+		"id": 49349,
+		"events": [
+			"Inhumanity"
+		],
+		"characters": []
+	},
+	{
+		"id": 48319,
+		"events": [
+			"Inhumanity"
+		],
+		"characters": []
+	},
+	{
+		"id": 47584,
+		"events": [
+			"Inhumanity"
+		],
+		"characters": []
+	},
+	{
+		"id": 49189,
+		"events": [
+			"Inhumanity"
+		],
+		"characters": []
+	},
+	{
+		"id": 10286,
+		"events": [
+			"Maximum Security"
+		],
+		"characters": [
+			"Bishop",
+			"Black Panther",
+			"Captain America",
+			"Captain Marvel (Carol Danvers)",
+			"Colossus",
+			"Darkstar",
+			"Gambit",
+			"Gladiator (Kallark)",
+			"Hercules",
+			"Hulk",
+			"Human Torch",
+			"Invisible Woman",
+			"Iron Man",
+			"Lilandra",
+			"Mr. Fantastic",
+			"Namorita",
+			"Nightcrawler",
+			"Nova",
+			"Professor X",
+			"Psylocke",
+			"Quasar (Phyla-Vell)",
+			"Rogue",
+			"Scarlet Witch",
+			"She-Hulk (Jennifer Walters)",
+			"Silver Surfer",
+			"Spider-Man",
+			"Sub-Mariner",
+			"Sunfire",
+			"Thing",
+			"Thor",
+			"Thunderbird (John Proudstar)",
+			"Tigra (Greer Nelson)",
+			"Vision",
+			"Wasp",
+			"Wolverine",
+			"Wonder Man"
+		]
+	},
+	{
+		"id": 12592,
+		"events": [
+			"Maximum Security"
+		],
+		"characters": [
+			"Black Panther"
+		]
+	},
+	{
+		"id": 15350,
+		"events": [
+			"Maximum Security"
+		],
+		"characters": [
+			"Moonstone",
+			"Thunderbolts"
+		]
+	},
+	{
+		"id": 20615,
+		"events": [
+			"Maximum Security"
+		],
+		"characters": [
+			"Bishop",
+			"Deathbird",
+			"X-Men"
+		]
+	},
+	{
+		"id": 12796,
+		"events": [
+			"Maximum Security"
+		],
+		"characters": [
+			"Captain America",
+			"Nick Fury"
+		]
+	},
+	{
+		"id": 14421,
+		"events": [
+			"Maximum Security"
+		],
+		"characters": [
+			"Hulk"
+		]
+	},
+	{
+		"id": 10285,
+		"events": [
+			"Maximum Security"
+		],
+		"characters": [
+			"Bishop",
+			"Captain America",
+			"Captain Marvel (Carol Danvers)",
+			"Captain Marvel (Mar-Vell)",
+			"Hawkeye",
+			"Human Torch",
+			"Invisible Woman",
+			"Iron Man",
+			"Moonstone",
+			"Mr. Fantastic",
+			"Professor X",
+			"Quasar (Phyla-Vell)",
+			"Scarlet Witch",
+			"Silver Surfer",
+			"Thing",
+			"Thor",
+			"Tigra (Greer Nelson)",
+			"Vision",
+			"Wasp"
+		]
+	},
+	{
+		"id": 14290,
+		"events": [
+			"Maximum Security"
+		],
+		"characters": [
+			"Bishop",
+			"Colossus",
+			"Lady Deathstrike",
+			"Nightcrawler",
+			"Psylocke",
+			"Rogue",
+			"Thunderbird (Neal Shaara)",
+			"X-Men"
+		]
+	},
+	{
+		"id": 19908,
+		"events": [
+			"Maximum Security"
+		],
+		"characters": [
+			"Human Torch",
+			"Invisible Woman",
+			"Iron Man",
+			"Mr. Fantastic",
+			"Silver Surfer",
+			"Thing"
+		]
+	},
+	{
+		"id": 10284,
+		"events": [
+			"Maximum Security"
+		],
+		"characters": [
+			"Captain America",
+			"Captain Marvel (Carol Danvers)",
+			"Daredevil",
+			"Darkstar",
+			"Human Torch",
+			"Iron Man",
+			"Lilandra",
+			"Namorita",
+			"Nova",
+			"Punisher",
+			"Scarlet Witch",
+			"Spider-Man",
+			"Sunfire",
+			"Wasp",
+			"Wonder Man",
+			"X-Man"
+		]
+	},
+	{
+		"id": 18654,
+		"events": [
+			"Maximum Security"
+		],
+		"characters": [
+			"Odin",
+			"Quasar (Phyla-Vell)",
+			"Sif",
+			"Thor",
+			"Tigra (Greer Nelson)"
+		]
+	},
+	{
+		"id": 13928,
+		"events": [
+			"Maximum Security"
+		],
+		"characters": [
+			"Beast",
+			"Cable",
+			"Ch'od",
+			"Gambit",
+			"Hepzibah",
+			"Hussar",
+			"Professor X",
+			"Raza",
+			"Rogue",
+			"Storm",
+			"Warstar",
+			"X-Men"
+		]
+	},
+	{
+		"id": 18131,
+		"events": [
+			"Maximum Security"
+		],
+		"characters": []
+	},
+	{
+		"id": 10533,
+		"events": [
+			"Maximum Security"
+		],
+		"characters": []
+	},
+	{
+		"id": 20541,
+		"events": [
+			"Maximum Security"
+		],
+		"characters": []
+	},
+	{
+		"id": 19032,
+		"events": [
+			"Maximum Security"
+		],
+		"characters": [
+			"Gladiator (Kallark)",
+			"Lilandra",
+			"Professor X",
+			"Silver Surfer"
+		]
+	},
+	{
+		"id": 16054,
+		"events": [
+			"Maximum Security"
+		],
+		"characters": []
+	},
+	{
+		"id": 38207,
+		"events": [
+			"Shattered Heroes"
+		],
+		"characters": [
+			"Thor"
+		]
+	},
+	{
+		"id": 40226,
+		"events": [
+			"Shattered Heroes"
+		],
+		"characters": [
+			"Iron Man"
+		]
+	},
+	{
+		"id": 38055,
+		"events": [
+			"Shattered Heroes"
+		],
+		"characters": [
+			"Loki"
+		]
+	},
+	{
+		"id": 38214,
+		"events": [
+			"Shattered Heroes"
+		],
+		"characters": [
+			"Thor"
+		]
+	},
+	{
+		"id": 40224,
+		"events": [
+			"Shattered Heroes"
+		],
+		"characters": [
+			"Iron Man"
+		]
+	},
+	{
+		"id": 35229,
+		"events": [
+			"Shattered Heroes"
+		],
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"id": 41349,
+		"events": [
+			"Shattered Heroes"
+		],
+		"characters": [
+			"Deadpool"
+		]
+	},
+	{
+		"id": 38391,
+		"events": [
+			"Shattered Heroes"
+		],
+		"characters": [
+			"Captain America"
+		]
+	},
+	{
+		"id": 37681,
+		"events": [
+			"Shattered Heroes"
+		],
+		"characters": [
+			"Loki",
+			"Thor"
+		]
+	},
+	{
+		"id": 39762,
+		"events": [
+			"Shattered Heroes"
+		],
+		"characters": [
+			"Doctor Strange",
+			"Iron Fist (Danny Rand)"
+		]
+	},
+	{
+		"id": 36486,
+		"events": [
+			"Shattered Heroes"
+		],
+		"characters": [
+			"Avengers",
+			"Giant Man",
+			"Hawkeye",
+			"Lightspeed",
+			"Quicksilver",
+			"Reptil",
+			"Tigra (Greer Nelson)",
+			"White Tiger (Angela Del Toro)"
+		]
+	},
+	{
+		"id": 38380,
+		"events": [
+			"Shattered Heroes"
+		],
+		"characters": [
+			"Captain America"
+		]
+	},
+	{
+		"id": 38212,
+		"events": [
+			"Shattered Heroes"
+		],
+		"characters": [
+			"Thor"
+		]
+	},
+	{
+		"id": 35227,
+		"events": [
+			"Shattered Heroes"
+		],
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"id": 39954,
+		"events": [
+			"Shattered Heroes"
+		],
+		"characters": []
+	},
+	{
+		"id": 31549,
+		"events": [
+			"Shattered Heroes"
+		],
+		"characters": [
+			"Iron Man"
+		]
+	},
+	{
+		"id": 37682,
+		"events": [
+			"Shattered Heroes"
+		],
+		"characters": [
+			"Thor"
+		]
+	},
+	{
+		"id": 36488,
+		"events": [
+			"Shattered Heroes"
+		],
+		"characters": [
+			"Avengers",
+			"Giant Man",
+			"Hawkeye",
+			"Lightspeed",
+			"Quicksilver",
+			"Reptil",
+			"Tigra (Greer Nelson)"
+		]
+	},
+	{
+		"id": 41350,
+		"events": [
+			"Shattered Heroes"
+		],
+		"characters": [
+			"Captain America",
+			"Taskmaster"
+		]
+	},
+	{
+		"id": 39757,
+		"events": [
+			"Shattered Heroes"
+		],
+		"characters": [
+			"Defenders",
+			"Doctor Strange",
+			"Iron Fist (Danny Rand)",
+			"Namor",
+			"Silver Surfer"
+		]
+	},
+	{
+		"id": 39958,
+		"events": [
+			"Shattered Heroes"
+		],
+		"characters": [
+			"Sub-Mariner"
+		]
+	},
+	{
+		"id": 31546,
+		"events": [
+			"Shattered Heroes"
+		],
+		"characters": [
+			"Iron Man"
+		]
+	},
+	{
+		"id": 38208,
+		"events": [
+			"Shattered Heroes"
+		],
+		"characters": []
+	},
+	{
+		"id": 36485,
+		"events": [
+			"Shattered Heroes"
+		],
+		"characters": [
+			"Giant Man",
+			"Hawkeye",
+			"Magneto",
+			"Quicksilver",
+			"Tigra (Greer Nelson)",
+			"White Tiger (Angela Del Toro)",
+			"X-Men"
+		]
+	},
+	{
+		"id": 39955,
+		"events": [
+			"Shattered Heroes"
+		],
+		"characters": [
+			"Ant-Man (Eric O'Grady)",
+			"Black Widow",
+			"Iron Patriot (James Rhodes)",
+			"Shang-Chi",
+			"Sharon Carter"
+		]
+	},
+	{
+		"id": 35225,
+		"events": [
+			"Shattered Heroes"
+		],
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Iron Man",
+			"Spider-Man",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 42180,
+		"events": [
+			"Shattered Heroes"
+		],
+		"characters": [
+			"Hulk"
+		]
+	},
+	{
+		"id": 41351,
+		"events": [
+			"Shattered Heroes"
+		],
+		"characters": [
+			"Captain America",
+			"Hawkeye",
+			"Nick Fury",
+			"Sin",
+			"Spider-Man",
+			"Taskmaster"
+		]
+	},
+	{
+		"id": 37683,
+		"events": [
+			"Shattered Heroes"
+		],
+		"characters": [
+			"Loki",
+			"Mephisto",
+			"Odin",
+			"Thor"
+		]
+	},
+	{
+		"id": 36489,
+		"events": [
+			"Shattered Heroes"
+		],
+		"characters": [
+			"Avengers",
+			"Giant Man",
+			"Jocasta",
+			"Justice",
+			"Quicksilver",
+			"Tigra (Greer Nelson)"
+		]
+	},
+	{
+		"id": 39956,
+		"events": [
+			"Shattered Heroes"
+		],
+		"characters": [
+			"Sin",
+			"Winter Soldier"
+		]
+	},
+	{
+		"id": 29204,
+		"events": [
+			"Shattered Heroes"
+		],
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"id": 39953,
+		"events": [
+			"Shattered Heroes"
+		],
+		"characters": [
+			"Captain America",
+			"Crossbones",
+			"Hulk",
+			"Invisible Woman",
+			"Juggernaut",
+			"Mr. Fantastic",
+			"Sin",
+			"Thing"
+		]
+	},
+	{
+		"id": 24273,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": []
+	},
+	{
+		"id": 21603,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": []
+	},
+	{
+		"id": 21423,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": []
+	},
+	{
+		"id": 21290,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": []
+	},
+	{
+		"id": 21304,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": []
+	},
+	{
+		"id": 21300,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Hulk",
+			"Iron Man",
+			"Rage",
+			"Spider-Man",
+			"The Initiative",
+			"X-Men"
+		]
+	},
+	{
+		"id": 21294,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": []
+	},
+	{
+		"id": 21287,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Hulk"
+		]
+	},
+	{
+		"id": 17452,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Heroes For Hire"
+		]
+	},
+	{
+		"id": 16570,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Hulk"
+		]
+	},
+	{
+		"id": 16449,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Hulk"
+		]
+	},
+	{
+		"id": 16560,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Hulk"
+		]
+	},
+	{
+		"id": 16597,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Hulk"
+		]
+	},
+	{
+		"id": 16514,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Hulk"
+		]
+	},
+	{
+		"id": 16515,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Black Cat",
+			"Colleen Wing",
+			"Heroes For Hire",
+			"Misty Knight",
+			"Shang-Chi",
+			"Tarantula (Luis Alvarez)"
+		]
+	},
+	{
+		"id": 16569,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Hulk",
+			"Sentry (Robert Reynolds)"
+		]
+	},
+	{
+		"id": 16542,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Avengers",
+			"Cloud 9",
+			"Debrii",
+			"Gauntlet (Joseph Green)",
+			"Hardball",
+			"Henry Peter Gyrich",
+			"Justice",
+			"Komodo (Melati Kusuma)",
+			"Rage",
+			"The Initiative"
+		]
+	},
+	{
+		"id": 16596,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Hulk"
+		]
+	},
+	{
+		"id": 16174,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Hulk"
+		]
+	},
+	{
+		"id": 16557,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Black Bolt",
+			"Doctor Strange",
+			"Hulk",
+			"Iron Man",
+			"Mr. Fantastic"
+		]
+	},
+	{
+		"id": 16148,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Heroes For Hire"
+		]
+	},
+	{
+		"id": 16448,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Hulk"
+		]
+	},
+	{
+		"id": 16162,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Avengers",
+			"Cloud 9",
+			"Constrictor",
+			"Hardball",
+			"Hulk",
+			"Komodo (Melati Kusuma)",
+			"Rage",
+			"Spider-Man",
+			"The Initiative",
+			"Thor Girl",
+			"Trauma"
+		]
+	},
+	{
+		"id": 16183,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Colossus",
+			"Cyclops",
+			"Hulk",
+			"Iceman",
+			"Nightcrawler",
+			"Rogue",
+			"X-Men"
+		]
+	},
+	{
+		"id": 16189,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Hulk"
+		]
+	},
+	{
+		"id": 16107,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Hulk"
+		]
+	},
+	{
+		"id": 16173,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Black Bolt",
+			"Captain Marvel (Carol Danvers)",
+			"Cyclops",
+			"Hulk",
+			"Iron Man",
+			"Spider-Man",
+			"Thing",
+			"Tigra (Greer Nelson)",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 16168,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Hulk"
+		]
+	},
+	{
+		"id": 15925,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Archangel",
+			"Hercules",
+			"Hulk",
+			"Namora",
+			"Scorpion (Carmilla Black)"
+		]
+	},
+	{
+		"id": 15963,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Colleen Wing",
+			"Heroes For Hire",
+			"Misty Knight"
+		]
+	},
+	{
+		"id": 15999,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Hulk",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"id": 15942,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Iron Man"
+		]
+	},
+	{
+		"id": 15960,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Ghost Rider (Johnny Blaze)",
+			"Hulk"
+		]
+	},
+	{
+		"id": 15988,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Hulk"
+		]
+	},
+	{
+		"id": 15976,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Avengers",
+			"Gauntlet (Joseph Green)",
+			"Hardball",
+			"Hulk",
+			"Justice",
+			"Komodo (Melati Kusuma)",
+			"Rage",
+			"Slapstick",
+			"The Initiative",
+			"Trauma",
+			"Triathlon"
+		]
+	},
+	{
+		"id": 15984,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Black Panther",
+			"Fantastic Four",
+			"Hulk",
+			"Human Torch",
+			"Invisible Woman",
+			"She-Hulk (Jennifer Walters)",
+			"Spider-Man",
+			"Thing"
+		]
+	},
+	{
+		"id": 16006,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Hulk"
+		]
+	},
+	{
+		"id": 15950,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Ant-Man (Eric O'Grady)",
+			"Hulk"
+		]
+	},
+	{
+		"id": 15889,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Hulk",
+			"Professor X",
+			"X-Men"
+		]
+	},
+	{
+		"id": 15879,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Black Bolt",
+			"Hulk"
+		]
+	},
+	{
+		"id": 15825,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Hulk",
+			"Iron Man"
+		]
+	},
+	{
+		"id": 15807,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Hercules",
+			"Hulk"
+		]
+	},
+	{
+		"id": 15850,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Ghost Rider (Johnny Blaze)",
+			"Hulk"
+		]
+	},
+	{
+		"id": 15853,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Brood",
+			"Heroes For Hire",
+			"Humbug"
+		]
+	},
+	{
+		"id": 15873,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Hulk"
+		]
+	},
+	{
+		"id": 13507,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Hulk"
+		]
+	},
+	{
+		"id": 13426,
+		"events": [
+			"World War Hulk"
+		],
+		"characters": [
+			"Hulk"
+		]
+	},
+	{
+		"id": 36434,
+		"events": [
+			"Age of X"
+		],
+		"characters": [
+			"Gambit",
+			"Legion",
+			"Magneto",
+			"Rogue",
+			"X-Men"
+		]
+	},
+	{
+		"id": 36433,
+		"events": [
+			"Age of X"
+		],
+		"characters": [
+			"Colossus",
+			"Cyclops",
+			"Emma Frost",
+			"Gambit",
+			"Legion",
+			"Magneto",
+			"Pixie",
+			"Professor X",
+			"Rogue",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"id": 38523,
+		"events": [
+			"Age of X"
+		],
+		"characters": [
+			"Avengers",
+			"Magneto (Age of Apocalypse)"
+		]
+	},
+	{
+		"id": 36497,
+		"events": [
+			"Age of X"
+		],
+		"characters": [
+			"Cannonball",
+			"Legion",
+			"Moira MacTaggert",
+			"New Mutants",
+			"Professor X",
+			"X-Men"
+		]
+	},
+	{
+		"id": 36426,
+		"events": [
+			"Age of X"
+		],
+		"characters": [
+			"Beast",
+			"Colossus",
+			"Gambit",
+			"Iceman",
+			"Magneto",
+			"Moira MacTaggert",
+			"Professor X",
+			"Rogue",
+			"Storm",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"id": 38524,
+		"events": [
+			"Age of X"
+		],
+		"characters": [
+			"Captain America",
+			"Colossus",
+			"Cyclops",
+			"Ghost Rider (Johnny Blaze)",
+			"Hulk",
+			"Invisible Woman",
+			"Iron Man",
+			"Rogue"
+		]
+	},
+	{
+		"id": 36502,
+		"events": [
+			"Age of X"
+		],
+		"characters": [
+			"New Mutants"
+		]
+	},
+	{
+		"id": 36437,
+		"events": [
+			"Age of X"
+		],
+		"characters": [
+			"Domino",
+			"Gambit",
+			"Havok",
+			"Magneto",
+			"Rogue",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"id": 36431,
+		"events": [
+			"Age of X"
+		],
+		"characters": [
+			"Gambit",
+			"Jubilee",
+			"Rogue",
+			"Storm",
+			"Sub-Mariner",
+			"X-Men"
+		]
+	},
+	{
+		"id": 36495,
+		"events": [
+			"Age of X"
+		],
+		"characters": [
+			"New Mutants"
+		]
+	},
+	{
+		"id": 37996,
+		"events": [
+			"Age of X"
+		],
+		"characters": [
+			"X-Men"
+		]
+	},
+	{
+		"id": 8308,
+		"events": [
+			"Infinity War"
+		],
+		"characters": [
+			"Calypso",
+			"Daredevil"
+		]
+	},
+	{
+		"id": 18929,
+		"events": [
+			"Infinity War"
+		],
+		"characters": [
+			"Quasar (Phyla-Vell)"
+		]
+	},
+	{
+		"id": 9297,
+		"events": [
+			"Infinity War"
+		],
+		"characters": [
+			"Adam Warlock",
+			"Magus (Adam Warlock)",
+			"Thanos"
+		]
+	},
+	{
+		"id": 20209,
+		"events": [
+			"Infinity War"
+		],
+		"characters": [
+			"Ancient One",
+			"Doctor Strange",
+			"Professor X",
+			"Psylocke",
+			"Scarlet Witch",
+			"Shaman"
+		]
+	},
+	{
+		"id": 18414,
+		"events": [
+			"Infinity War"
+		],
+		"characters": []
+	},
+	{
+		"id": 13195,
+		"events": [
+			"Infinity War"
+		],
+		"characters": [
+			"Adam Warlock",
+			"Avengers",
+			"Fantastic Four",
+			"Galactus",
+			"Hulk",
+			"Human Torch",
+			"Invisible Woman",
+			"Silver Surfer",
+			"Thanos",
+			"Thor",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"id": 18263,
+		"events": [
+			"Infinity War"
+		],
+		"characters": [
+			"Wonder Man"
+		]
+	},
+	{
+		"id": 18927,
+		"events": [
+			"Infinity War"
+		],
+		"characters": [
+			"Quasar (Phyla-Vell)"
+		]
+	},
+	{
+		"id": 18262,
+		"events": [
+			"Infinity War"
+		],
+		"characters": [
+			"Wonder Man"
+		]
+	},
+	{
+		"id": 20208,
+		"events": [
+			"Infinity War"
+		],
+		"characters": [
+			"Professor X",
+			"Psylocke",
+			"Scarlet Witch",
+			"Shaman",
+			"Wong"
+		]
+	},
+	{
+		"id": 9296,
+		"events": [
+			"Infinity War"
+		],
+		"characters": [
+			"Adam Warlock",
+			"Galactus",
+			"Magus (Adam Warlock)",
+			"Thanos"
+		]
+	},
+	{
+		"id": 18454,
+		"events": [
+			"Infinity War"
+		],
+		"characters": []
+	},
+	{
+		"id": 7789,
+		"events": [
+			"Infinity War"
+		],
+		"characters": [
+			"Captain America",
+			"Diamondback (Rachel Leighton)",
+			"Falcon"
+		]
+	},
+	{
+		"id": 13193,
+		"events": [
+			"Infinity War"
+		],
+		"characters": [
+			"Alpha Flight",
+			"Avengers",
+			"Captain America",
+			"Doctor Strange",
+			"Fantastic Four",
+			"Galactus",
+			"Hulk",
+			"Human Torch",
+			"Invisible Woman",
+			"Psylocke",
+			"Puppet Master",
+			"Quasar (Phyla-Vell)",
+			"Silver Surfer",
+			"Thanos",
+			"Uatu The Watcher",
+			"X-Men"
+		]
+	},
+	{
+		"id": 12652,
+		"events": [
+			"Infinity War"
+		],
+		"characters": [
+			"Alpha Flight"
+		]
+	},
+	{
+		"id": 18926,
+		"events": [
+			"Infinity War"
+		],
+		"characters": [
+			"Quasar (Phyla-Vell)"
+		]
+	},
+	{
+		"id": 18261,
+		"events": [
+			"Infinity War"
+		],
+		"characters": [
+			"Wonder Man"
+		]
+	},
+	{
+		"id": 20207,
+		"events": [
+			"Infinity War"
+		],
+		"characters": [
+			"Ancient One",
+			"Death",
+			"Doctor Strange",
+			"Galactus",
+			"Nova",
+			"Silver Surfer"
+		]
+	},
+	{
+		"id": 9295,
+		"events": [
+			"Infinity War"
+		],
+		"characters": [
+			"Adam Warlock",
+			"Magus (Adam Warlock)",
+			"Thanos"
+		]
+	},
+	{
+		"id": 13192,
+		"events": [
+			"Infinity War"
+		],
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Colossus",
+			"Fantastic Four",
+			"Hulk",
+			"Human Torch",
+			"Invisible Woman",
+			"Iron Man",
+			"Namorita",
+			"Sasquatch (Walter Langkowski)",
+			"She-Hulk (Jennifer Walters)",
+			"Thanos",
+			"Thor",
+			"Wasp",
+			"X-Men"
+		]
+	},
+	{
+		"id": 20206,
+		"events": [
+			"Infinity War"
+		],
+		"characters": [
+			"Cyclops",
+			"Galactus",
+			"Juggernaut",
+			"Nova",
+			"Silver Surfer"
+		]
+	},
+	{
+		"id": 10784,
+		"events": [
+			"Infinity War"
+		],
+		"characters": []
+	},
+	{
+		"id": 15207,
+		"events": [
+			"Infinity War"
+		],
+		"characters": [
+			"Silver Surfer"
+		]
+	},
+	{
+		"id": 9294,
+		"events": [
+			"Infinity War"
+		],
+		"characters": [
+			"Adam Warlock",
+			"Galactus",
+			"Magus (Adam Warlock)",
+			"Thanos"
+		]
+	},
+	{
+		"id": 12651,
+		"events": [
+			"Infinity War"
+		],
+		"characters": [
+			"Alpha Flight",
+			"Archangel",
+			"Aurora",
+			"Beast",
+			"Captain America",
+			"Cyclops",
+			"Hulk",
+			"Human Torch",
+			"Northstar",
+			"Professor X",
+			"Puck",
+			"Sasquatch (Walter Langkowski)",
+			"Scarlet Witch",
+			"Shaman",
+			"She-Hulk (Jennifer Walters)",
+			"Talisman (Elizabeth Twoyoungmen)",
+			"Thanos"
+		]
+	},
+	{
+		"id": 10024,
+		"events": [
+			"Infinity War"
+		],
+		"characters": [
+			"Iron Fist (Danny Rand)",
+			"Thanos"
+		]
+	},
+	{
+		"id": 13191,
+		"events": [
+			"Infinity War"
+		],
+		"characters": [
+			"Avengers",
+			"Daredevil",
+			"Fantastic Four",
+			"Hulk",
+			"Human Torch",
+			"Invisible Woman",
+			"Iron Man",
+			"Puppet Master",
+			"Thor",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"id": 10023,
+		"events": [
+			"Infinity War"
+		],
+		"characters": [
+			"Nightcrawler",
+			"Thanos"
+		]
+	},
+	{
+		"id": 15206,
+		"events": [
+			"Infinity War"
+		],
+		"characters": [
+			"Silver Surfer"
+		]
+	},
+	{
+		"id": 9293,
+		"events": [
+			"Infinity War"
+		],
+		"characters": [
+			"Adam Warlock",
+			"Magus (Adam Warlock)",
+			"Thanos"
+		]
+	},
+	{
+		"id": 15205,
+		"events": [
+			"Infinity War"
+		],
+		"characters": [
+			"Silver Surfer"
+		]
+	},
+	{
+		"id": 12650,
+		"events": [
+			"Infinity War"
+		],
+		"characters": [
+			"Alpha Flight",
+			"Aurora",
+			"Black Knight (Sir Percy of Scandia)",
+			"Captain America",
+			"Cyclops",
+			"Hercules",
+			"Hulk",
+			"Northstar",
+			"Puck",
+			"Sasquatch (Walter Langkowski)",
+			"Talisman (Elizabeth Twoyoungmen)"
+		]
+	},
+	{
+		"id": 20205,
+		"events": [
+			"Infinity War"
+		],
+		"characters": [
+			"Clea",
+			"Doctor Strange",
+			"Galactus",
+			"Nova",
+			"Silver Surfer"
+		]
+	},
+	{
+		"id": 10021,
+		"events": [
+			"Infinity War"
+		],
+		"characters": [
+			"Thanos",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 10783,
+		"events": [
+			"Infinity War"
+		],
+		"characters": []
+	},
+	{
+		"id": 13190,
+		"events": [
+			"Infinity War"
+		],
+		"characters": [
+			"Fantastic Four",
+			"Human Torch",
+			"Invisible Woman",
+			"Puppet Master",
+			"Thanos"
+		]
+	},
+	{
+		"id": 10020,
+		"events": [
+			"Infinity War"
+		],
+		"characters": [
+			"Thanos"
+		]
+	},
+	{
+		"id": 20204,
+		"events": [
+			"Infinity War"
+		],
+		"characters": [
+			"Clea",
+			"Galactus",
+			"Nova",
+			"Silver Surfer"
+		]
+	},
+	{
+		"id": 9292,
+		"events": [
+			"Infinity War"
+		],
+		"characters": [
+			"Adam Warlock",
+			"Magus (Adam Warlock)",
+			"Thanos"
+		]
+	},
+	{
+		"id": 17457,
+		"events": [
+			"Infinity War"
+		],
+		"characters": [
+			"Archangel",
+			"Captain America",
+			"Colossus",
+			"Cyclops",
+			"Guardian",
+			"Havok",
+			"Hercules",
+			"Hulk",
+			"Human Torch",
+			"Invisible Woman",
+			"Nova",
+			"Polaris",
+			"Professor X",
+			"Psylocke",
+			"Quasar (Phyla-Vell)",
+			"Rogue",
+			"Sasquatch (Walter Langkowski)",
+			"Scarlet Witch",
+			"Shaman",
+			"She-Hulk (Jennifer Walters)",
+			"Storm",
+			"Vision",
+			"Wolverine",
+			"Wonder Man"
+		]
+	},
+	{
+		"id": 28980,
+		"events": [
+			"Onslaught"
+		],
+		"characters": []
+	},
+	{
+		"id": 23015,
+		"events": [
+			"Onslaught"
+		],
+		"characters": [
+			"Bastion",
+			"Beast",
+			"Bishop",
+			"Blink",
+			"Cable",
+			"Cannonball",
+			"Captain America",
+			"Colossus",
+			"Cyclops",
+			"Doctor Doom",
+			"Fantastic Four",
+			"Gambit",
+			"Holocaust (Age of Apocalypse)",
+			"Human Torch",
+			"Iceman",
+			"Invisible Woman",
+			"Joseph",
+			"Mr. Fantastic",
+			"Post",
+			"Professor X",
+			"Psylocke",
+			"Quicksilver",
+			"Rogue",
+			"Sabretooth",
+			"Storm",
+			"Wolverine",
+			"X-Man",
+			"X-Men"
+		]
+	},
+	{
+		"id": 21813,
+		"events": [
+			"Onslaught"
+		],
+		"characters": [
+			"Apocalypse",
+			"Archangel",
+			"Avengers",
+			"Banshee (Theresa Rourke)",
+			"Bishop",
+			"Black Widow",
+			"Cable",
+			"Caliban",
+			"Cannonball",
+			"Captain America",
+			"Crystal",
+			"Cyclops",
+			"Domino",
+			"Fantastic Four",
+			"Gambit",
+			"Hank Pym",
+			"Hawkeye",
+			"Hulk",
+			"Human Torch",
+			"Iceman",
+			"Invisible Woman",
+			"Iron Man",
+			"Joseph",
+			"Meltdown",
+			"Odin",
+			"Onslaught",
+			"Ozymandias",
+			"Professor X",
+			"Psylocke",
+			"Quicksilver",
+			"Rogue",
+			"Scarlet Witch",
+			"Sentinel",
+			"Shatterstar",
+			"Sunspot",
+			"Thing",
+			"Thor",
+			"Vision",
+			"Warpath",
+			"Wasp",
+			"Wolverine",
+			"X-Force",
+			"X-Man",
+			"X-Men"
+		]
+	},
+	{
+		"id": 21295,
+		"events": [
+			"Onslaught"
+		],
+		"characters": [
+			"Archangel",
+			"Banshee (Theresa Rourke)",
+			"Beast",
+			"Caliban",
+			"Cannonball",
+			"Captain Britain",
+			"Colossus",
+			"Cyclops",
+			"Dum Dum Dugan",
+			"Excalibur",
+			"Forge",
+			"Gateway",
+			"Havok",
+			"Iron Man",
+			"Jean Grey",
+			"Kitty Pryde",
+			"Lockheed",
+			"Magneto",
+			"Meltdown",
+			"Mystique",
+			"Nightcrawler",
+			"Onslaught",
+			"Post",
+			"Professor X",
+			"Psylocke",
+			"Punisher",
+			"Risque",
+			"Sabretooth",
+			"Shard",
+			"Shatterstar",
+			"Spider-Man",
+			"Sunspot",
+			"Warpath",
+			"Wolfsbane",
+			"Wolverine",
+			"X-Force",
+			"X-Man",
+			"X-Men"
+		]
+	},
+	{
+		"id": 17454,
+		"events": [
+			"Onslaught"
+		],
+		"characters": [
+			"Apocalypse",
+			"Archangel",
+			"Avengers",
+			"Banshee (Theresa Rourke)",
+			"Bastion",
+			"Beast",
+			"Bishop",
+			"Cable",
+			"Caliban",
+			"Cannonball",
+			"Colossus",
+			"Cyclops",
+			"Franklin Richards",
+			"Gambit",
+			"Hulk",
+			"Human Torch",
+			"Iceman",
+			"Invisible Woman",
+			"Iron Man",
+			"Jean Grey",
+			"Juggernaut",
+			"Magneto",
+			"Meltdown",
+			"Onslaught",
+			"Ozymandias",
+			"Post",
+			"Professor X",
+			"Psylocke",
+			"Quicksilver",
+			"Risque",
+			"Sabretooth",
+			"Scarlet Witch",
+			"Sentinel",
+			"Shatterstar",
+			"Storm",
+			"Sunspot",
+			"Thor",
+			"Vision",
+			"Warpath",
+			"Wasp",
+			"Wolverine",
+			"X-Force",
+			"X-Man",
+			"X-Men"
+		]
+	},
+	{
+		"id": 23388,
+		"events": [
+			"Onslaught"
+		],
+		"characters": [
+			"Professor X"
+		]
+	},
+	{
+		"id": 10453,
+		"events": [
+			"Onslaught"
+		],
+		"characters": [
+			"Apocalypse",
+			"Bishop",
+			"Black Panther",
+			"Black Widow",
+			"Cable",
+			"Cannonball",
+			"Captain America",
+			"Crystal",
+			"Cyclops",
+			"Doctor Doom",
+			"Falcon",
+			"Gambit",
+			"Hawkeye",
+			"Hulk",
+			"Human Torch",
+			"Iceman",
+			"Invisible Woman",
+			"Iron Man",
+			"Joseph",
+			"Mr. Fantastic",
+			"Onslaught",
+			"Quicksilver",
+			"Rogue",
+			"Scarlet Witch",
+			"Storm",
+			"Thor",
+			"Vision",
+			"Wasp",
+			"Wolverine",
+			"X-Man",
+			"X-Men"
+		]
+	},
+	{
+		"id": 7289,
+		"events": [
+			"Onslaught"
+		],
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"id": 18113,
+		"events": [
+			"Onslaught"
+		],
+		"characters": [
+			"Apocalypse",
+			"Archangel",
+			"Banshee",
+			"Banshee (Theresa Rourke)",
+			"Beast",
+			"Bishop",
+			"Cable",
+			"Caliban",
+			"Colossus",
+			"Cyclops",
+			"Doctor Strange",
+			"Gambit",
+			"Husk",
+			"Iceman",
+			"Jubilee",
+			"Juggernaut",
+			"Onslaught",
+			"Polaris",
+			"Psylocke",
+			"Rogue",
+			"Shatterstar",
+			"Storm",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"id": 14043,
+		"events": [
+			"Onslaught"
+		],
+		"characters": [
+			"Iron Man",
+			"Stick",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 18187,
+		"events": [
+			"Onslaught"
+		],
+		"characters": [
+			"X-Man"
+		]
+	},
+	{
+		"id": 13877,
+		"events": [
+			"Onslaught"
+		],
+		"characters": [
+			"Apocalypse",
+			"Cable",
+			"Captain America",
+			"Cyclops",
+			"Fantastic Four",
+			"Hank Pym",
+			"Hawkeye",
+			"Iceman",
+			"Invisible Woman",
+			"Iron Man",
+			"Joseph",
+			"Onslaught",
+			"Professor X",
+			"Rogue",
+			"Sentinel",
+			"Thing",
+			"Thor",
+			"Vision",
+			"X-Men"
+		]
+	},
+	{
+		"id": 9256,
+		"events": [
+			"Onslaught"
+		],
+		"characters": [
+			"Falcon",
+			"Hawkeye",
+			"Hulk",
+			"Onslaught",
+			"Vision"
+		]
+	},
+	{
+		"id": 6833,
+		"events": [
+			"Onslaught"
+		],
+		"characters": [
+			"J. Jonah Jameson",
+			"Mary Jane Watson",
+			"Onslaught",
+			"Peter Parker",
+			"Sentinels",
+			"Spider-Man (Ben Reilly)"
+		]
+	},
+	{
+		"id": 7410,
+		"events": [
+			"Onslaught"
+		],
+		"characters": [
+			"Apocalypse",
+			"Cable"
+		]
+	},
+	{
+		"id": 22745,
+		"events": [
+			"Onslaught"
+		],
+		"characters": [
+			"Generation X"
+		]
+	},
+	{
+		"id": 9586,
+		"events": [
+			"Onslaught"
+		],
+		"characters": [
+			"Iron Man",
+			"Sentinel"
+		]
+	},
+	{
+		"id": 12204,
+		"events": [
+			"Onslaught"
+		],
+		"characters": [
+			"Beast",
+			"Forge",
+			"Havok",
+			"Mystique",
+			"Sabretooth",
+			"Shard",
+			"X-Men"
+		]
+	},
+	{
+		"id": 10836,
+		"events": [
+			"Onslaught"
+		],
+		"characters": []
+	},
+	{
+		"id": 14346,
+		"events": [
+			"Onslaught"
+		],
+		"characters": [
+			"Blink",
+			"Captain America",
+			"Colossus",
+			"Cyclops",
+			"Doctor Doom",
+			"Holocaust (Age of Apocalypse)",
+			"Invisible Woman",
+			"Joseph",
+			"Mr. Fantastic",
+			"Post",
+			"Rogue",
+			"Sabretooth",
+			"Sentinel",
+			"X-Man",
+			"X-Men"
+		]
+	},
+	{
+		"id": 23910,
+		"events": [
+			"Onslaught"
+		],
+		"characters": []
+	},
+	{
+		"id": 18025,
+		"events": [
+			"Onslaught"
+		],
+		"characters": [
+			"Banshee (Theresa Rourke)",
+			"Caliban",
+			"Domino",
+			"Meltdown",
+			"Onslaught",
+			"Shatterstar",
+			"Sunspot",
+			"Warpath",
+			"X-Force",
+			"X-Men"
+		]
+	},
+	{
+		"id": 23391,
+		"events": [
+			"Onslaught"
+		],
+		"characters": [
+			"Dum Dum Dugan",
+			"Punisher"
+		]
+	},
+	{
+		"id": 13246,
+		"events": [
+			"Onslaught"
+		],
+		"characters": []
+	},
+	{
+		"id": 7409,
+		"events": [
+			"Onslaught"
+		],
+		"characters": [
+			"Cable",
+			"Hulk"
+		]
+	},
+	{
+		"id": 22744,
+		"events": [
+			"Onslaught"
+		],
+		"characters": [
+			"Generation X"
+		]
+	},
+	{
+		"id": 7288,
+		"events": [
+			"Onslaught"
+		],
+		"characters": [
+			"Avengers",
+			"Magneto",
+			"Rogue"
+		]
+	},
+	{
+		"id": 14042,
+		"events": [
+			"Onslaught"
+		],
+		"characters": [
+			"Elektra",
+			"Gateway",
+			"Iron Man",
+			"Magneto",
+			"Professor X",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 18186,
+		"events": [
+			"Onslaught"
+		],
+		"characters": [
+			"Onslaught",
+			"X-Man"
+		]
+	},
+	{
+		"id": 9255,
+		"events": [
+			"Onslaught"
+		],
+		"characters": [
+			"Hulk",
+			"Onslaught"
+		]
+	},
+	{
+		"id": 13876,
+		"events": [
+			"Onslaught"
+		],
+		"characters": [
+			"Apocalypse",
+			"Archangel",
+			"Banshee (Theresa Rourke)",
+			"Bishop",
+			"Cannonball",
+			"Captain America",
+			"Colossus",
+			"Cyclops",
+			"Fantastic Four",
+			"Gambit",
+			"Human Torch",
+			"Iceman",
+			"Invisible Woman",
+			"Iron Man",
+			"Mr. Fantastic",
+			"Onslaught",
+			"Ozymandias",
+			"Psylocke",
+			"Quicksilver",
+			"Red Skull",
+			"Scarlet Witch",
+			"Storm",
+			"Thor",
+			"Wolverine",
+			"X-Man",
+			"X-Men"
+		]
+	},
+	{
+		"id": 20767,
+		"events": [
+			"Onslaught"
+		],
+		"characters": [
+			"Bishop",
+			"Cannonball",
+			"Cyclops",
+			"Franklin Richards",
+			"Gambit",
+			"Human Torch",
+			"Invisible Woman",
+			"Iron Man",
+			"Jean Grey",
+			"Onslaught",
+			"Post",
+			"Psylocke",
+			"Scarlet Witch",
+			"Sentinel",
+			"Storm",
+			"Thor",
+			"Vision",
+			"Wasp",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"id": 13245,
+		"events": [
+			"Onslaught"
+		],
+		"characters": []
+	},
+	{
+		"id": 8564,
+		"events": [
+			"Onslaught"
+		],
+		"characters": [
+			"Archangel",
+			"Cannonball",
+			"Captain Britain",
+			"Colossus",
+			"Cyclops",
+			"Excalibur",
+			"Jean Grey",
+			"Kitty Pryde",
+			"Lockheed",
+			"Nightcrawler",
+			"Onslaught",
+			"Psylocke",
+			"Wolfsbane"
+		]
+	},
+	{
+		"id": 14345,
+		"events": [
+			"Onslaught"
+		],
+		"characters": [
+			"Archangel",
+			"Bishop",
+			"Black Widow",
+			"Cannonball",
+			"Captain America",
+			"Crystal",
+			"Gambit",
+			"Hawkeye",
+			"Human Torch",
+			"Iceman",
+			"Invisible Woman",
+			"Iron Man",
+			"Ozymandias",
+			"Psylocke",
+			"Quicksilver",
+			"Rogue",
+			"Scarlet Witch",
+			"Thor",
+			"Vision",
+			"Wasp",
+			"X-Men"
+		]
+	},
+	{
+		"id": 12203,
+		"events": [
+			"Onslaught"
+		],
+		"characters": [
+			"Beast",
+			"Forge",
+			"Havok",
+			"Mystique",
+			"Onslaught",
+			"Post",
+			"Sabretooth",
+			"Shard",
+			"X-Men"
+		]
+	},
+	{
+		"id": 18024,
+		"events": [
+			"Onslaught"
+		],
+		"characters": [
+			"Banshee (Theresa Rourke)",
+			"Caliban",
+			"Meltdown",
+			"Mister Sinister",
+			"Risque",
+			"Shatterstar",
+			"Sunspot",
+			"Warpath",
+			"X-Force",
+			"X-Man",
+			"X-Men"
+		]
+	},
+	{
+		"id": 17487,
+		"events": [
+			"Onslaught"
+		],
+		"characters": [
+			"Apocalypse",
+			"Bishop",
+			"Black Panther",
+			"Black Widow",
+			"Cable",
+			"Cannonball",
+			"Captain America",
+			"Crystal",
+			"Cyclops",
+			"Doctor Doom",
+			"Falcon",
+			"Gambit",
+			"Hawkeye",
+			"Hulk",
+			"Human Torch",
+			"Iceman",
+			"Invisible Woman",
+			"Iron Man",
+			"Joseph",
+			"Mr. Fantastic",
+			"Onslaught",
+			"Quicksilver",
+			"Rogue",
+			"Scarlet Witch",
+			"Storm",
+			"Thor",
+			"Vision",
+			"Wasp",
+			"Wolverine",
+			"X-Man",
+			"X-Men"
+		]
+	},
+	{
+		"id": 29500,
+		"events": [
+			"X-Men: Second Coming"
+		],
+		"characters": []
+	},
+	{
+		"id": 37369,
+		"events": [
+			"X-Men: Second Coming"
+		],
+		"characters": []
+	},
+	{
+		"id": 29519,
+		"events": [
+			"X-Men: Second Coming"
+		],
+		"characters": []
+	},
+	{
+		"id": 33909,
+		"events": [
+			"X-Men: Second Coming"
+		],
+		"characters": []
+	},
+	{
+		"id": 33166,
+		"events": [
+			"X-Men: Second Coming"
+		],
+		"characters": []
+	},
+	{
+		"id": 32991,
+		"events": [
+			"X-Men: Second Coming"
+		],
+		"characters": [
+			"Cannonball",
+			"Dazzler",
+			"Gambit",
+			"Magik (Illyana Rasputin)",
+			"Northstar",
+			"Pixie"
+		]
+	},
+	{
+		"id": 30674,
+		"events": [
+			"X-Men: Second Coming"
+		],
+		"characters": [
+			"X-Force",
+			"X-Men"
+		]
+	},
+	{
+		"id": 30661,
+		"events": [
+			"X-Men: Second Coming"
+		],
+		"characters": [
+			"X-Men"
+		]
+	},
+	{
+		"id": 30704,
+		"events": [
+			"X-Men: Second Coming"
+		],
+		"characters": [
+			"Cyclops",
+			"Domino",
+			"Rogue",
+			"Sentinel",
+			"Storm",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"id": 30487,
+		"events": [
+			"X-Men: Second Coming"
+		],
+		"characters": [
+			"New Mutants"
+		]
+	},
+	{
+		"id": 32988,
+		"events": [
+			"X-Men: Second Coming"
+		],
+		"characters": [
+			"Cannonball",
+			"Dazzler",
+			"Gambit",
+			"Magik (Illyana Rasputin)",
+			"Northstar",
+			"Pixie",
+			"X-Men"
+		]
+	},
+	{
+		"id": 30622,
+		"events": [
+			"X-Men: Second Coming"
+		],
+		"characters": [
+			"X-Men"
+		]
+	},
+	{
+		"id": 32984,
+		"events": [
+			"X-Men: Second Coming"
+		],
+		"characters": [
+			"Bastion",
+			"X-Men"
+		]
+	},
+	{
+		"id": 30673,
+		"events": [
+			"X-Men: Second Coming"
+		],
+		"characters": [
+			"X-Force",
+			"X-Men"
+		]
+	},
+	{
+		"id": 30703,
+		"events": [
+			"X-Men: Second Coming"
+		],
+		"characters": [
+			"Avengers",
+			"Colossus",
+			"Cyclops",
+			"Emma Frost",
+			"Iceman",
+			"Rogue",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"id": 30660,
+		"events": [
+			"X-Men: Second Coming"
+		],
+		"characters": [
+			"X-Men"
+		]
+	},
+	{
+		"id": 30486,
+		"events": [
+			"X-Men: Second Coming"
+		],
+		"characters": [
+			"New Mutants"
+		]
+	},
+	{
+		"id": 32987,
+		"events": [
+			"X-Men: Second Coming"
+		],
+		"characters": [
+			"Magik (Illyana Rasputin)",
+			"X-Men"
+		]
+	},
+	{
+		"id": 30621,
+		"events": [
+			"X-Men: Second Coming"
+		],
+		"characters": [
+			"X-Men"
+		]
+	},
+	{
+		"id": 32583,
+		"events": [
+			"X-Men: Second Coming"
+		],
+		"characters": [
+			"X-Force",
+			"X-Men"
+		]
+	},
+	{
+		"id": 32571,
+		"events": [
+			"X-Men: Second Coming"
+		],
+		"characters": [
+			"X-Men"
+		]
+	},
+	{
+		"id": 32598,
+		"events": [
+			"X-Men: Second Coming"
+		],
+		"characters": [
+			"Cyclops",
+			"Nightcrawler",
+			"Psylocke",
+			"Rogue",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"id": 32552,
+		"events": [
+			"X-Men: Second Coming"
+		],
+		"characters": [
+			"New Mutants"
+		]
+	},
+	{
+		"id": 32564,
+		"events": [
+			"X-Men: Second Coming"
+		],
+		"characters": [
+			"X-Men"
+		]
+	},
+	{
+		"id": 30274,
+		"events": [
+			"X-Men: Second Coming"
+		],
+		"characters": [
+			"Bastion",
+			"Cable",
+			"Cyclops",
+			"Hope Summers",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"id": 33554,
+		"events": [
+			"X-Men: Second Coming"
+		],
+		"characters": []
+	},
+	{
+		"id": 29512,
+		"events": [
+			"Inferno"
+		],
+		"characters": []
+	},
+	{
+		"id": 24100,
+		"events": [
+			"Inferno"
+		],
+		"characters": []
+	},
+	{
+		"id": 8257,
+		"events": [
+			"Inferno"
+		],
+		"characters": [
+			"Daredevil"
+		]
+	},
+	{
+		"id": 12256,
+		"events": [
+			"Inferno"
+		],
+		"characters": [
+			"Archangel",
+			"Beast",
+			"Colossus",
+			"Dazzler",
+			"Havok",
+			"Iceman",
+			"Longshot",
+			"Psylocke",
+			"Rogue",
+			"Sabretooth",
+			"Wolverine",
+			"X-Factor",
+			"X-Men"
+		]
+	},
+	{
+		"id": 13784,
+		"events": [
+			"Inferno"
+		],
+		"characters": [
+			"Archangel",
+			"Beast",
+			"Blockbuster",
+			"Colossus",
+			"Cyclops",
+			"Dazzler",
+			"Havok",
+			"Iceman",
+			"Juggernaut",
+			"Longshot",
+			"Mister Sinister",
+			"Psylocke",
+			"Rogue",
+			"Storm",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"id": 8654,
+		"events": [
+			"Inferno"
+		],
+		"characters": [
+			"Excalibur"
+		]
+	},
+	{
+		"id": 12255,
+		"events": [
+			"Inferno"
+		],
+		"characters": [
+			"Archangel",
+			"Beast",
+			"Colossus",
+			"Cyclops",
+			"Dazzler",
+			"Goblin Queen",
+			"Harpoon",
+			"Havok",
+			"Iceman",
+			"Longshot",
+			"Prism",
+			"Psylocke",
+			"Rogue",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"id": 10414,
+		"events": [
+			"Inferno"
+		],
+		"characters": [
+			"New Mutants"
+		]
+	},
+	{
+		"id": 12045,
+		"events": [
+			"Inferno"
+		],
+		"characters": [
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 13783,
+		"events": [
+			"Inferno"
+		],
+		"characters": [
+			"Archangel",
+			"Beast",
+			"Colossus",
+			"Cyclops",
+			"Dazzler",
+			"Havok",
+			"Iceman",
+			"Longshot",
+			"Psylocke",
+			"Rogue",
+			"Storm",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"id": 13144,
+		"events": [
+			"Inferno"
+		],
+		"characters": [
+			"Captain Marvel (Carol Danvers)",
+			"Fantastic Four",
+			"Human Torch",
+			"Kang",
+			"Silver Surfer",
+			"Thing"
+		]
+	},
+	{
+		"id": 6720,
+		"events": [
+			"Inferno"
+		],
+		"characters": [
+			"Curt Conners",
+			"Lizard",
+			"Mary Jane Watson",
+			"May Parker",
+			"Peter Parker",
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 8643,
+		"events": [
+			"Inferno"
+		],
+		"characters": [
+			"Excalibur"
+		]
+	},
+	{
+		"id": 13782,
+		"events": [
+			"Inferno"
+		],
+		"characters": [
+			"Colossus",
+			"Dazzler",
+			"Goblin Queen",
+			"Harpoon",
+			"Havok",
+			"Longshot",
+			"Prism",
+			"Professor X",
+			"Psylocke",
+			"Riptide",
+			"Rogue",
+			"Vertigo (Savage Land Mutate)",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"id": 6719,
+		"events": [
+			"Inferno"
+		],
+		"characters": [
+			"Curt Conners",
+			"Green Goblin (Harry Osborn)",
+			"Harry Osborn",
+			"Hobgoblin (Jason Macendale)",
+			"J. Jonah Jameson",
+			"Lizard",
+			"Mary Jane Watson",
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 7176,
+		"events": [
+			"Inferno"
+		],
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Fantastic Four",
+			"Forgotten One",
+			"Invisible Woman",
+			"Thor"
+		]
+	},
+	{
+		"id": 10413,
+		"events": [
+			"Inferno"
+		],
+		"characters": [
+			"New Mutants"
+		]
+	},
+	{
+		"id": 8255,
+		"events": [
+			"Inferno"
+		],
+		"characters": [
+			"Daredevil"
+		]
+	},
+	{
+		"id": 12254,
+		"events": [
+			"Inferno"
+		],
+		"characters": [
+			"Archangel",
+			"Beast",
+			"Iceman",
+			"X-Factor",
+			"X-Men"
+		]
+	},
+	{
+		"id": 12044,
+		"events": [
+			"Inferno"
+		],
+		"characters": [
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 13143,
+		"events": [
+			"Inferno"
+		],
+		"characters": [
+			"Captain Marvel (Carol Danvers)",
+			"Dragon Man",
+			"Fantastic Four",
+			"Human Torch",
+			"Kang",
+			"Thing"
+		]
+	},
+	{
+		"id": 43043,
+		"events": [
+			"Inferno"
+		],
+		"characters": []
+	},
+	{
+		"id": 13142,
+		"events": [
+			"Inferno"
+		],
+		"characters": [
+			"Captain Marvel (Carol Danvers)",
+			"Dragon Man",
+			"Fantastic Four",
+			"Human Torch",
+			"Thing"
+		]
+	},
+	{
+		"id": 10412,
+		"events": [
+			"Inferno"
+		],
+		"characters": [
+			"New Mutants"
+		]
+	},
+	{
+		"id": 8254,
+		"events": [
+			"Inferno"
+		],
+		"characters": [
+			"Daredevil"
+		]
+	},
+	{
+		"id": 43042,
+		"events": [
+			"Inferno"
+		],
+		"characters": []
+	},
+	{
+		"id": 12253,
+		"events": [
+			"Inferno"
+		],
+		"characters": [
+			"Archangel",
+			"Beast",
+			"Iceman",
+			"X-Factor",
+			"X-Men"
+		]
+	},
+	{
+		"id": 6718,
+		"events": [
+			"Inferno"
+		],
+		"characters": [
+			"Curt Conners",
+			"Harry Osborn",
+			"Liz Osborn",
+			"Mary Jane Watson",
+			"Mysterio",
+			"Peter Parker",
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 7173,
+		"events": [
+			"Inferno"
+		],
+		"characters": [
+			"Avengers",
+			"Fantastic Four",
+			"Orphan-Maker"
+		]
+	},
+	{
+		"id": 13781,
+		"events": [
+			"Inferno"
+		],
+		"characters": [
+			"Arclight",
+			"Blockbuster",
+			"Colossus",
+			"Dazzler",
+			"Goblin Queen",
+			"Harpoon",
+			"Havok",
+			"Longshot",
+			"Mister Sinister",
+			"Prism",
+			"Psylocke",
+			"Rogue",
+			"Sabretooth",
+			"Vertigo (Savage Land Mutate)",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"id": 13780,
+		"events": [
+			"Inferno"
+		],
+		"characters": [
+			"Colossus",
+			"Dazzler",
+			"Goblin Queen",
+			"Havok",
+			"Longshot",
+			"Mister Sinister",
+			"Psylocke",
+			"Rogue",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"id": 12252,
+		"events": [
+			"Inferno"
+		],
+		"characters": [
+			"Beast",
+			"Cyclops",
+			"Iceman",
+			"X-Men"
+		]
+	},
+	{
+		"id": 7172,
+		"events": [
+			"Inferno"
+		],
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Edwin Jarvis",
+			"Thor"
+		]
+	},
+	{
+		"id": 43041,
+		"events": [
+			"Inferno"
+		],
+		"characters": []
+	},
+	{
+		"id": 41566,
+		"events": [
+			"Inferno"
+		],
+		"characters": []
+	},
+	{
+		"id": 41565,
+		"events": [
+			"Inferno"
+		],
+		"characters": []
+	},
+	{
+		"id": 41564,
+		"events": [
+			"Inferno"
+		],
+		"characters": []
+	},
+	{
+		"id": 41563,
+		"events": [
+			"Inferno"
+		],
+		"characters": []
+	},
+	{
+		"id": 24120,
+		"events": [
+			"Inferno"
+		],
+		"characters": []
+	},
+	{
+		"id": 29419,
+		"events": [
+			"Siege"
+		],
+		"characters": []
+	},
+	{
+		"id": 30927,
+		"events": [
+			"Siege"
+		],
+		"characters": []
+	},
+	{
+		"id": 30843,
+		"events": [
+			"Siege"
+		],
+		"characters": []
+	},
+	{
+		"id": 30926,
+		"events": [
+			"Siege"
+		],
+		"characters": []
+	},
+	{
+		"id": 30842,
+		"events": [
+			"Siege"
+		],
+		"characters": []
+	},
+	{
+		"id": 29418,
+		"events": [
+			"Siege"
+		],
+		"characters": []
+	},
+	{
+		"id": 33432,
+		"events": [
+			"Siege"
+		],
+		"characters": []
+	},
+	{
+		"id": 30975,
+		"events": [
+			"Siege"
+		],
+		"characters": []
+	},
+	{
+		"id": 30817,
+		"events": [
+			"Siege"
+		],
+		"characters": []
+	},
+	{
+		"id": 30794,
+		"events": [
+			"Siege"
+		],
+		"characters": []
+	},
+	{
+		"id": 30983,
+		"events": [
+			"Siege"
+		],
+		"characters": []
+	},
+	{
+		"id": 30980,
+		"events": [
+			"Siege"
+		],
+		"characters": []
+	},
+	{
+		"id": 30974,
+		"events": [
+			"Siege"
+		],
+		"characters": []
+	},
+	{
+		"id": 30572,
+		"events": [
+			"Siege"
+		],
+		"characters": [
+			"Thor"
+		]
+	},
+	{
+		"id": 30195,
+		"events": [
+			"Siege"
+		],
+		"characters": []
+	},
+	{
+		"id": 35053,
+		"events": [
+			"Siege"
+		],
+		"characters": [
+			"Fantastic Four",
+			"Sentry (Robert Reynolds)"
+		]
+	},
+	{
+		"id": 30471,
+		"events": [
+			"Siege"
+		],
+		"characters": []
+	},
+	{
+		"id": 31473,
+		"events": [
+			"Siege"
+		],
+		"characters": []
+	},
+	{
+		"id": 29931,
+		"events": [
+			"Siege"
+		],
+		"characters": [
+			"Bengal",
+			"Captain America",
+			"Constrictor",
+			"Diamondback (Rachel Leighton)",
+			"Gauntlet (Joseph Green)",
+			"Justice",
+			"Madame Masque",
+			"Norman Osborn",
+			"Penance (Robert Baldwin)",
+			"Rage",
+			"Sentry (Robert Reynolds)",
+			"Slapstick",
+			"Taskmaster",
+			"Thor",
+			"Tigra (Greer Nelson)"
+		]
+	},
+	{
+		"id": 29933,
+		"events": [
+			"Siege"
+		],
+		"characters": [
+			"Dark Avengers"
+		]
+	},
+	{
+		"id": 29944,
+		"events": [
+			"Siege"
+		],
+		"characters": [
+			"Madame Masque",
+			"Norman Osborn",
+			"The Hood"
+		]
+	},
+	{
+		"id": 30571,
+		"events": [
+			"Siege"
+		],
+		"characters": [
+			"Thor"
+		]
+	},
+	{
+		"id": 32930,
+		"events": [
+			"Siege"
+		],
+		"characters": [
+			"Nick Fury"
+		]
+	},
+	{
+		"id": 29862,
+		"events": [
+			"Siege"
+		],
+		"characters": [
+			"Thunderbolts"
+		]
+	},
+	{
+		"id": 29939,
+		"events": [
+			"Siege"
+		],
+		"characters": [
+			"Amadeus Cho",
+			"Avengers",
+			"Hank Pym",
+			"Jocasta",
+			"Quicksilver",
+			"Stature",
+			"U.S. Agent",
+			"Ultron",
+			"Vision"
+		]
+	},
+	{
+		"id": 32935,
+		"events": [
+			"Siege"
+		],
+		"characters": [
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 32938,
+		"events": [
+			"Siege"
+		],
+		"characters": [
+			"Hawkeye (Kate Bishop)",
+			"Hulkling",
+			"Wiccan",
+			"Young Avengers"
+		]
+	},
+	{
+		"id": 32926,
+		"events": [
+			"Siege"
+		],
+		"characters": [
+			"Loki"
+		]
+	},
+	{
+		"id": 32923,
+		"events": [
+			"Siege"
+		],
+		"characters": [
+			"Captain America",
+			"Winter Soldier"
+		]
+	},
+	{
+		"id": 30484,
+		"events": [
+			"Siege"
+		],
+		"characters": [
+			"New Mutants"
+		]
+	},
+	{
+		"id": 30384,
+		"events": [
+			"Siege"
+		],
+		"characters": []
+	},
+	{
+		"id": 29817,
+		"events": [
+			"Siege"
+		],
+		"characters": [
+			"Bengal",
+			"Captain America",
+			"Constrictor",
+			"Diamondback (Rachel Leighton)",
+			"Justice",
+			"Norman Osborn",
+			"Penance (Robert Baldwin)",
+			"Rage",
+			"Sentry (Robert Reynolds)",
+			"Slapstick",
+			"Taskmaster",
+			"Tigra (Greer Nelson)"
+		]
+	},
+	{
+		"id": 29289,
+		"events": [
+			"Siege"
+		],
+		"characters": [
+			"Amadeus Cho",
+			"Edwin Jarvis",
+			"Hank Pym",
+			"Jocasta",
+			"Stature",
+			"U.S. Agent",
+			"Ultron",
+			"Vision"
+		]
+	},
+	{
+		"id": 29018,
+		"events": [
+			"Siege"
+		],
+		"characters": [
+			"Jessica Jones",
+			"Luke Cage",
+			"Mockingbird"
+		]
+	},
+	{
+		"id": 30570,
+		"events": [
+			"Siege"
+		],
+		"characters": [
+			"Thor"
+		]
+	},
+	{
+		"id": 29835,
+		"events": [
+			"Siege"
+		],
+		"characters": [
+			"Thunderbolts"
+		]
+	},
+	{
+		"id": 29596,
+		"events": [
+			"Siege"
+		],
+		"characters": [
+			"Dark Avengers"
+		]
+	},
+	{
+		"id": 30194,
+		"events": [
+			"Siege"
+		],
+		"characters": []
+	},
+	{
+		"id": 30470,
+		"events": [
+			"Siege"
+		],
+		"characters": [
+			"Captain America"
+		]
+	},
+	{
+		"id": 29288,
+		"events": [
+			"Siege"
+		],
+		"characters": [
+			"Amadeus Cho",
+			"Edwin Jarvis",
+			"Hank Pym",
+			"Hercules",
+			"Jocasta",
+			"Loki",
+			"Quicksilver",
+			"Stature",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"id": 26694,
+		"events": [
+			"Siege"
+		],
+		"characters": [
+			"Thor"
+		]
+	},
+	{
+		"id": 24926,
+		"events": [
+			"Siege"
+		],
+		"characters": []
+	},
+	{
+		"id": 29834,
+		"events": [
+			"Siege"
+		],
+		"characters": [
+			"Ant-Man (Eric O'Grady)",
+			"Stature",
+			"Thunderbolts"
+		]
+	},
+	{
+		"id": 29816,
+		"events": [
+			"Siege"
+		],
+		"characters": [
+			"Gauntlet (Joseph Green)",
+			"Justice",
+			"Norman Osborn",
+			"Rage",
+			"Taskmaster",
+			"Thor",
+			"Tigra (Greer Nelson)"
+		]
+	},
+	{
+		"id": 29017,
+		"events": [
+			"Siege"
+		],
+		"characters": [
+			"Luke Cage",
+			"Nick Fury",
+			"Spider-Man",
+			"Spider-Woman (Jessica Drew)",
+			"Steve Rogers"
+		]
+	},
+	{
+		"id": 29595,
+		"events": [
+			"Siege"
+		],
+		"characters": [
+			"Dark Avengers"
+		]
+	},
+	{
+		"id": 31567,
+		"events": [
+			"Siege"
+		],
+		"characters": [
+			"Dark Avengers"
+		]
+	},
+	{
+		"id": 30469,
+		"events": [
+			"Siege"
+		],
+		"characters": []
+	},
+	{
+		"id": 30193,
+		"events": [
+			"Siege"
+		],
+		"characters": []
+	},
+	{
+		"id": 27549,
+		"events": [
+			"Siege"
+		],
+		"characters": [
+			"Constrictor",
+			"Diamondback (Rachel Leighton)",
+			"Justice",
+			"Norman Osborn",
+			"Taskmaster",
+			"Thor",
+			"Tigra (Greer Nelson)"
+		]
+	},
+	{
+		"id": 29016,
+		"events": [
+			"Siege"
+		],
+		"characters": [
+			"Mandrill",
+			"Spider-Man",
+			"Spider-Woman (Jessica Drew)",
+			"Steve Rogers",
+			"The Hood"
+		]
+	},
+	{
+		"id": 25887,
+		"events": [
+			"Siege"
+		],
+		"characters": []
+	},
+	{
+		"id": 29594,
+		"events": [
+			"Siege"
+		],
+		"characters": [
+			"Dark Avengers"
+		]
+	},
+	{
+		"id": 25977,
+		"events": [
+			"Siege"
+		],
+		"characters": [
+			"Absorbing Man",
+			"Amadeus Cho",
+			"Dark Avengers",
+			"Hank Pym",
+			"Hercules",
+			"Jocasta",
+			"Loki",
+			"Norman Osborn",
+			"Quicksilver",
+			"Stature",
+			"U.S. Agent",
+			"Vision"
+		]
+	},
+	{
+		"id": 24925,
+		"events": [
+			"Siege"
+		],
+		"characters": []
+	},
+	{
+		"id": 30192,
+		"events": [
+			"Siege"
+		],
+		"characters": []
+	},
+	{
+		"id": 30468,
+		"events": [
+			"Siege"
+		],
+		"characters": []
+	},
+	{
+		"id": 29832,
+		"events": [
+			"Siege"
+		],
+		"characters": []
+	},
+	{
+		"id": 29929,
+		"events": [
+			"Siege"
+		],
+		"characters": []
+	},
+	{
+		"id": 27548,
+		"events": [
+			"Siege"
+		],
+		"characters": [
+			"Constrictor",
+			"Diamondback (Rachel Leighton)",
+			"Justice",
+			"Norman Osborn",
+			"Penance (Robert Baldwin)",
+			"Taskmaster",
+			"Tigra (Greer Nelson)"
+		]
+	},
+	{
+		"id": 25976,
+		"events": [
+			"Siege"
+		],
+		"characters": [
+			"Absorbing Man",
+			"Amadeus Cho",
+			"Dark Avengers",
+			"Edwin Jarvis",
+			"Hank Pym",
+			"Hercules",
+			"Jocasta",
+			"Loki",
+			"Norman Osborn",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Stature",
+			"U.S. Agent",
+			"Vision"
+		]
+	},
+	{
+		"id": 26024,
+		"events": [
+			"Siege"
+		],
+		"characters": [
+			"Avengers",
+			"Dark Avengers",
+			"Hawkeye",
+			"Jessica Jones",
+			"Mockingbird",
+			"Spider-Man",
+			"Spider-Woman (Jessica Drew)"
+		]
+	},
+	{
+		"id": 24809,
+		"events": [
+			"Siege"
+		],
+		"characters": []
+	},
+	{
+		"id": 28078,
+		"events": [
+			"Siege"
+		],
+		"characters": []
+	},
+	{
+		"id": 27420,
+		"events": [
+			"Siege"
+		],
+		"characters": []
+	},
+	{
+		"id": 26500,
+		"events": [
+			"Dark Reign",
+			"Siege"
+		],
+		"characters": []
+	},
+	{
+		"id": 24059,
+		"events": [
+			"Dark Reign",
+			"Siege"
+		],
+		"characters": []
+	},
+	{
+		"id": 23175,
+		"events": [
+			"Dark Reign",
+			"Siege"
+		],
+		"characters": [
+			"Dark Avengers",
+			"Marvel Boy",
+			"Moonstone",
+			"Norman Osborn"
+		]
+	},
+	{
+		"id": 37633,
+		"events": [
+			"Chaos War"
+		],
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Black Widow",
+			"Captain America",
+			"Captain Marvel (Mar-Vell)",
+			"Deathcry",
+			"Iron Man",
+			"Luke Cage",
+			"Spider-Man",
+			"Swordsman",
+			"Thor",
+			"Winter Soldier",
+			"Wolverine",
+			"Yellowjacket (Rita DeMara)"
+		]
+	},
+	{
+		"id": 36576,
+		"events": [
+			"Chaos War"
+		],
+		"characters": [
+			"Hercules",
+			"Thor",
+			"X-Men"
+		]
+	},
+	{
+		"id": 37882,
+		"events": [
+			"Chaos War"
+		],
+		"characters": [
+			"X-Men"
+		]
+	},
+	{
+		"id": 36278,
+		"events": [
+			"Chaos War"
+		],
+		"characters": []
+	},
+	{
+		"id": 34021,
+		"events": [
+			"Chaos War"
+		],
+		"characters": [
+			"Hulk"
+		]
+	},
+	{
+		"id": 37084,
+		"events": [
+			"Chaos War"
+		],
+		"characters": [
+			"Avengers",
+			"Captain Marvel (Mar-Vell)",
+			"Swordsman"
+		]
+	},
+	{
+		"id": 37881,
+		"events": [
+			"Chaos War"
+		],
+		"characters": [
+			"Banshee",
+			"Multiple Man",
+			"Stepford Cuckoos",
+			"Thunderbird (John Proudstar)"
+		]
+	},
+	{
+		"id": 37085,
+		"events": [
+			"Chaos War"
+		],
+		"characters": [
+			"Captain Marvel (Mar-Vell)",
+			"Deathbird",
+			"Grim Reaper",
+			"Swordsman (Jaques Duquesne)",
+			"Vision",
+			"Yellowjacket (Rita DeMara)"
+		]
+	},
+	{
+		"id": 34050,
+		"events": [
+			"Chaos War"
+		],
+		"characters": [
+			"Abomination (Emil Blonsky)",
+			"Doctor Strange",
+			"Hulk"
+		]
+	},
+	{
+		"id": 34523,
+		"events": [
+			"Chaos War"
+		],
+		"characters": []
+	},
+	{
+		"id": 37060,
+		"events": [
+			"Chaos War"
+		],
+		"characters": [
+			"Thor"
+		]
+	},
+	{
+		"id": 37066,
+		"events": [
+			"Chaos War"
+		],
+		"characters": [
+			"Ares",
+			"Hawkeye",
+			"Sentry (Robert Reynolds)",
+			"Venom (Mac Gargan)"
+		]
+	},
+	{
+		"id": 31236,
+		"events": [
+			"Chaos War"
+		],
+		"characters": [
+			"Abomination (Emil Blonsky)",
+			"Doctor Strange",
+			"Hulk",
+			"Korg",
+			"Red She-Hulk",
+			"Rick Jones"
+		]
+	},
+	{
+		"id": 37065,
+		"events": [
+			"Chaos War"
+		],
+		"characters": []
+	},
+	{
+		"id": 37067,
+		"events": [
+			"Chaos War"
+		],
+		"characters": [
+			"Aurora",
+			"Northstar",
+			"Snowbird"
+		]
+	},
+	{
+		"id": 37064,
+		"events": [
+			"Chaos War"
+		],
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Black Widow",
+			"Captain America",
+			"Captain Marvel (Mar-Vell)",
+			"Deathcry",
+			"Iron Man",
+			"Luke Cage",
+			"Spider-Man",
+			"Swordsman",
+			"Thor",
+			"Vision",
+			"Winter Soldier",
+			"Wolverine",
+			"Yellowjacket (Rita DeMara)"
+		]
+	},
+	{
+		"id": 37068,
+		"events": [
+			"Chaos War"
+		],
+		"characters": [
+			"Fantastic Four",
+			"Human Torch",
+			"Invisible Woman",
+			"Mr. Fantastic",
+			"Thing"
+		]
+	},
+	{
+		"id": 37062,
+		"events": [
+			"Chaos War"
+		],
+		"characters": []
+	},
+	{
+		"id": 34535,
+		"events": [
+			"Chaos War"
+		],
+		"characters": [
+			"Thor",
+			"Venus (Siren)"
+		]
+	},
+	{
+		"id": 36280,
+		"events": [
+			"Chaos War"
+		],
+		"characters": []
+	},
+	{
+		"id": 34517,
+		"events": [
+			"Chaos War"
+		],
+		"characters": []
+	},
+	{
+		"id": 50978,
+		"events": [
+			"Original Sin"
+		],
+		"characters": [
+			"Guardians of the Galaxy",
+			"Thanos"
+		]
+	},
+	{
+		"id": 50967,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 48638,
+		"events": [
+			"Original Sin"
+		],
+		"characters": [
+			"Guardians of the Galaxy",
+			"Thanos"
+		]
+	},
+	{
+		"id": 50928,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 48622,
+		"events": [
+			"Original Sin"
+		],
+		"characters": [
+			"Deadpool"
+		]
+	},
+	{
+		"id": 48683,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 49530,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 50771,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 48637,
+		"events": [
+			"Original Sin"
+		],
+		"characters": [
+			"Guardians of the Galaxy",
+			"Thanos"
+		]
+	},
+	{
+		"id": 49526,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 48388,
+		"events": [
+			"Original Sin"
+		],
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"id": 50927,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 49037,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 50941,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 48800,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 45804,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 48621,
+		"events": [
+			"Original Sin"
+		],
+		"characters": [
+			"Deadpool"
+		]
+	},
+	{
+		"id": 50770,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 50926,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 50925,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 50895,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 48387,
+		"events": [
+			"Original Sin"
+		],
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"id": 48682,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 48327,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 49036,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 45803,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 48620,
+		"events": [
+			"Original Sin"
+		],
+		"characters": [
+			"Deadpool"
+		]
+	},
+	{
+		"id": 50893,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 50892,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 48681,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 49522,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 48799,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 50891,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 50769,
+		"events": [
+			"Original Sin"
+		],
+		"characters": [
+			"Ant-Man (Eric O'Grady)"
+		]
+	},
+	{
+		"id": 48619,
+		"events": [
+			"Original Sin"
+		],
+		"characters": [
+			"Deadpool"
+		]
+	},
+	{
+		"id": 50889,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 50888,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 48386,
+		"events": [
+			"Original Sin"
+		],
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"id": 48360,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 50852,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 49518,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 50768,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 50850,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 50848,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 48385,
+		"events": [
+			"Original Sin"
+		],
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"id": 49512,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 50767,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 48798,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 50847,
+		"events": [
+			"Original Sin"
+		],
+		"characters": [
+			"Deathlok"
+		]
+	},
+	{
+		"id": 48359,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 48618,
+		"events": [
+			"Original Sin"
+		],
+		"characters": [
+			"Dazzler",
+			"Deadpool"
+		]
+	},
+	{
+		"id": 48326,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 49505,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 50766,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 50851,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 48325,
+		"events": [
+			"Original Sin"
+		],
+		"characters": [
+			"Blue Marvel"
+		]
+	},
+	{
+		"id": 48384,
+		"events": [
+			"Original Sin"
+		],
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"id": 48617,
+		"events": [
+			"Original Sin"
+		],
+		"characters": [
+			"Deadpool"
+		]
+	},
+	{
+		"id": 49498,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 50765,
+		"events": [
+			"Original Sin"
+		],
+		"characters": [
+			"Black Panther"
+		]
+	},
+	{
+		"id": 48383,
+		"events": [
+			"Original Sin"
+		],
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"id": 50764,
+		"events": [
+			"Original Sin"
+		],
+		"characters": [
+			"Nick Fury"
+		]
+	},
+	{
+		"id": 50744,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 49491,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 50642,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 46100,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 46099,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 46098,
+		"events": [
+			"Original Sin"
+		],
+		"characters": []
+	},
+	{
+		"id": 23684,
+		"events": [
+			"Secret Wars II"
+		],
+		"characters": []
+	},
+	{
+		"id": 23702,
+		"events": [
+			"Secret Wars II"
+		],
+		"characters": []
+	},
+	{
+		"id": 7137,
+		"events": [
+			"Secret Wars II"
+		],
+		"characters": [
+			"Avengers",
+			"Fantastic Four",
+			"Hercules",
+			"Molecule Man",
+			"Namor",
+			"Silver Surfer"
+		]
+	},
+	{
+		"id": 13744,
+		"events": [
+			"Secret Wars II"
+		],
+		"characters": [
+			"Ch'od",
+			"Colossus",
+			"Hepzibah",
+			"Lilandra",
+			"Professor X",
+			"Raza",
+			"Rogue",
+			"Storm",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"id": 6676,
+		"events": [
+			"Secret Wars II"
+		],
+		"characters": [
+			"Mephisto",
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 10374,
+		"events": [
+			"Secret Wars II"
+		],
+		"characters": [
+			"Beyonder",
+			"New Mutants"
+		]
+	},
+	{
+		"id": 7136,
+		"events": [
+			"Secret Wars II"
+		],
+		"characters": [
+			"Avengers",
+			"Beyonder"
+		]
+	},
+	{
+		"id": 13103,
+		"events": [
+			"Secret Wars II"
+		],
+		"characters": [
+			"Doctor Doom",
+			"Fantastic Four",
+			"Human Torch",
+			"Invisible Woman",
+			"Mr. Fantastic",
+			"She-Hulk (Jennifer Walters)"
+		]
+	},
+	{
+		"id": 10373,
+		"events": [
+			"Secret Wars II"
+		],
+		"characters": [
+			"Kitty Pryde",
+			"New Mutants"
+		]
+	},
+	{
+		"id": 14556,
+		"events": [
+			"Secret Wars II"
+		],
+		"characters": [
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 13743,
+		"events": [
+			"Secret Wars II"
+		],
+		"characters": [
+			"Colossus",
+			"Magneto",
+			"Nightcrawler",
+			"Rogue",
+			"Storm",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"id": 6675,
+		"events": [
+			"Secret Wars II"
+		],
+		"characters": [
+			"Puma",
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 20321,
+		"events": [
+			"Secret Wars II"
+		],
+		"characters": [
+			"Defenders"
+		]
+	},
+	{
+		"id": 18891,
+		"events": [
+			"Secret Wars II"
+		],
+		"characters": []
+	},
+	{
+		"id": 11691,
+		"events": [
+			"Secret Wars II"
+		],
+		"characters": [
+			"Loki",
+			"Thor"
+		]
+	},
+	{
+		"id": 18890,
+		"events": [
+			"Secret Wars II"
+		],
+		"characters": []
+	},
+	{
+		"id": 20158,
+		"events": [
+			"Secret Wars II"
+		],
+		"characters": [
+			"Beyonder",
+			"Doctor Strange"
+		]
+	},
+	{
+		"id": 13100,
+		"events": [
+			"Secret Wars II"
+		],
+		"characters": [
+			"Fantastic Four",
+			"Human Torch",
+			"Invisible Woman",
+			"Mr. Fantastic",
+			"She-Hulk (Jennifer Walters)"
+		]
+	},
+	{
+		"id": 18740,
+		"events": [
+			"Secret Wars II"
+		],
+		"characters": []
+	},
+	{
+		"id": 18889,
+		"events": [
+			"Secret Wars II"
+		],
+		"characters": []
+	},
+	{
+		"id": 20452,
+		"events": [
+			"Secret Wars II"
+		],
+		"characters": [
+			"Dazzler"
+		]
+	},
+	{
+		"id": 7132,
+		"events": [
+			"Secret Wars II"
+		],
+		"characters": [
+			"Avengers",
+			"Beyonder",
+			"Firelord",
+			"Galactus",
+			"Nebula",
+			"Skrulls"
+		]
+	},
+	{
+		"id": 12688,
+		"events": [
+			"Secret Wars II"
+		],
+		"characters": [
+			"Alpha Flight"
+		]
+	},
+	{
+		"id": 18888,
+		"events": [
+			"Secret Wars II"
+		],
+		"characters": []
+	},
+	{
+		"id": 9123,
+		"events": [
+			"Secret Wars II"
+		],
+		"characters": [
+			"Hulk"
+		]
+	},
+	{
+		"id": 8211,
+		"events": [
+			"Secret Wars II"
+		],
+		"characters": [
+			"Daredevil"
+		]
+	},
+	{
+		"id": 7131,
+		"events": [
+			"Secret Wars II"
+		],
+		"characters": [
+			"Avengers",
+			"Firelord",
+			"Galactus",
+			"Nebula",
+			"Skrulls",
+			"Thanos"
+		]
+	},
+	{
+		"id": 18887,
+		"events": [
+			"Secret Wars II"
+		],
+		"characters": []
+	},
+	{
+		"id": 6669,
+		"events": [
+			"Secret Wars II"
+		],
+		"characters": [
+			"J. Jonah Jameson",
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 12058,
+		"events": [
+			"Secret Wars II"
+		],
+		"characters": [
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 13097,
+		"events": [
+			"Secret Wars II"
+		],
+		"characters": [
+			"Fantastic Four",
+			"Human Torch",
+			"Invisible Woman",
+			"Mr. Fantastic",
+			"She-Hulk (Jennifer Walters)"
+		]
+	},
+	{
+		"id": 9435,
+		"events": [
+			"Secret Wars II"
+		],
+		"characters": [
+			"Iron Man"
+		]
+	},
+	{
+		"id": 18885,
+		"events": [
+			"Secret Wars II"
+		],
+		"characters": [
+			"Human Torch",
+			"Iron Fist (Danny Rand)",
+			"Luke Cage",
+			"Mr. Fantastic",
+			"She-Hulk (Jennifer Walters)",
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 10367,
+		"events": [
+			"Secret Wars II"
+		],
+		"characters": [
+			"New Mutants"
+		]
+	},
+	{
+		"id": 7689,
+		"events": [
+			"Secret Wars II"
+		],
+		"characters": [
+			"Captain America"
+		]
+	},
+	{
+		"id": 13737,
+		"events": [
+			"Secret Wars II"
+		],
+		"characters": [
+			"Colossus",
+			"Magneto",
+			"Nightcrawler",
+			"Rogue",
+			"Storm",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"id": 18884,
+		"events": [
+			"Secret Wars II"
+		],
+		"characters": [
+			"Adam Warlock",
+			"Cannonball",
+			"Captain America",
+			"Colossus",
+			"Cyclops",
+			"Dani Moonstar",
+			"Dazzler",
+			"Iron Man",
+			"Jean Grey",
+			"Legion",
+			"Magneto",
+			"Nightcrawler",
+			"Professor X",
+			"Rogue",
+			"Sunspot",
+			"Wasp",
+			"Wolfsbane",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"id": 48513,
+		"events": [
+			"Infinity"
+		],
+		"characters": []
+	},
+	{
+		"id": 43297,
+		"events": [
+			"Infinity"
+		],
+		"characters": [
+			"Guardians of the Galaxy"
+		]
+	},
+	{
+		"id": 47127,
+		"events": [
+			"Infinity"
+		],
+		"characters": []
+	},
+	{
+		"id": 43526,
+		"events": [
+			"Infinity"
+		],
+		"characters": [
+			"Black Bolt",
+			"Black Panther",
+			"Doctor Strange",
+			"Iron Man",
+			"Mr. Fantastic",
+			"Namor"
+		]
+	},
+	{
+		"id": 48010,
+		"events": [
+			"Infinity"
+		],
+		"characters": []
+	},
+	{
+		"id": 48512,
+		"events": [
+			"Infinity"
+		],
+		"characters": []
+	},
+	{
+		"id": 46538,
+		"events": [
+			"Infinity"
+		],
+		"characters": []
+	},
+	{
+		"id": 46930,
+		"events": [
+			"Infinity"
+		],
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"id": 46455,
+		"events": [
+			"Infinity"
+		],
+		"characters": [
+			"Maria Hill"
+		]
+	},
+	{
+		"id": 48318,
+		"events": [
+			"Infinity"
+		],
+		"characters": []
+	},
+	{
+		"id": 46928,
+		"events": [
+			"Infinity"
+		],
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"id": 43298,
+		"events": [
+			"Infinity"
+		],
+		"characters": [
+			"Guardians of the Galaxy"
+		]
+	},
+	{
+		"id": 47126,
+		"events": [
+			"Infinity"
+		],
+		"characters": []
+	},
+	{
+		"id": 48511,
+		"events": [
+			"Infinity"
+		],
+		"characters": []
+	},
+	{
+		"id": 46454,
+		"events": [
+			"Infinity"
+		],
+		"characters": [
+			"Iron Patriot (James Rhodes)"
+		]
+	},
+	{
+		"id": 46537,
+		"events": [
+			"Infinity"
+		],
+		"characters": []
+	},
+	{
+		"id": 43311,
+		"events": [
+			"Infinity"
+		],
+		"characters": []
+	},
+	{
+		"id": 48009,
+		"events": [
+			"Infinity"
+		],
+		"characters": []
+	},
+	{
+		"id": 46927,
+		"events": [
+			"Infinity"
+		],
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"id": 48560,
+		"events": [
+			"Infinity"
+		],
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Scarlet Witch",
+			"Wasp",
+			"Wonder Man"
+		]
+	},
+	{
+		"id": 43525,
+		"events": [
+			"Infinity"
+		],
+		"characters": [
+			"Black Bolt",
+			"Black Panther",
+			"Doctor Strange",
+			"Iron Man",
+			"Mr. Fantastic",
+			"Namor"
+		]
+	},
+	{
+		"id": 47125,
+		"events": [
+			"Infinity"
+		],
+		"characters": []
+	},
+	{
+		"id": 46080,
+		"events": [
+			"Infinity"
+		],
+		"characters": []
+	},
+	{
+		"id": 47920,
+		"events": [
+			"Infinity"
+		],
+		"characters": []
+	},
+	{
+		"id": 46536,
+		"events": [
+			"Infinity"
+		],
+		"characters": []
+	},
+	{
+		"id": 48008,
+		"events": [
+			"Infinity"
+		],
+		"characters": []
+	},
+	{
+		"id": 48317,
+		"events": [
+			"Infinity"
+		],
+		"characters": []
+	},
+	{
+		"id": 47919,
+		"events": [
+			"Infinity"
+		],
+		"characters": []
+	},
+	{
+		"id": 48510,
+		"events": [
+			"Infinity"
+		],
+		"characters": []
+	},
+	{
+		"id": 45883,
+		"events": [
+			"Infinity"
+		],
+		"characters": [
+			"Avengers",
+			"Black Widow",
+			"Captain America",
+			"Carol Danvers",
+			"Hawkeye",
+			"Spider-Woman (Jessica Drew)"
+		]
+	},
+	{
+		"id": 43312,
+		"events": [
+			"Infinity"
+		],
+		"characters": []
+	},
+	{
+		"id": 43550,
+		"events": [
+			"Infinity"
+		],
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"id": 43524,
+		"events": [
+			"Infinity"
+		],
+		"characters": [
+			"Beast",
+			"Black Bolt",
+			"Black Panther",
+			"Doctor Strange",
+			"Iron Man",
+			"Mr. Fantastic",
+			"Namor"
+		]
+	},
+	{
+		"id": 46535,
+		"events": [
+			"Infinity"
+		],
+		"characters": []
+	},
+	{
+		"id": 47124,
+		"events": [
+			"Infinity"
+		],
+		"characters": []
+	},
+	{
+		"id": 46860,
+		"events": [
+			"Infinity"
+		],
+		"characters": []
+	},
+	{
+		"id": 48316,
+		"events": [
+			"Infinity"
+		],
+		"characters": []
+	},
+	{
+		"id": 43549,
+		"events": [
+			"Infinity"
+		],
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"id": 48007,
+		"events": [
+			"Infinity"
+		],
+		"characters": []
+	},
+	{
+		"id": 47123,
+		"events": [
+			"Infinity"
+		],
+		"characters": []
+	},
+	{
+		"id": 46859,
+		"events": [
+			"Infinity"
+		],
+		"characters": []
+	},
+	{
+		"id": 43523,
+		"events": [
+			"Infinity"
+		],
+		"characters": [
+			"Beast",
+			"Black Bolt",
+			"Black Panther",
+			"Doctor Strange",
+			"Iron Man",
+			"Namor",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 46534,
+		"events": [
+			"Infinity"
+		],
+		"characters": []
+	},
+	{
+		"id": 45882,
+		"events": [
+			"Infinity"
+		],
+		"characters": [
+			"Avengers",
+			"Black Widow",
+			"Captain America",
+			"Captain Marvel (Carol Danvers)",
+			"Hawkeye",
+			"Hulk",
+			"Shang-Chi",
+			"Spider-Woman (Jessica Drew)",
+			"Thor"
+		]
+	},
+	{
+		"id": 43548,
+		"events": [
+			"Infinity"
+		],
+		"characters": [
+			"Avengers",
+			"Skrulls"
+		]
+	},
+	{
+		"id": 47120,
+		"events": [
+			"Infinity"
+		],
+		"characters": []
+	},
+	{
+		"id": 39606,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Doctor Strange",
+			"Sub-Mariner"
+		]
+	},
+	{
+		"id": 39369,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": []
+	},
+	{
+		"id": 39621,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": []
+	},
+	{
+		"id": 38978,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Iron Man",
+			"Odin"
+		]
+	},
+	{
+		"id": 41108,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Thor"
+		]
+	},
+	{
+		"id": 38938,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Captain America"
+		]
+	},
+	{
+		"id": 36490,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"New Mutants"
+		]
+	},
+	{
+		"id": 38210,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Odin"
+		]
+	},
+	{
+		"id": 38446,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Cloud 9",
+			"Firestar",
+			"Gravity",
+			"Hardball",
+			"Prodigy",
+			"Thor Girl"
+		]
+	},
+	{
+		"id": 38028,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Black Widow",
+			"Captain America",
+			"Captain Marvel (Carol Danvers)",
+			"Deadpool",
+			"Doctor Strange",
+			"Hawkeye",
+			"Hulk",
+			"Iron Fist (Danny Rand)",
+			"Iron Man",
+			"Paladin",
+			"Red She-Hulk",
+			"Sin",
+			"Spider-Man",
+			"Taskmaster",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 38493,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Amadeus Cho",
+			"Penance (Robert Baldwin)",
+			"Spider-Girl (May Parker)",
+			"X-23"
+		]
+	},
+	{
+		"id": 39752,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Dracula",
+			"Hulk"
+		]
+	},
+	{
+		"id": 36484,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Absorbing Man",
+			"Jocasta",
+			"Justice",
+			"Penance (Robert Baldwin)",
+			"Quicksilver",
+			"Reptil",
+			"Tigra (Greer Nelson)",
+			"Titania"
+		]
+	},
+	{
+		"id": 38948,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Defenders",
+			"Doctor Strange",
+			"Galactus",
+			"Hulk",
+			"Loa",
+			"She-Hulk (Lyra)",
+			"Silver Surfer",
+			"Sub-Mariner"
+		]
+	},
+	{
+		"id": 36498,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Cypher",
+			"Dani Moonstar",
+			"Magma (Amara Aquilla)",
+			"New Mutants",
+			"Sunspot",
+			"X-Man"
+		]
+	},
+	{
+		"id": 38496,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Amadeus Cho",
+			"Penance (Robert Baldwin)",
+			"Spider-Girl (May Parker)",
+			"X-23"
+		]
+	},
+	{
+		"id": 36327,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Colossus",
+			"X-Men"
+		]
+	},
+	{
+		"id": 29203,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Avengers",
+			"Hawkeye",
+			"Spider-Woman (Jessica Drew)"
+		]
+	},
+	{
+		"id": 38860,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Fantastic Four",
+			"Frankenstein's Monster",
+			"Galactus",
+			"Howard The Duck",
+			"Man-Thing",
+			"Nighthawk",
+			"She-Hulk (Jennifer Walters)"
+		]
+	},
+	{
+		"id": 39002,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Purifiers",
+			"Serpent Society",
+			"X-Force"
+		]
+	},
+	{
+		"id": 38444,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Cloud 9",
+			"Firestar",
+			"Gravity",
+			"Hardball",
+			"Prodigy",
+			"Thor Girl"
+		]
+	},
+	{
+		"id": 38567,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Alpha Flight",
+			"Northstar",
+			"Puck",
+			"Sasquatch (Walter Langkowski)",
+			"Shaman",
+			"Snowbird"
+		]
+	},
+	{
+		"id": 39902,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": []
+	},
+	{
+		"id": 35257,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Avengers",
+			"Daredevil"
+		]
+	},
+	{
+		"id": 36786,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Black Panther",
+			"Foggy Nelson"
+		]
+	},
+	{
+		"id": 39751,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Dracula",
+			"Hulk"
+		]
+	},
+	{
+		"id": 38045,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hawkeye",
+			"Iron Man",
+			"Spider-Man",
+			"Spider-Woman (Jessica Drew)",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 38846,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Ghost Rider (Johnny Blaze)"
+		]
+	},
+	{
+		"id": 38946,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Wolverine"
+		]
+	},
+	{
+		"id": 37193,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Elektra",
+			"Gargoyle",
+			"Heroes For Hire",
+			"Misty Knight",
+			"Paladin",
+			"Purple Man"
+		]
+	},
+	{
+		"id": 41056,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Loki",
+			"Odin"
+		]
+	},
+	{
+		"id": 36479,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Absorbing Man",
+			"Hank Pym",
+			"Quicksilver",
+			"Reptil",
+			"Titania"
+		]
+	},
+	{
+		"id": 29202,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Avengers",
+			"Hulk",
+			"Red She-Hulk",
+			"Spider-Woman (Jessica Drew)"
+		]
+	},
+	{
+		"id": 38494,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Jocasta",
+			"Penance (Robert Baldwin)",
+			"Spider-Girl (May Parker)",
+			"X-23"
+		]
+	},
+	{
+		"id": 36322,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"X-Men"
+		]
+	},
+	{
+		"id": 31541,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Iron Man",
+			"Pepper Potts"
+		]
+	},
+	{
+		"id": 36787,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Black Panther"
+		]
+	},
+	{
+		"id": 38029,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Captain America",
+			"Hulk",
+			"Iron Man",
+			"Sin",
+			"Thing",
+			"Thor"
+		]
+	},
+	{
+		"id": 38847,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Ghost Rider (Johnny Blaze)"
+		]
+	},
+	{
+		"id": 35254,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Captain Marvel (Carol Danvers)",
+			"Iron Fist (Danny Rand)",
+			"Luke Cage",
+			"Spider-Man",
+			"Squirrel Girl"
+		]
+	},
+	{
+		"id": 38565,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Aurora",
+			"Sasquatch (Walter Langkowski)",
+			"Shaman",
+			"Vindicator"
+		]
+	},
+	{
+		"id": 36504,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Adam Warlock",
+			"Colossus",
+			"Cyclops",
+			"Dani Moonstar",
+			"Juggernaut",
+			"Karma",
+			"Kitty Pryde",
+			"Magik (Amanda Sefton)",
+			"Magneto",
+			"New Mutants",
+			"Sunspot",
+			"Warlock (Technarchy)"
+		]
+	},
+	{
+		"id": 29771,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": []
+	},
+	{
+		"id": 36480,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Absorbing Man",
+			"Hank Pym",
+			"Quicksilver",
+			"Reptil",
+			"Titania"
+		]
+	},
+	{
+		"id": 37191,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Heroes For Hire"
+		]
+	},
+	{
+		"id": 36481,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Absorbing Man",
+			"Giant Man",
+			"Quicksilver",
+			"Reptil",
+			"Titania"
+		]
+	},
+	{
+		"id": 36330,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"X-Men"
+		]
+	},
+	{
+		"id": 31538,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Iron Man",
+			"Pepper Potts"
+		]
+	},
+	{
+		"id": 29770,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Hercules"
+		]
+	},
+	{
+		"id": 29201,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Avengers",
+			"Captain Marvel (Carol Danvers)",
+			"Hulk",
+			"Spider-Woman (Jessica Drew)"
+		]
+	},
+	{
+		"id": 38495,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Blue Marvel",
+			"Jimmy Woo",
+			"Penance (Robert Baldwin)"
+		]
+	},
+	{
+		"id": 36785,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Black Panther"
+		]
+	},
+	{
+		"id": 38849,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Ghost Rider (Johnny Blaze)"
+		]
+	},
+	{
+		"id": 35256,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Avengers",
+			"Mockingbird",
+			"Spider-Man",
+			"Thing"
+		]
+	},
+	{
+		"id": 38569,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Alpha Flight",
+			"Aurora",
+			"Sasquatch (Walter Langkowski)",
+			"Snowbird",
+			"Vindicator"
+		]
+	},
+	{
+		"id": 38042,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Avengers",
+			"Black Widow",
+			"Captain America",
+			"Hulk",
+			"Iron Man",
+			"Nick Fury",
+			"Thing",
+			"Thor"
+		]
+	},
+	{
+		"id": 38979,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Black Widow"
+		]
+	},
+	{
+		"id": 35654,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Crossbones",
+			"Juggernaut",
+			"Mach IV",
+			"Moonstone",
+			"Songbird",
+			"Thunderbolts"
+		]
+	},
+	{
+		"id": 37343,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Odin"
+		]
+	},
+	{
+		"id": 35769,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Captain America",
+			"Winter Soldier"
+		]
+	},
+	{
+		"id": 29795,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Absorbing Man",
+			"Bride of Nine Spiders (Immortal Weapons)",
+			"Dog Brother #1",
+			"Fat Cobra",
+			"Iron Fist (Danny Rand)",
+			"Iron Patriot (James Rhodes)",
+			"Prince of Orphans",
+			"Tiger's Beautiful Daughter",
+			"Titania"
+		]
+	},
+	{
+		"id": 31536,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Grey Gargoyle",
+			"Iron Man",
+			"Pepper Potts"
+		]
+	},
+	{
+		"id": 36482,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Hank Pym",
+			"Reptil"
+		]
+	},
+	{
+		"id": 38570,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Aurora",
+			"Sasquatch (Walter Langkowski)",
+			"Shaman",
+			"Vindicator"
+		]
+	},
+	{
+		"id": 38498,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Penance (Robert Baldwin)"
+		]
+	},
+	{
+		"id": 29200,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Captain America",
+			"Captain Marvel (Carol Danvers)",
+			"Edwin Jarvis",
+			"Hawkeye",
+			"Iron Man",
+			"Quicksilver",
+			"Red Hulk",
+			"Spider-Man",
+			"Spider-Woman (Jessica Drew)",
+			"Wasp",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 38445,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Prodigy",
+			"Thor Girl"
+		]
+	},
+	{
+		"id": 39878,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Loki"
+		]
+	},
+	{
+		"id": 38443,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 38861,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Frankenstein's Monster",
+			"Howard The Duck",
+			"Man-Thing",
+			"Nighthawk",
+			"She-Hulk (Jennifer Walters)"
+		]
+	},
+	{
+		"id": 35658,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Thunderbolts"
+		]
+	},
+	{
+		"id": 29769,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Hercules"
+		]
+	},
+	{
+		"id": 38043,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Black Widow",
+			"Falcon",
+			"Hulk",
+			"Red She-Hulk",
+			"Shang-Chi",
+			"Sin",
+			"Winter Soldier"
+		]
+	},
+	{
+		"id": 35154,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Ant-Man (Eric O'Grady)",
+			"Beast",
+			"Iron Patriot (James Rhodes)"
+		]
+	},
+	{
+		"id": 29794,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Absorbing Man",
+			"Iron Fist (Danny Rand)"
+		]
+	},
+	{
+		"id": 29768,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Hercules"
+		]
+	},
+	{
+		"id": 31535,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Iron Man",
+			"Pepper Potts"
+		]
+	},
+	{
+		"id": 36478,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Reptil",
+			"Sinister Six"
+		]
+	},
+	{
+		"id": 29199,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Avengers",
+			"Captain Marvel (Carol Danvers)",
+			"Spider-Woman (Jessica Drew)",
+			"Thor"
+		]
+	},
+	{
+		"id": 40887,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Loki"
+		]
+	},
+	{
+		"id": 36483,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Reptil"
+		]
+	},
+	{
+		"id": 38928,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Avengers",
+			"Odin",
+			"Thor"
+		]
+	},
+	{
+		"id": 38497,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Jimmy Woo",
+			"Penance (Robert Baldwin)"
+		]
+	},
+	{
+		"id": 39005,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Dracula"
+		]
+	},
+	{
+		"id": 31533,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Doctor Octopus",
+			"Iron Man",
+			"Pepper Potts"
+		]
+	},
+	{
+		"id": 38453,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Captain America",
+			"Falcon",
+			"Sersi",
+			"Sin"
+		]
+	},
+	{
+		"id": 39901,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Loki",
+			"Thor"
+		]
+	},
+	{
+		"id": 38499,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Captain America",
+			"Iron Man",
+			"Penance (Robert Baldwin)",
+			"Thor"
+		]
+	},
+	{
+		"id": 39849,
+		"events": [
+			"Fear Itself"
+		],
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Captain Marvel (Carol Danvers)",
+			"Ghost Rider (Daniel Ketch)",
+			"Ghost Rider (Johnny Blaze)",
+			"Hawkeye",
+			"Hulk",
+			"Iron Fist (Danny Rand)",
+			"Iron Man",
+			"Luke Cage",
+			"Mockingbird",
+			"Sin",
+			"Spider-Man",
+			"Spider-Woman (Jessica Drew)",
+			"Thing",
+			"Thor",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 21802,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Ares",
+			"Avengers",
+			"Ben Urich",
+			"Black Widow",
+			"Captain Marvel (Carol Danvers)",
+			"Edwin Jarvis",
+			"Hank Pym",
+			"Iron Man",
+			"J. Jonah Jameson",
+			"Kat Farrell",
+			"Maria Hill",
+			"Mole Man",
+			"Mr. Fantastic",
+			"Sentry (Robert Reynolds)",
+			"Spider-Woman (Jessica Drew)",
+			"Tigra (Greer Nelson)",
+			"Ultron",
+			"Wasp",
+			"Wonder Man"
+		]
+	},
+	{
+		"id": 21424,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Black Widow",
+			"Falcon",
+			"Human Robot",
+			"Iron Fist (Danny Rand)",
+			"Iron Man",
+			"Jessica Jones",
+			"Red Skull",
+			"Rick Jones",
+			"Sharon Carter",
+			"Sin",
+			"Spider-Man",
+			"Spider-Woman (Charlotte Witter)",
+			"Thing",
+			"Winter Soldier"
+		]
+	},
+	{
+		"id": 21284,
+		"events": [
+			"Initiative"
+		],
+		"characters": []
+	},
+	{
+		"id": 20721,
+		"events": [
+			"Initiative"
+		],
+		"characters": []
+	},
+	{
+		"id": 20927,
+		"events": [
+			"Initiative"
+		],
+		"characters": []
+	},
+	{
+		"id": 20920,
+		"events": [
+			"Initiative"
+		],
+		"characters": []
+	},
+	{
+		"id": 20734,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"The Order"
+		]
+	},
+	{
+		"id": 20732,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Sub-Mariner"
+		]
+	},
+	{
+		"id": 17644,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"New Warriors"
+		]
+	},
+	{
+		"id": 17682,
+		"events": [
+			"Initiative"
+		],
+		"characters": []
+	},
+	{
+		"id": 17683,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"New Warriors"
+		]
+	},
+	{
+		"id": 17304,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Moon Knight"
+		]
+	},
+	{
+		"id": 17674,
+		"events": [
+			"Initiative"
+		],
+		"characters": []
+	},
+	{
+		"id": 17404,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"New Warriors"
+		]
+	},
+	{
+		"id": 16519,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Ares",
+			"Avengers",
+			"Black Widow",
+			"Captain Marvel (Carol Danvers)",
+			"Iron Man",
+			"Mr. Fantastic",
+			"Sentry (Robert Reynolds)",
+			"Spider-Woman (Jessica Drew)",
+			"Ultron",
+			"Wasp",
+			"Wonder Man"
+		]
+	},
+	{
+		"id": 17442,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Nova"
+		]
+	},
+	{
+		"id": 17270,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"New Warriors"
+		]
+	},
+	{
+		"id": 17326,
+		"events": [
+			"Initiative"
+		],
+		"characters": []
+	},
+	{
+		"id": 17302,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Boomerang",
+			"Hulk",
+			"Rage",
+			"Shocker (Herman Schultz)",
+			"Spider-Man",
+			"The Initiative",
+			"Venom (Mac Gargan)"
+		]
+	},
+	{
+		"id": 17273,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Sub-Mariner"
+		]
+	},
+	{
+		"id": 17325,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Black Widow",
+			"Falcon",
+			"Human Robot",
+			"Iron Fist (Danny Rand)",
+			"Iron Man",
+			"Jessica Jones",
+			"Red Skull",
+			"Rick Jones",
+			"Sharon Carter",
+			"Sin",
+			"Spider-Man",
+			"Spider-Woman (Charlotte Witter)",
+			"Thing",
+			"Winter Soldier"
+		]
+	},
+	{
+		"id": 16661,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Fantastic Four"
+		]
+	},
+	{
+		"id": 17312,
+		"events": [
+			"Initiative"
+		],
+		"characters": []
+	},
+	{
+		"id": 16595,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"The Order"
+		]
+	},
+	{
+		"id": 17308,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Omega Flight"
+		]
+	},
+	{
+		"id": 16579,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Sub-Mariner"
+		]
+	},
+	{
+		"id": 16643,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Black Panther"
+		]
+	},
+	{
+		"id": 16491,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Moon Knight"
+		]
+	},
+	{
+		"id": 15965,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Ares",
+			"Avengers",
+			"Black Widow",
+			"Captain Marvel (Carol Danvers)",
+			"Edwin Jarvis",
+			"Hank Pym",
+			"Sentry (Robert Reynolds)",
+			"Ultron",
+			"Wasp",
+			"Wonder Man"
+		]
+	},
+	{
+		"id": 16663,
+		"events": [
+			"Initiative"
+		],
+		"characters": []
+	},
+	{
+		"id": 16572,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"New Warriors"
+		]
+	},
+	{
+		"id": 16444,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Fantastic Four"
+		]
+	},
+	{
+		"id": 16594,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"The Order"
+		]
+	},
+	{
+		"id": 16578,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Sub-Mariner"
+		]
+	},
+	{
+		"id": 16638,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Bullseye",
+			"Norman Osborn",
+			"Penance (Robert Baldwin)",
+			"Songbird",
+			"Swordsman",
+			"Thunderbolts",
+			"Venom (Mac Gargan)"
+		]
+	},
+	{
+		"id": 16134,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Moon Knight"
+		]
+	},
+	{
+		"id": 16513,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"GW Bridge",
+			"Iron Man",
+			"Winter Soldier"
+		]
+	},
+	{
+		"id": 16571,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"New Warriors",
+			"Night Thrasher"
+		]
+	},
+	{
+		"id": 16103,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Fantastic Four"
+		]
+	},
+	{
+		"id": 16122,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Black Panther",
+			"Human Torch",
+			"Storm",
+			"Thing"
+		]
+	},
+	{
+		"id": 16188,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"The Order"
+		]
+	},
+	{
+		"id": 16179,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Sub-Mariner"
+		]
+	},
+	{
+		"id": 16212,
+		"events": [
+			"Initiative"
+		],
+		"characters": []
+	},
+	{
+		"id": 16155,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Omega Flight"
+		]
+	},
+	{
+		"id": 16147,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"GW Bridge"
+		]
+	},
+	{
+		"id": 20774,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Iron Man",
+			"Nova",
+			"Penance (Robert Baldwin)",
+			"Thunderbolts"
+		]
+	},
+	{
+		"id": 16175,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"New Warriors",
+			"Night Thrasher",
+			"Wind Dancer"
+		]
+	},
+	{
+		"id": 15922,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Black Panther",
+			"Fantastic Four",
+			"Human Torch",
+			"Invisible Woman",
+			"Mr. Fantastic",
+			"Storm"
+		]
+	},
+	{
+		"id": 15939,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Black Panther",
+			"Human Torch",
+			"Storm",
+			"Thing"
+		]
+	},
+	{
+		"id": 15855,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Ares",
+			"Avengers",
+			"Ben Urich",
+			"Black Widow",
+			"Captain Marvel (Carol Danvers)",
+			"Edwin Jarvis",
+			"Hank Pym",
+			"Iron Man",
+			"J. Jonah Jameson",
+			"Kat Farrell",
+			"Sentry (Robert Reynolds)",
+			"Ultron",
+			"Wasp",
+			"Wonder Man"
+		]
+	},
+	{
+		"id": 16005,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"The Order"
+		]
+	},
+	{
+		"id": 15962,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"GW Bridge"
+		]
+	},
+	{
+		"id": 15970,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Omega Flight"
+		]
+	},
+	{
+		"id": 15995,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Sub-Mariner"
+		]
+	},
+	{
+		"id": 15990,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"New Warriors",
+			"Night Thrasher"
+		]
+	},
+	{
+		"id": 15951,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Captain Marvel (Carol Danvers)"
+		]
+	},
+	{
+		"id": 20775,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Iron Man",
+			"Nova"
+		]
+	},
+	{
+		"id": 15820,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Thunderbolts"
+		]
+	},
+	{
+		"id": 13438,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Black Panther",
+			"Human Torch",
+			"Storm",
+			"Thing"
+		]
+	},
+	{
+		"id": 15804,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Fantastic Four"
+		]
+	},
+	{
+		"id": 21872,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Moon Knight"
+		]
+	},
+	{
+		"id": 15819,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Echo",
+			"Elektra"
+		]
+	},
+	{
+		"id": 15852,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"GW Bridge"
+		]
+	},
+	{
+		"id": 15886,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Sub-Mariner"
+		]
+	},
+	{
+		"id": 15881,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Iron Man",
+			"New Warriors"
+		]
+	},
+	{
+		"id": 15841,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Captain Marvel (Carol Danvers)"
+		]
+	},
+	{
+		"id": 15869,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Boomerang",
+			"Hardball",
+			"Komodo (Melati Kusuma)",
+			"Shocker (Herman Schultz)",
+			"Spider-Man",
+			"The Initiative",
+			"Trauma",
+			"Venom (Mac Gargan)"
+		]
+	},
+	{
+		"id": 13441,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Iron Man"
+		]
+	},
+	{
+		"id": 15860,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Omega Flight"
+		]
+	},
+	{
+		"id": 13424,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Fantastic Four"
+		]
+	},
+	{
+		"id": 13477,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Ares",
+			"Avengers",
+			"Black Widow",
+			"Captain Marvel (Carol Danvers)",
+			"Hank Pym",
+			"Maria Hill",
+			"Sentry (Robert Reynolds)",
+			"Tigra (Greer Nelson)",
+			"Ultron",
+			"Wasp",
+			"Wonder Man"
+		]
+	},
+	{
+		"id": 6321,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Black Panther",
+			"Human Torch",
+			"Storm",
+			"Thing"
+		]
+	},
+	{
+		"id": 13437,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Brother Voodoo",
+			"Doctor Strange",
+			"Iron Man",
+			"Sentry (Robert Reynolds)",
+			"Spider-Man",
+			"Spider-Woman (Jessica Drew)",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 13473,
+		"events": [
+			"Initiative"
+		],
+		"characters": []
+	},
+	{
+		"id": 13439,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Thunderbolts"
+		]
+	},
+	{
+		"id": 13489,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Avengers",
+			"Cloud 9",
+			"Gauntlet (Joseph Green)",
+			"Hardball",
+			"Henry Peter Gyrich",
+			"Justice",
+			"Komodo (Melati Kusuma)",
+			"Trauma"
+		]
+	},
+	{
+		"id": 6338,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Iron Man"
+		]
+	},
+	{
+		"id": 13483,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Omega Flight"
+		]
+	},
+	{
+		"id": 13458,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Captain Marvel (Carol Danvers)"
+		]
+	},
+	{
+		"id": 6342,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Fantastic Four",
+			"Galactus",
+			"Human Torch",
+			"Silver Surfer"
+		]
+	},
+	{
+		"id": 6301,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Ares",
+			"Avengers",
+			"Black Widow",
+			"Captain Marvel (Carol Danvers)",
+			"Iron Man",
+			"Mole Man",
+			"Sentry (Robert Reynolds)",
+			"Ultron",
+			"Wasp",
+			"Wonder Man"
+		]
+	},
+	{
+		"id": 6262,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Thunderbolts"
+		]
+	},
+	{
+		"id": 6265,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"id": 6273,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"GW Bridge"
+		]
+	},
+	{
+		"id": 6161,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Iron Man"
+		]
+	},
+	{
+		"id": 6224,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Captain Marvel (Carol Danvers)"
+		]
+	},
+	{
+		"id": 21843,
+		"events": [
+			"Initiative"
+		],
+		"characters": []
+	},
+	{
+		"id": 21844,
+		"events": [
+			"Initiative"
+		],
+		"characters": []
+	},
+	{
+		"id": 6226,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Omega Flight"
+		]
+	},
+	{
+		"id": 29238,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Hulk"
+		]
+	},
+	{
+		"id": 6164,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Fantastic Four"
+		]
+	},
+	{
+		"id": 6180,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Black Panther",
+			"Human Torch",
+			"Storm",
+			"Thing"
+		]
+	},
+	{
+		"id": 6149,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Captain Marvel (Carol Danvers)"
+		]
+	},
+	{
+		"id": 6121,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Thunderbolts"
+		]
+	},
+	{
+		"id": 6122,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Doctor Strange",
+			"Iron Fist (Danny Rand)",
+			"Spider-Man",
+			"Spider-Woman (Jessica Drew)",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 6097,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Ares",
+			"Avengers",
+			"Black Cat",
+			"Captain Marvel (Carol Danvers)",
+			"Iron Man",
+			"Sentry (Robert Reynolds)",
+			"Wonder Man"
+		]
+	},
+	{
+		"id": 5965,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Thunderbolts",
+			"Venom (Mac Gargan)"
+		]
+	},
+	{
+		"id": 5963,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Elektra",
+			"The Hand"
+		]
+	},
+	{
+		"id": 5812,
+		"events": [
+			"Initiative"
+		],
+		"characters": [
+			"Bullseye",
+			"Norman Osborn",
+			"Penance (Robert Baldwin)",
+			"Songbird",
+			"Swordsman",
+			"Thunderbolts",
+			"Venom (Mac Gargan)"
+		]
+	},
+	{
+		"id": 48176,
+		"events": [
+			"Age of Ultron"
+		],
+		"characters": []
+	},
+	{
+		"id": 48175,
+		"events": [
+			"Age of Ultron"
+		],
+		"characters": []
+	},
+	{
+		"id": 48174,
+		"events": [
+			"Age of Ultron"
+		],
+		"characters": []
+	},
+	{
+		"id": 48172,
+		"events": [
+			"Age of Ultron"
+		],
+		"characters": []
+	},
+	{
+		"id": 47072,
+		"events": [
+			"Age of Ultron"
+		],
+		"characters": []
+	},
+	{
+		"id": 45908,
+		"events": [
+			"Age of Ultron"
+		],
+		"characters": [
+			"Avengers",
+			"Ultron"
+		]
+	},
+	{
+		"id": 45907,
+		"events": [
+			"Age of Ultron"
+		],
+		"characters": [
+			"Avengers",
+			"Ultron"
+		]
+	},
+	{
+		"id": 47355,
+		"events": [
+			"Age of Ultron"
+		],
+		"characters": []
+	},
+	{
+		"id": 47343,
+		"events": [
+			"Age of Ultron"
+		],
+		"characters": [
+			"Sunfire"
+		]
+	},
+	{
+		"id": 45906,
+		"events": [
+			"Age of Ultron"
+		],
+		"characters": [
+			"Avengers",
+			"Ultron"
+		]
+	},
+	{
+		"id": 45905,
+		"events": [
+			"Age of Ultron"
+		],
+		"characters": [
+			"Avengers",
+			"Ultron"
+		]
+	},
+	{
+		"id": 47395,
+		"events": [
+			"Age of Ultron"
+		],
+		"characters": []
+	},
+	{
+		"id": 45904,
+		"events": [
+			"Age of Ultron"
+		],
+		"characters": [
+			"Avengers",
+			"Ultron"
+		]
+	},
+	{
+		"id": 37407,
+		"events": [
+			"Age of Ultron"
+		],
+		"characters": [
+			"Avengers",
+			"Ultron"
+		]
+	},
+	{
+		"id": 47394,
+		"events": [
+			"Age of Ultron"
+		],
+		"characters": []
+	},
+	{
+		"id": 37406,
+		"events": [
+			"Age of Ultron"
+		],
+		"characters": [
+			"Avengers",
+			"Luke Cage",
+			"She-Hulk (Jennifer Walters)",
+			"Ultron",
+			"Vision"
+		]
+	},
+	{
+		"id": 37405,
+		"events": [
+			"Age of Ultron"
+		],
+		"characters": [
+			"Avengers",
+			"Luke Cage",
+			"She-Hulk (Jennifer Walters)",
+			"Ultron"
+		]
+	},
+	{
+		"id": 47145,
+		"events": [
+			"Age of Ultron"
+		],
+		"characters": [
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 47003,
+		"events": [
+			"Age of Ultron"
+		],
+		"characters": [
+			"Avengers",
+			"Black Widow",
+			"Moon Knight",
+			"Ultron"
+		]
+	},
+	{
+		"id": 47001,
+		"events": [
+			"Age of Ultron"
+		],
+		"characters": [
+			"Avengers",
+			"Hawkeye",
+			"Spider-Man",
+			"Ultron"
+		]
+	},
+	{
+		"id": 40316,
+		"events": [
+			"Spider-Island"
+		],
+		"characters": []
+	},
+	{
+		"id": 38587,
+		"events": [
+			"Spider-Island"
+		],
+		"characters": [
+			"Venom (Flash Thompson)"
+		]
+	},
+	{
+		"id": 38484,
+		"events": [
+			"Spider-Island"
+		],
+		"characters": [
+			"Iron Fist (Danny Rand)",
+			"Shang-Chi"
+		]
+	},
+	{
+		"id": 35523,
+		"events": [
+			"Spider-Island"
+		],
+		"characters": [
+			"Mary Jane Watson",
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 39713,
+		"events": [
+			"Spider-Island"
+		],
+		"characters": [
+			"Spider-Girl (Anya Corazon)"
+		]
+	},
+	{
+		"id": 36783,
+		"events": [
+			"Spider-Island"
+		],
+		"characters": [
+			"Black Panther"
+		]
+	},
+	{
+		"id": 35527,
+		"events": [
+			"Spider-Island"
+		],
+		"characters": [
+			"Mary Jane Watson",
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 41146,
+		"events": [
+			"Spider-Island"
+		],
+		"characters": [
+			"Iron Fist (Danny Rand)",
+			"Jackal",
+			"Misty Knight",
+			"Paladin"
+		]
+	},
+	{
+		"id": 35522,
+		"events": [
+			"Spider-Island"
+		],
+		"characters": [
+			"Carlie Cooper",
+			"Hawkeye",
+			"J. Jonah Jameson",
+			"Jackal",
+			"Mary Jane Watson",
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 38592,
+		"events": [
+			"Spider-Island"
+		],
+		"characters": [
+			"Toxin (Eddie Brock)",
+			"Venom (Flash Thompson)"
+		]
+	},
+	{
+		"id": 38487,
+		"events": [
+			"Spider-Island"
+		],
+		"characters": [
+			"Shang-Chi",
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 29773,
+		"events": [
+			"Spider-Island"
+		],
+		"characters": [
+			"Arachne",
+			"Elektra",
+			"Hercules",
+			"X-Men"
+		]
+	},
+	{
+		"id": 39755,
+		"events": [
+			"Spider-Island"
+		],
+		"characters": [
+			"Mr. Fantastic",
+			"Spider-Woman (Jessica Drew)",
+			"Thing"
+		]
+	},
+	{
+		"id": 38983,
+		"events": [
+			"Spider-Island"
+		],
+		"characters": [
+			"Cloak",
+			"Dagger",
+			"Mr. Negative",
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 35529,
+		"events": [
+			"Spider-Island"
+		],
+		"characters": [
+			"Avengers",
+			"Carlie Cooper",
+			"J. Jonah Jameson",
+			"Jackal",
+			"Mr. Fantastic",
+			"Shocker (Herman Schultz)",
+			"Spider-Man",
+			"Toxin (Eddie Brock)",
+			"Venom (Flash Thompson)"
+		]
+	},
+	{
+		"id": 39714,
+		"events": [
+			"Spider-Island"
+		],
+		"characters": [
+			"Hobgoblin (Roderick Kingsley)",
+			"Kingpin",
+			"Spider-Girl (Anya Corazon)"
+		]
+	},
+	{
+		"id": 29772,
+		"events": [
+			"Spider-Island"
+		],
+		"characters": [
+			"Hercules",
+			"X-Men"
+		]
+	},
+	{
+		"id": 41107,
+		"events": [
+			"Spider-Island"
+		],
+		"characters": []
+	},
+	{
+		"id": 39753,
+		"events": [
+			"Spider-Island"
+		],
+		"characters": [
+			"Avengers",
+			"Captain Marvel (Carol Danvers)",
+			"Frog-Man",
+			"Hawkeye",
+			"Jessica Jones"
+		]
+	},
+	{
+		"id": 38488,
+		"events": [
+			"Spider-Island"
+		],
+		"characters": [
+			"Shang-Chi"
+		]
+	},
+	{
+		"id": 35532,
+		"events": [
+			"Spider-Island"
+		],
+		"characters": [
+			"Captain Marvel (Carol Danvers)",
+			"Carlie Cooper",
+			"Cloak",
+			"Firestar",
+			"Hawkeye",
+			"Iron Fist (Danny Rand)",
+			"Iron Man",
+			"J. Jonah Jameson",
+			"Jackal",
+			"Mary Jane Watson",
+			"May Parker",
+			"Mr. Fantastic",
+			"Shang-Chi",
+			"Spider-Girl (Anya Corazon)",
+			"Spider-Man",
+			"Spider-Woman (Jessica Drew)",
+			"Venom (Flash Thompson)",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 38590,
+		"events": [
+			"Spider-Island"
+		],
+		"characters": []
+	},
+	{
+		"id": 39715,
+		"events": [
+			"Spider-Island"
+		],
+		"characters": [
+			"Kingpin",
+			"Spider-Girl (Anya Corazon)"
+		]
+	},
+	{
+		"id": 38982,
+		"events": [
+			"Spider-Island"
+		],
+		"characters": [
+			"Cloak",
+			"Dagger",
+			"Mr. Negative"
+		]
+	},
+	{
+		"id": 39895,
+		"events": [
+			"Spider-Island"
+		],
+		"characters": []
+	},
+	{
+		"id": 35528,
+		"events": [
+			"Spider-Island"
+		],
+		"characters": [
+			"Captain Marvel (Carol Danvers)",
+			"Carlie Cooper",
+			"Cloak",
+			"Dagger",
+			"Firestar",
+			"Hawkeye",
+			"Hulk",
+			"Iron Fist (Danny Rand)",
+			"J. Jonah Jameson",
+			"Jackal",
+			"Luke Cage",
+			"Mary Jane Watson",
+			"May Parker",
+			"Mr. Fantastic",
+			"Shang-Chi",
+			"Spider-Girl (Anya Corazon)",
+			"Spider-Man",
+			"Spider-Woman (Jessica Drew)",
+			"Thing",
+			"Venom (Mac Gargan)",
+			"Winter Soldier",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 35513,
+		"events": [
+			"Spider-Island"
+		],
+		"characters": [
+			"Betty Brant",
+			"Captain Marvel (Carol Danvers)",
+			"Carlie Cooper",
+			"Cloak",
+			"Dagger",
+			"Firestar",
+			"Gravity",
+			"Hawkeye",
+			"Invisible Woman",
+			"Iron Fist (Danny Rand)",
+			"J. Jonah Jameson",
+			"Jackal",
+			"Luke Cage",
+			"Mary Jane Watson",
+			"May Parker",
+			"Mr. Fantastic",
+			"Spider-Girl (Anya Corazon)",
+			"Spider-Man",
+			"Spider-Woman (Jessica Drew)",
+			"Thing"
+		]
+	},
+	{
+		"id": 40025,
+		"events": [
+			"Spider-Island"
+		],
+		"characters": [
+			"Betty Brant",
+			"Captain Marvel (Carol Danvers)",
+			"Carlie Cooper",
+			"Invisible Woman",
+			"Mary Jane Watson",
+			"May Parker",
+			"Mr. Fantastic",
+			"Spider-Man",
+			"Thing",
+			"Venom (Flash Thompson)",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 35503,
+		"events": [
+			"Spider-Island"
+		],
+		"characters": [
+			"Betty Brant",
+			"Captain Marvel (Carol Danvers)",
+			"Carlie Cooper",
+			"Invisible Woman",
+			"J. Jonah Jameson",
+			"Mary Jane Watson",
+			"May Parker",
+			"Mr. Fantastic",
+			"Spider-Man",
+			"Thing",
+			"Venom (Flash Thompson)",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 35515,
+		"events": [
+			"Spider-Island"
+		],
+		"characters": [
+			"Carlie Cooper",
+			"J. Jonah Jameson",
+			"May Parker",
+			"Mr. Negative",
+			"Spider-Man",
+			"Toxin (Eddie Brock)",
+			"Wraith"
+		]
+	},
+	{
+		"id": 23900,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": []
+	},
+	{
+		"id": 5685,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Iron Man"
+		]
+	},
+	{
+		"id": 1703,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Iron Man"
+		]
+	},
+	{
+		"id": 1448,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": [
+			"Excalibur"
+		]
+	},
+	{
+		"id": 1491,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": []
+	},
+	{
+		"id": 1490,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": []
+	},
+	{
+		"id": 1481,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": [
+			"Thor"
+		]
+	},
+	{
+		"id": 923,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": [
+			"Avengers",
+			"Captain America"
+		]
+	},
+	{
+		"id": 90,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": []
+	},
+	{
+		"id": 845,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hawkeye",
+			"Iron Man",
+			"Scarlet Witch",
+			"Wasp"
+		]
+	},
+	{
+		"id": 885,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": [
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 912,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": [
+			"Fantastic Four"
+		]
+	},
+	{
+		"id": 896,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": [
+			"Iron Man"
+		]
+	},
+	{
+		"id": 893,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": []
+	},
+	{
+		"id": 875,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": [
+			"Thor"
+		]
+	},
+	{
+		"id": 767,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"id": 826,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": [
+			"Fantastic Four"
+		]
+	},
+	{
+		"id": 532,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"id": 801,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": []
+	},
+	{
+		"id": 816,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": [
+			"Iron Man"
+		]
+	},
+	{
+		"id": 814,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": [
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 795,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": [
+			"Thor"
+		]
+	},
+	{
+		"id": 748,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": [
+			"Fantastic Four"
+		]
+	},
+	{
+		"id": 587,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": [
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 514,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": []
+	},
+	{
+		"id": 557,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": [
+			"Iron Man"
+		]
+	},
+	{
+		"id": 573,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": []
+	},
+	{
+		"id": 567,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": [
+			"Thor"
+		]
+	},
+	{
+		"id": 595,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": [
+			"Captain America",
+			"Hydra"
+		]
+	},
+	{
+		"id": 585,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": [
+			"Iron Man"
+		]
+	},
+	{
+		"id": 552,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": [
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 599,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": [
+			"Thor"
+		]
+	},
+	{
+		"id": 605,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": []
+	},
+	{
+		"id": 741,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": [
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 738,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": [
+			"Iron Man"
+		]
+	},
+	{
+		"id": 715,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Iron Man",
+			"Thor"
+		]
+	},
+	{
+		"id": 698,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": [
+			"Iron Man"
+		]
+	},
+	{
+		"id": 702,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": [
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 685,
+		"events": [
+			"Avengers Disassembled"
+		],
+		"characters": [
+			"Thor"
+		]
+	},
+	{
+		"id": 23037,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Spider-Man",
+			"Thor"
+		]
+	},
+	{
+		"id": 22606,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Spider-Man",
+			"Thor"
+		]
+	},
+	{
+		"id": 22601,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Spider-Man",
+			"Thor"
+		]
+	},
+	{
+		"id": 23032,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Spider-Man",
+			"Thor"
+		]
+	},
+	{
+		"id": 2270,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Captain America",
+			"Captain Marvel (Mar-Vell)",
+			"Colossus",
+			"Cyclops",
+			"Hawkeye",
+			"Hulk",
+			"Human Torch",
+			"Iron Man",
+			"Lockheed",
+			"Magneto",
+			"Mr. Fantastic",
+			"Nightcrawler",
+			"Professor X",
+			"Rogue",
+			"She-Hulk (Jennifer Walters)",
+			"Spider-Man",
+			"Storm",
+			"Thing",
+			"Thor",
+			"Wasp",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 18953,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Quasar (Phyla-Vell)"
+		]
+	},
+	{
+		"id": 11711,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Thor"
+		]
+	},
+	{
+		"id": 10583,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Captain America",
+			"Captain Marvel (Mar-Vell)",
+			"Colossus",
+			"Cyclops",
+			"Hawkeye",
+			"Hulk",
+			"Human Torch",
+			"Iron Man",
+			"Magneto",
+			"Mr. Fantastic",
+			"Nightcrawler",
+			"Professor X",
+			"Rogue",
+			"She-Hulk (Jennifer Walters)",
+			"Spider-Man",
+			"Storm",
+			"Thing",
+			"Thor",
+			"Wasp",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 10582,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Captain America",
+			"Captain Marvel (Mar-Vell)",
+			"Colossus",
+			"Cyclops",
+			"Hawkeye",
+			"Hulk",
+			"Human Torch",
+			"Iron Man",
+			"Magneto",
+			"Mr. Fantastic",
+			"Nightcrawler",
+			"Professor X",
+			"Rogue",
+			"She-Hulk (Jennifer Walters)",
+			"Spider-Man",
+			"Storm",
+			"Thing",
+			"Thor",
+			"Wasp",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 10581,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Captain America",
+			"Captain Marvel (Mar-Vell)",
+			"Colossus",
+			"Cyclops",
+			"Doctor Doom",
+			"Hawkeye",
+			"Hulk",
+			"Human Torch",
+			"Iron Man",
+			"Magneto",
+			"Mr. Fantastic",
+			"Nightcrawler",
+			"Professor X",
+			"Rogue",
+			"She-Hulk (Jennifer Walters)",
+			"Spider-Man",
+			"Storm",
+			"Thing",
+			"Thor",
+			"Wasp",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 10591,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Captain America",
+			"Captain Marvel (Mar-Vell)",
+			"Colossus",
+			"Cyclops",
+			"Hawkeye",
+			"Hulk",
+			"Human Torch",
+			"Iron Man",
+			"Magneto",
+			"Mr. Fantastic",
+			"Nightcrawler",
+			"Professor X",
+			"Rogue",
+			"She-Hulk (Jennifer Walters)",
+			"Spider-Man",
+			"Storm",
+			"Thing",
+			"Thor",
+			"Wasp",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 10590,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Captain America",
+			"Captain Marvel (Mar-Vell)",
+			"Colossus",
+			"Cyclops",
+			"Doctor Octopus",
+			"Hawkeye",
+			"Hulk",
+			"Human Torch",
+			"Iron Man",
+			"Magneto",
+			"Mr. Fantastic",
+			"Nightcrawler",
+			"Professor X",
+			"Rogue",
+			"She-Hulk (Jennifer Walters)",
+			"Spider-Man",
+			"Storm",
+			"Thing",
+			"Thor",
+			"Wasp",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 10589,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Absorbing Man",
+			"Captain America",
+			"Captain Marvel (Mar-Vell)",
+			"Colossus",
+			"Cyclops",
+			"Doctor Octopus",
+			"Hawkeye",
+			"Hulk",
+			"Human Torch",
+			"Iron Man",
+			"Magneto",
+			"Mr. Fantastic",
+			"Nightcrawler",
+			"Professor X",
+			"Rogue",
+			"She-Hulk (Jennifer Walters)",
+			"Spider-Man",
+			"Storm",
+			"Thing",
+			"Thor",
+			"Wasp",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 10588,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Absorbing Man",
+			"Captain America",
+			"Captain Marvel (Mar-Vell)",
+			"Colossus",
+			"Cyclops",
+			"Doctor Doom",
+			"Doctor Octopus",
+			"Galactus",
+			"Hawkeye",
+			"Hulk",
+			"Human Torch",
+			"Iron Man",
+			"Klaw",
+			"Lizard",
+			"Lockheed",
+			"Magneto",
+			"Mr. Fantastic",
+			"Nightcrawler",
+			"Professor X",
+			"Rogue",
+			"She-Hulk (Jennifer Walters)",
+			"Spider-Man",
+			"Storm",
+			"Thing",
+			"Thor",
+			"Ultron",
+			"Wasp",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 10587,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Captain America",
+			"Captain Marvel (Mar-Vell)",
+			"Colossus",
+			"Cyclops",
+			"Doctor Doom",
+			"Hawkeye",
+			"Hulk",
+			"Human Torch",
+			"Iron Man",
+			"Magneto",
+			"Mr. Fantastic",
+			"Nightcrawler",
+			"Professor X",
+			"Rogue",
+			"She-Hulk (Jennifer Walters)",
+			"Spider-Man",
+			"Storm",
+			"Thing",
+			"Thor",
+			"Wasp",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 10586,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Captain America",
+			"Captain Marvel (Mar-Vell)",
+			"Colossus",
+			"Cyclops",
+			"Hawkeye",
+			"Hulk",
+			"Human Torch",
+			"Iron Man",
+			"Magneto",
+			"Mr. Fantastic",
+			"Nightcrawler",
+			"Professor X",
+			"Rogue",
+			"She-Hulk (Jennifer Walters)",
+			"Spider-Man",
+			"Storm",
+			"Thing",
+			"Thor",
+			"Wasp",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"id": 10585,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Captain America",
+			"Captain Marvel (Mar-Vell)",
+			"Colossus",
+			"Cyclops",
+			"Doctor Doom",
+			"Hawkeye",
+			"Hulk",
+			"Human Torch",
+			"Iron Man",
+			"Lockheed",
+			"Magneto",
+			"Mr. Fantastic",
+			"Nightcrawler",
+			"Professor X",
+			"Rogue",
+			"She-Hulk (Jennifer Walters)",
+			"Spider-Man",
+			"Storm",
+			"Thing",
+			"Thor",
+			"Wasp",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 10584,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Captain America",
+			"Captain Marvel (Mar-Vell)",
+			"Colossus",
+			"Cyclops",
+			"Galactus",
+			"Hawkeye",
+			"Hulk",
+			"Human Torch",
+			"Iron Man",
+			"Lockheed",
+			"Magneto",
+			"Mr. Fantastic",
+			"Nightcrawler",
+			"Professor X",
+			"Rogue",
+			"She-Hulk (Jennifer Walters)",
+			"Spider-Man",
+			"Storm",
+			"Thing",
+			"Thor",
+			"Wasp",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 9420,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Iron Man"
+		]
+	},
+	{
+		"id": 19622,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Black Widow"
+		]
+	},
+	{
+		"id": 13722,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Amiko",
+			"Charles Xavier",
+			"Colossus",
+			"Cyclops",
+			"Lockheed",
+			"Madelyne Pryor",
+			"Nightcrawler",
+			"Rogue",
+			"Storm",
+			"Sunfire",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"id": 6652,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Avengers",
+			"Black Cat",
+			"Curt Conners",
+			"J. Jonah Jameson",
+			"Peter Parker",
+			"Robbie Robertson",
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 7112,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Avengers",
+			"Scarlet Witch",
+			"Starfox",
+			"Vision"
+		]
+	},
+	{
+		"id": 10580,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Captain America",
+			"Captain Marvel (Mar-Vell)",
+			"Colossus",
+			"Cyclops",
+			"Hawkeye",
+			"Hulk",
+			"Human Torch",
+			"Iron Man",
+			"Lockheed",
+			"Magneto",
+			"Mr. Fantastic",
+			"Nightcrawler",
+			"Professor X",
+			"Rogue",
+			"She-Hulk (Jennifer Walters)",
+			"Spider-Man",
+			"Storm",
+			"Thing",
+			"Thor",
+			"Wasp",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 9106,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Hulk"
+		]
+	},
+	{
+		"id": 9419,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Iron Man"
+		]
+	},
+	{
+		"id": 7111,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"id": 7673,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Captain America"
+		]
+	},
+	{
+		"id": 9105,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Hulk"
+		]
+	},
+	{
+		"id": 18718,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": []
+	},
+	{
+		"id": 9418,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Iron Man"
+		]
+	},
+	{
+		"id": 13721,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Charles Xavier",
+			"Colossus",
+			"Emma Frost",
+			"Kitty Pryde",
+			"Nightcrawler",
+			"Storm",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"id": 13078,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Fantastic Four",
+			"Human Torch",
+			"Invisible Woman",
+			"Iron Man",
+			"Mr. Fantastic",
+			"Scarlet Witch",
+			"She-Hulk (Jennifer Walters)",
+			"Vision"
+		]
+	},
+	{
+		"id": 6651,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Harry Osborn",
+			"J. Jonah Jameson",
+			"Peter Parker",
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 14793,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 13720,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Caliban",
+			"Colossus",
+			"Masque",
+			"Nightcrawler",
+			"Rogue",
+			"Storm",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"id": 6650,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Harry Osborn",
+			"J. Jonah Jameson",
+			"Kingpin",
+			"Peter Parker",
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 7110,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"id": 10348,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Kitty Pryde",
+			"New Mutants"
+		]
+	},
+	{
+		"id": 13719,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Avalanche",
+			"Blob",
+			"Colossus",
+			"Destiny",
+			"Masque",
+			"Nightcrawler",
+			"Pyro",
+			"Rogue",
+			"Storm",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"id": 7109,
+		"events": [
+			"Secret Wars"
+		],
+		"characters": [
+			"Avengers",
+			"Captain Marvel (Monica Rambeau)",
+			"Doctor Strange",
+			"Scarlet Witch",
+			"She-Hulk (Jennifer Walters)",
+			"Spider-Woman (Jessica Drew)",
+			"Tigra (Greer Nelson)"
+		]
+	},
+	{
+		"id": 41278,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": [
+			"Avengers",
+			"Black Widow",
+			"Captain America",
+			"Doctor Strange",
+			"Hawkeye",
+			"Hope Summers",
+			"Iron Fist (Danny Rand)",
+			"Iron Man",
+			"Luke Cage",
+			"Red Hulk",
+			"Scarlet Witch",
+			"Spider-Woman (Jessica Drew)",
+			"Thing",
+			"Thor",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 41279,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": [
+			"Cyclops",
+			"Emma Frost"
+		]
+	},
+	{
+		"id": 41276,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": []
+	},
+	{
+		"id": 40258,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": [
+			"Avengers",
+			"Jocasta",
+			"Lightspeed",
+			"Reptil",
+			"White Tiger (Angela Del Toro)",
+			"X-23"
+		]
+	},
+	{
+		"id": 41277,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": [
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 40264,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": [
+			"Avengers",
+			"Emma Frost",
+			"Giant Man",
+			"Lightspeed",
+			"Reptil",
+			"Tigra (Greer Nelson)",
+			"White Tiger (Angela Del Toro)",
+			"X-23",
+			"X-Men"
+		]
+	},
+	{
+		"id": 41275,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": []
+	},
+	{
+		"id": 40739,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": [
+			"Hawkeye",
+			"Luke Cage",
+			"Spider-Woman (Jessica Drew)"
+		]
+	},
+	{
+		"id": 40088,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": []
+	},
+	{
+		"id": 41192,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": []
+	},
+	{
+		"id": 40151,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": []
+	},
+	{
+		"id": 40709,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": [
+			"Avengers",
+			"Captain Marvel (Carol Danvers)",
+			"X-Men"
+		]
+	},
+	{
+		"id": 41189,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": [
+			"Colossus",
+			"Cyclops",
+			"Magik (Illyana Rasputin)",
+			"X-Men"
+		]
+	},
+	{
+		"id": 40740,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": [
+			"Hope Summers",
+			"Iron Fist (Danny Rand)",
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 40153,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": []
+	},
+	{
+		"id": 40254,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": [
+			"Avengers",
+			"Emma Frost",
+			"Giant Man",
+			"Lightspeed",
+			"Reptil",
+			"Tigra (Greer Nelson)",
+			"White Tiger (Angela Del Toro)",
+			"X-23",
+			"X-Men"
+		]
+	},
+	{
+		"id": 40847,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": [
+			"Avengers",
+			"X-Men"
+		]
+	},
+	{
+		"id": 40253,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": [
+			"Avengers",
+			"Hercules",
+			"Lightspeed",
+			"Reptil",
+			"Tigra (Greer Nelson)",
+			"X-23"
+		]
+	},
+	{
+		"id": 41190,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": [
+			"Captain America",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 40152,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": [
+			"Cyclops"
+		]
+	},
+	{
+		"id": 40843,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": [
+			"Avengers",
+			"X-Men"
+		]
+	},
+	{
+		"id": 38580,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": []
+	},
+	{
+		"id": 40705,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": []
+	},
+	{
+		"id": 40410,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": [
+			"Thor"
+		]
+	},
+	{
+		"id": 41193,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": [
+			"Avengers",
+			"Captain Marvel (Carol Danvers)",
+			"Hope Summers",
+			"Jean Grey",
+			"Luke Cage",
+			"Thing",
+			"Thor",
+			"X-Men"
+		]
+	},
+	{
+		"id": 40155,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": [
+			"Sub-Mariner",
+			"Thing"
+		]
+	},
+	{
+		"id": 40250,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": [
+			"Avengers",
+			"Reptil",
+			"Sebastian Shaw",
+			"X-23"
+		]
+	},
+	{
+		"id": 38583,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": []
+	},
+	{
+		"id": 40737,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": [
+			"Hope Summers",
+			"Iron Fist (Danny Rand)"
+		]
+	},
+	{
+		"id": 41187,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"id": 40251,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": [
+			"Avengers",
+			"Giant Man",
+			"Quicksilver",
+			"Tigra (Greer Nelson)",
+			"Wolverine",
+			"X-23"
+		]
+	},
+	{
+		"id": 40160,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": [
+			"Colossus",
+			"Red Hulk"
+		]
+	},
+	{
+		"id": 40738,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": [
+			"Black Widow",
+			"Iron Fist (Danny Rand)"
+		]
+	},
+	{
+		"id": 40706,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Captain Britain",
+			"Captain Marvel (Carol Danvers)",
+			"Iron Patriot (James Rhodes)",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"id": 41191,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Colossus",
+			"Cyclops",
+			"Emma Frost",
+			"Gambit",
+			"Iron Man",
+			"Juggernaut",
+			"Luke Cage",
+			"Magneto",
+			"Spider-Man",
+			"Storm",
+			"X-Men"
+		]
+	},
+	{
+		"id": 40405,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hawkeye",
+			"Iron Man",
+			"Red Hulk",
+			"Storm",
+			"Thor",
+			"X-Men"
+		]
+	},
+	{
+		"id": 38585,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": [
+			"Avengers",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"id": 40163,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": [
+			"X-Men"
+		]
+	},
+	{
+		"id": 41188,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Iron Man",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"id": 39769,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"id": 35232,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"id": 40249,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": [
+			"Avengers",
+			"Giant Man",
+			"Lightspeed",
+			"Quicksilver",
+			"Reptil",
+			"White Tiger (Angela Del Toro)"
+		]
+	},
+	{
+		"id": 39770,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": [
+			"Avengers",
+			"Cable",
+			"Red Hulk"
+		]
+	},
+	{
+		"id": 42166,
+		"events": [
+			"Avengers VS X-Men"
+		],
+		"characters": []
+	},
+	{
+		"id": 17695,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Loki",
+			"Magneto"
+		]
+	},
+	{
+		"id": 12064,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 12063,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 13157,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Captain Marvel (Carol Danvers)",
+			"Doctor Doom",
+			"Fantastic Four",
+			"Invisible Woman",
+			"Mr. Fantastic",
+			"Thing"
+		]
+	},
+	{
+		"id": 12060,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 13799,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Banshee",
+			"Forge",
+			"Legion",
+			"Mandarin",
+			"Nick Fury",
+			"Psylocke",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"id": 6737,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Captain Universe",
+			"Felicia Hardy",
+			"Loki",
+			"Mary Jane Watson",
+			"Peter Parker",
+			"Sebastian Shaw",
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 7748,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Captain America",
+			"Mr. Hyde",
+			"Serpent Society"
+		]
+	},
+	{
+		"id": 10428,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"New Mutants"
+		]
+	},
+	{
+		"id": 13156,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Captain Marvel (Carol Danvers)",
+			"Fantastic Four",
+			"Human Torch",
+			"Invisible Woman",
+			"Mr. Fantastic"
+		]
+	},
+	{
+		"id": 17797,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": []
+	},
+	{
+		"id": 6933,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"id": 7190,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Avengers",
+			"Black Widow",
+			"Captain America",
+			"Hellcat (Patsy Walker)",
+			"Scarlet Witch",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"id": 13155,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Beetle (Abner Jenkins)",
+			"Captain Marvel (Carol Danvers)",
+			"Constrictor",
+			"Fantastic Four",
+			"Human Torch",
+			"Invisible Woman",
+			"Mr. Fantastic",
+			"Thing",
+			"Thor"
+		]
+	},
+	{
+		"id": 17796,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"id": 14610,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Doctor Doom",
+			"Hydro-Man",
+			"Rhino",
+			"Shocker (Herman Schultz)",
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 12059,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 13798,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Banshee",
+			"Forge",
+			"Legion",
+			"Psylocke",
+			"Shadow King",
+			"Storm",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"id": 20172,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Ancient One",
+			"Clea"
+		]
+	},
+	{
+		"id": 9497,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Iron Man"
+		]
+	},
+	{
+		"id": 12746,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Alpha Flight"
+		]
+	},
+	{
+		"id": 6736,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Mary Jane Watson",
+			"Peter Parker",
+			"Sebastian Shaw",
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 12269,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Apocalypse",
+			"Archangel",
+			"Beast",
+			"Cyclops",
+			"Iceman",
+			"Lilandra",
+			"X-Men"
+		]
+	},
+	{
+		"id": 18950,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Quasar (Phyla-Vell)"
+		]
+	},
+	{
+		"id": 8269,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Daredevil",
+			"Ultron"
+		]
+	},
+	{
+		"id": 7747,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Captain America"
+		]
+	},
+	{
+		"id": 15168,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Silver Surfer"
+		]
+	},
+	{
+		"id": 10427,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"New Mutants"
+		]
+	},
+	{
+		"id": 14138,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Iron Man",
+			"Tiger Shark",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 13797,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Colossus",
+			"Dazzler",
+			"Havok",
+			"Mandarin",
+			"Mojo",
+			"Psylocke",
+			"Rogue",
+			"Spiral (Rita Wayword)",
+			"Storm",
+			"X-Men"
+		]
+	},
+	{
+		"id": 9496,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Iron Man"
+		]
+	},
+	{
+		"id": 12744,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Alpha Flight"
+		]
+	},
+	{
+		"id": 6735,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Doctor Doom",
+			"Kingpin",
+			"Magneto",
+			"Mary Jane Watson",
+			"Peter Parker",
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 18939,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Captain America",
+			"Quasar (Phyla-Vell)"
+		]
+	},
+	{
+		"id": 8268,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Daredevil",
+			"Gorgon",
+			"Karnak",
+			"Ultron"
+		]
+	},
+	{
+		"id": 7746,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Captain America"
+		]
+	},
+	{
+		"id": 10426,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"New Mutants"
+		]
+	},
+	{
+		"id": 7189,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Avengers",
+			"Falcon",
+			"Scarlet Witch",
+			"Vision"
+		]
+	},
+	{
+		"id": 22166,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Bushwacker",
+			"Doctor Doom",
+			"Punisher"
+		]
+	},
+	{
+		"id": 17795,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Avengers",
+			"Loki",
+			"Magneto"
+		]
+	},
+	{
+		"id": 11740,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Firestar",
+			"Juggernaut",
+			"Marvel Boy",
+			"Namorita",
+			"Night Thrasher",
+			"Nova",
+			"Penance (Robert Baldwin)",
+			"Thor"
+		]
+	},
+	{
+		"id": 14608,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 12057,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 20171,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Clea",
+			"Doctor Strange",
+			"Wong"
+		]
+	},
+	{
+		"id": 14136,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Doctor Doom",
+			"Iron Man",
+			"Magneto",
+			"Red Skull",
+			"Tiger Shark",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 22165,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Bushwacker",
+			"Kingpin",
+			"Punisher"
+		]
+	},
+	{
+		"id": 11739,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Firestar",
+			"Juggernaut",
+			"Marvel Boy",
+			"Namorita",
+			"Night Thrasher",
+			"Nova",
+			"Penance (Robert Baldwin)",
+			"Thor"
+		]
+	},
+	{
+		"id": 14607,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 20170,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Black Knight (Sir Percy of Scandia)",
+			"Hobgoblin (Roderick Kingsley)",
+			"Morbius",
+			"Wong"
+		]
+	},
+	{
+		"id": 6734,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Harry Osborn",
+			"Mary Jane Watson",
+			"Peter Parker",
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 9174,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Hulk"
+		]
+	},
+	{
+		"id": 7188,
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"She-Hulk (Jennifer Walters)",
+			"Sub-Mariner",
+			"Thor"
+		]
+	},
+	{
+		"id": 33931,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 28958,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 29084,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"Captain America"
+		]
+	},
+	{
+		"id": 24957,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"Banshee (Theresa Rourke)",
+			"Deadpool",
+			"Hulk",
+			"Sasquatch (Walter Langkowski)",
+			"Taskmaster",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"id": 24958,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"Deadpool"
+		]
+	},
+	{
+		"id": 24292,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 24283,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 24299,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 24276,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 24293,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 24282,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 26301,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 24107,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 24071,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 24070,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 24090,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 24091,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 23870,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 23868,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 23880,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 23877,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 23876,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 23860,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 23878,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 23906,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 23867,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 23872,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 23863,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 23678,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 23694,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 23696,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 23689,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 23695,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 23693,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 23671,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 23675,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 23692,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 23685,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 23697,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 23676,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 23674,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 23686,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 23207,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 23219,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 23216,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 23211,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 23189,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 23171,
+		"events": [
+			"Secret Invasion",
+			"War of Kings"
+		],
+		"characters": []
+	},
+	{
+		"id": 23208,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Iron Man",
+			"Nick Fury",
+			"Skrulls",
+			"Spider-Man",
+			"Wasp",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 23022,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 26274,
+		"events": [
+			"Dark Reign",
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 22500,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"Avengers",
+			"Captain Marvel (Carol Danvers)",
+			"Hank Pym",
+			"Iron Man",
+			"Norman Osborn",
+			"Thor",
+			"Wasp"
+		]
+	},
+	{
+		"id": 22506,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"3-D Man",
+			"Ant-Man (Eric O'Grady)",
+			"Avengers",
+			"Dum Dum Dugan",
+			"Hank Pym",
+			"Hardball",
+			"Jocasta",
+			"Komodo (Melati Kusuma)"
+		]
+	},
+	{
+		"id": 23026,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 22980,
+		"events": [
+			"Dark Reign",
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 22479,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"Jessica Jones",
+			"Luke Cage"
+		]
+	},
+	{
+		"id": 22555,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 22527,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"Avengers",
+			"Skrulls"
+		]
+	},
+	{
+		"id": 22545,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"X-Men"
+		]
+	},
+	{
+		"id": 22534,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 22592,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 22483,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"Iron Man"
+		]
+	},
+	{
+		"id": 22495,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"GW Bridge"
+		]
+	},
+	{
+		"id": 21690,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 22297,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"Darkhawk",
+			"Nova",
+			"Quasar (Wendell Vaughn)"
+		]
+	},
+	{
+		"id": 22354,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"X-Men"
+		]
+	},
+	{
+		"id": 22360,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"Thor"
+		]
+	},
+	{
+		"id": 22299,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"3-D Man",
+			"Ant-Man (Eric O'Grady)",
+			"Avengers",
+			"Cloud 9",
+			"Dum Dum Dugan",
+			"Gravity",
+			"Hank Pym",
+			"Hardball",
+			"Jocasta",
+			"Komodo (Melati Kusuma)",
+			"Skrulls",
+			"Thor Girl"
+		]
+	},
+	{
+		"id": 22432,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 22353,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 22272,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"Thunderbolts"
+		]
+	},
+	{
+		"id": 22332,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"Skrulls",
+			"Wasp"
+		]
+	},
+	{
+		"id": 22271,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"Madame Masque",
+			"The Hood"
+		]
+	},
+	{
+		"id": 22352,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"Guardians of the Galaxy"
+		]
+	},
+	{
+		"id": 22274,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"Iron Man"
+		]
+	},
+	{
+		"id": 22292,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"Captain Marvel (Mar-Vell)",
+			"Kree",
+			"Skrulls"
+		]
+	},
+	{
+		"id": 22367,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 21689,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 22348,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"Deadpool"
+		]
+	},
+	{
+		"id": 22415,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 22340,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 22288,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"GW Bridge",
+			"Skrulls"
+		]
+	},
+	{
+		"id": 21975,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"3-D Man",
+			"Ant-Man (Eric O'Grady)",
+			"Avengers",
+			"Bengal",
+			"Constrictor",
+			"Hank Pym",
+			"Jocasta",
+			"Komodo (Melati Kusuma)",
+			"Nick Fury",
+			"Skrulls",
+			"Spider-Woman (Jessica Drew)",
+			"Trauma"
+		]
+	},
+	{
+		"id": 21942,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 21949,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"She-Hulk (Jennifer Walters)"
+		]
+	},
+	{
+		"id": 22026,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 21943,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"Black Panther",
+			"Skrulls",
+			"Storm"
+		]
+	},
+	{
+		"id": 21944,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"Thunderbolts"
+		]
+	},
+	{
+		"id": 21974,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"Darkhawk",
+			"Nova"
+		]
+	},
+	{
+		"id": 22019,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"Deadpool"
+		]
+	},
+	{
+		"id": 21969,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"Maria Hill",
+			"Nick Fury",
+			"Skrulls"
+		]
+	},
+	{
+		"id": 22034,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"Thor"
+		]
+	},
+	{
+		"id": 22025,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"Guardians of the Galaxy"
+		]
+	},
+	{
+		"id": 21946,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"Iron Man"
+		]
+	},
+	{
+		"id": 21688,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 22021,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"Deadpool"
+		]
+	},
+	{
+		"id": 21785,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": []
+	},
+	{
+		"id": 22001,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"Avengers",
+			"Skrulls"
+		]
+	},
+	{
+		"id": 21726,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"Captain Marvel (Carol Danvers)",
+			"Skrulls"
+		]
+	},
+	{
+		"id": 22027,
+		"events": [
+			"Secret Invasion"
+		],
+		"characters": [
+			"X-Men"
+		]
+	},
+	{
+		"id": 22582,
+		"events": [
+			"Civil War"
+		],
+		"characters": []
+	},
+	{
+		"id": 33122,
+		"events": [
+			"Civil War"
+		],
+		"characters": []
+	},
+	{
+		"id": 34243,
+		"events": [
+			"Civil War"
+		],
+		"characters": []
+	},
+	{
+		"id": 33118,
+		"events": [
+			"Civil War"
+		],
+		"characters": []
+	},
+	{
+		"id": 27843,
+		"events": [
+			"Civil War"
+		],
+		"characters": []
+	},
+	{
+		"id": 27844,
+		"events": [
+			"Civil War"
+		],
+		"characters": []
+	},
+	{
+		"id": 22616,
+		"events": [
+			"Civil War"
+		],
+		"characters": []
+	},
+	{
+		"id": 16624,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Captain Marvel (Carol Danvers)",
+			"Rogue",
+			"Warbird"
+		]
+	},
+	{
+		"id": 16625,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Absorbing Man",
+			"Captain America",
+			"Chameleon",
+			"Dragon Man",
+			"GW Bridge",
+			"Human Torch",
+			"Invisible Woman",
+			"Luke Cage",
+			"Molten Man",
+			"Prowler",
+			"Puma",
+			"Rhino",
+			"Shocker (Herman Schultz)",
+			"Spider-Man",
+			"Vision"
+		]
+	},
+	{
+		"id": 16213,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Iron Man",
+			"Luke Cage",
+			"Maria Hill",
+			"Sentry (Robert Reynolds)",
+			"Spider-Woman (Jessica Drew)"
+		]
+	},
+	{
+		"id": 15905,
+		"events": [
+			"Civil War"
+		],
+		"characters": []
+	},
+	{
+		"id": 15900,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Iron Man"
+		]
+	},
+	{
+		"id": 13513,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Black Bolt",
+			"Black Panther",
+			"Captain America",
+			"Falcon",
+			"Inhumans",
+			"Invisible Woman",
+			"Iron Man",
+			"Medusa",
+			"Spider-Man",
+			"Storm",
+			"Sub-Mariner",
+			"Thor",
+			"Tigra (Greer Nelson)"
+		]
+	},
+	{
+		"id": 6450,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Cable",
+			"Daredevil",
+			"Deadpool",
+			"X-Men"
+		]
+	},
+	{
+		"id": 13529,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Iron Man",
+			"Kingpin"
+		]
+	},
+	{
+		"id": 13511,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 13469,
+		"events": [
+			"Civil War"
+		],
+		"characters": []
+	},
+	{
+		"id": 13525,
+		"events": [
+			"Civil War"
+		],
+		"characters": []
+	},
+	{
+		"id": 6188,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Molly Hayes",
+			"Patriot",
+			"Runaways",
+			"Stature",
+			"Young Avengers"
+		]
+	},
+	{
+		"id": 13537,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Arnim Zola",
+			"Red Skull"
+		]
+	},
+	{
+		"id": 13508,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Iron Man",
+			"Namor",
+			"Nitro",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 20777,
+		"events": [
+			"Civil War"
+		],
+		"characters": []
+	},
+	{
+		"id": 6139,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Fantastic Four"
+		]
+	},
+	{
+		"id": 6337,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Bishop",
+			"Cyclops",
+			"Domino",
+			"Shatterstar",
+			"X-Men"
+		]
+	},
+	{
+		"id": 6285,
+		"events": [
+			"Civil War"
+		],
+		"characters": []
+	},
+	{
+		"id": 6480,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Fantastic Four"
+		]
+	},
+	{
+		"id": 6304,
+		"events": [
+			"Civil War"
+		],
+		"characters": []
+	},
+	{
+		"id": 6167,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 6135,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Thunderbolts"
+		]
+	},
+	{
+		"id": 6445,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 6133,
+		"events": [
+			"Civil War"
+		],
+		"characters": []
+	},
+	{
+		"id": 6274,
+		"events": [
+			"Civil War"
+		],
+		"characters": []
+	},
+	{
+		"id": 6415,
+		"events": [
+			"Civil War"
+		],
+		"characters": []
+	},
+	{
+		"id": 6268,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Black Cat",
+			"Captain America",
+			"Colleen Wing",
+			"Heroes For Hire",
+			"Luke Cage",
+			"Misty Knight",
+			"Tarantula (Luis Alvarez)"
+		]
+	},
+	{
+		"id": 6031,
+		"events": [
+			"Civil War"
+		],
+		"characters": []
+	},
+	{
+		"id": 5683,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Captain America",
+			"Moon Knight"
+		]
+	},
+	{
+		"id": 6117,
+		"events": [
+			"Civil War"
+		],
+		"characters": []
+	},
+	{
+		"id": 6014,
+		"events": [
+			"Civil War"
+		],
+		"characters": []
+	},
+	{
+		"id": 5803,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Fantastic Four"
+		]
+	},
+	{
+		"id": 5981,
+		"events": [
+			"Civil War"
+		],
+		"characters": []
+	},
+	{
+		"id": 6010,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Captain America"
+		]
+	},
+	{
+		"id": 5994,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Iron Man"
+		]
+	},
+	{
+		"id": 6047,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Black Panther",
+			"Storm",
+			"Thor"
+		]
+	},
+	{
+		"id": 5969,
+		"events": [
+			"Civil War"
+		],
+		"characters": []
+	},
+	{
+		"id": 5808,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Captain America",
+			"Daredevil",
+			"Iron Man",
+			"J. Jonah Jameson",
+			"Kingpin",
+			"Mary Jane Watson",
+			"Spider-Man",
+			"Spider-Woman (Jessica Drew)",
+			"Thor"
+		]
+	},
+	{
+		"id": 5793,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Captain America",
+			"Captain Marvel (Carol Danvers)",
+			"Daredevil",
+			"Hank Pym",
+			"Hulkling",
+			"Invisible Woman",
+			"Iron Man",
+			"Mr. Fantastic",
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 5977,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Ghost Rider (Johnny Blaze)"
+		]
+	},
+	{
+		"id": 5941,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Fantastic Four",
+			"Iron Man",
+			"Spider-Man",
+			"Thing"
+		]
+	},
+	{
+		"id": 5805,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Black Panther",
+			"Captain America",
+			"Falcon",
+			"Invisible Woman",
+			"Storm",
+			"Tigra (Greer Nelson)"
+		]
+	},
+	{
+		"id": 5902,
+		"events": [
+			"Civil War"
+		],
+		"characters": []
+	},
+	{
+		"id": 5831,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Captain America",
+			"GW Bridge",
+			"Human Torch",
+			"Invisible Woman",
+			"Luke Cage",
+			"Rhino",
+			"Spider-Man",
+			"Vision"
+		]
+	},
+	{
+		"id": 5240,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Fantastic Four",
+			"Human Torch"
+		]
+	},
+	{
+		"id": 5849,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Blade",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 5270,
+		"events": [
+			"Civil War"
+		],
+		"characters": []
+	},
+	{
+		"id": 5227,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Captain America",
+			"Cloak",
+			"Falcon",
+			"Invisible Woman",
+			"Vision"
+		]
+	},
+	{
+		"id": 5266,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Captain America",
+			"GW Bridge",
+			"Luke Cage",
+			"Molten Man",
+			"Vision"
+		]
+	},
+	{
+		"id": 5245,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Captain America",
+			"Punisher",
+			"Spider-Man",
+			"Winter Soldier"
+		]
+	},
+	{
+		"id": 5731,
+		"events": [
+			"Civil War"
+		],
+		"characters": []
+	},
+	{
+		"id": 5667,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Black Panther",
+			"Captain America",
+			"Iron Man",
+			"Storm"
+		]
+	},
+	{
+		"id": 5694,
+		"events": [
+			"Civil War"
+		],
+		"characters": []
+	},
+	{
+		"id": 5567,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Iron Man"
+		]
+	},
+	{
+		"id": 5087,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Fantastic Four"
+		]
+	},
+	{
+		"id": 5269,
+		"events": [
+			"Civil War"
+		],
+		"characters": []
+	},
+	{
+		"id": 5742,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Iron Man",
+			"Kingpin"
+		]
+	},
+	{
+		"id": 5408,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Black Panther",
+			"Captain America",
+			"Iron Man",
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 5402,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Arnim Zola",
+			"Red Skull"
+		]
+	},
+	{
+		"id": 5116,
+		"events": [
+			"Civil War"
+		],
+		"characters": []
+	},
+	{
+		"id": 5437,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Captain America",
+			"GW Bridge",
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 5094,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Iron Man",
+			"Mary Jane Watson",
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 5418,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Iron Man",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 5438,
+		"events": [
+			"Civil War"
+		],
+		"characters": []
+	},
+	{
+		"id": 5075,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Bullseye",
+			"Punisher",
+			"Spider-Man",
+			"Venom (Mac Gargan)"
+		]
+	},
+	{
+		"id": 5569,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Captain Marvel (Carol Danvers)",
+			"Rogue"
+		]
+	},
+	{
+		"id": 5259,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Iron Man"
+		]
+	},
+	{
+		"id": 5248,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Iron Man",
+			"Maria Hill"
+		]
+	},
+	{
+		"id": 5267,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Molly Hayes",
+			"Patriot",
+			"Runaways",
+			"Stature",
+			"Young Avengers"
+		]
+	},
+	{
+		"id": 5285,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Black Cat",
+			"Heroes For Hire"
+		]
+	},
+	{
+		"id": 5096,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Sentry (Robert Reynolds)"
+		]
+	},
+	{
+		"id": 5243,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Black Panther",
+			"Sub-Mariner"
+		]
+	},
+	{
+		"id": 5239,
+		"events": [
+			"Civil War"
+		],
+		"characters": []
+	},
+	{
+		"id": 5260,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Captain Marvel (Carol Danvers)"
+		]
+	},
+	{
+		"id": 5200,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Iron Man",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 5265,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"X-Men"
+		]
+	},
+	{
+		"id": 5115,
+		"events": [
+			"Civil War"
+		],
+		"characters": []
+	},
+	{
+		"id": 4799,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Fantastic Four"
+		]
+	},
+	{
+		"id": 15799,
+		"events": [
+			"Civil War"
+		],
+		"characters": []
+	},
+	{
+		"id": 5086,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Captain America",
+			"S.H.I.E.L.D."
+		]
+	},
+	{
+		"id": 5091,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Cable",
+			"Deadpool"
+		]
+	},
+	{
+		"id": 5114,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Runaways",
+			"Young Avengers"
+		]
+	},
+	{
+		"id": 5123,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Black Cat",
+			"Captain America",
+			"Colleen Wing",
+			"Heroes For Hire",
+			"Luke Cage"
+		]
+	},
+	{
+		"id": 4806,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Iron Man",
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 4823,
+		"events": [
+			"Civil War"
+		],
+		"characters": []
+	},
+	{
+		"id": 5048,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Iron Man",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 5112,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"X-Men"
+		]
+	},
+	{
+		"id": 4786,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Hank Pym",
+			"Thor",
+			"Tigra (Greer Nelson)",
+			"Wasp"
+		]
+	},
+	{
+		"id": 5131,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Avengers",
+			"Fantastic Four",
+			"New Warriors",
+			"X-Men"
+		]
+	},
+	{
+		"id": 5105,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Captain Marvel (Carol Danvers)"
+		]
+	},
+	{
+		"id": 4803,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Deadpool"
+		]
+	},
+	{
+		"id": 4821,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Runaways",
+			"Young Avengers"
+		]
+	},
+	{
+		"id": 4838,
+		"events": [
+			"Civil War"
+		],
+		"characters": [
+			"Heroes For Hire"
+		]
+	},
+	{
+		"id": 24839,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 26762,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Thunderbolts"
+		]
+	},
+	{
+		"id": 28056,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 26761,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Thunderbolts"
+		]
+	},
+	{
+		"id": 27046,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 28055,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 24922,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 26760,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Thunderbolts"
+		]
+	},
+	{
+		"id": 27045,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 27423,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Iron Man",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 28054,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 26009,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Captain Marvel (Carol Danvers)"
+		]
+	},
+	{
+		"id": 24855,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 27044,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 27421,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 26332,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 24920,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 27419,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Hulk"
+		]
+	},
+	{
+		"id": 26759,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Thunderbolts"
+		]
+	},
+	{
+		"id": 25538,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Iron Man"
+		]
+	},
+	{
+		"id": 24859,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 27422,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 26758,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Thunderbolts"
+		]
+	},
+	{
+		"id": 24851,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 24843,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 27559,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 27424,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"X-Men"
+		]
+	},
+	{
+		"id": 26008,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Captain Marvel (Carol Danvers)"
+		]
+	},
+	{
+		"id": 25537,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Iron Man"
+		]
+	},
+	{
+		"id": 24918,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 27418,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 24854,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 27512,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"X-Men"
+		]
+	},
+	{
+		"id": 26757,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Thunderbolts"
+		]
+	},
+	{
+		"id": 25536,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Iron Man"
+		]
+	},
+	{
+		"id": 24916,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 27558,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 26007,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Captain Marvel (Carol Danvers)"
+		]
+	},
+	{
+		"id": 27643,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"X-Men"
+		]
+	},
+	{
+		"id": 26330,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 24832,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 27438,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 24813,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Dark Avengers"
+		]
+	},
+	{
+		"id": 24846,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 27344,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Ares",
+			"Cyclops",
+			"Dark Avengers",
+			"Gambit",
+			"Rogue",
+			"X-Men"
+		]
+	},
+	{
+		"id": 24850,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 26967,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Cloak",
+			"Dagger",
+			"Daken",
+			"Dark X-Men",
+			"Emma Frost",
+			"Sub-Mariner",
+			"X-Men"
+		]
+	},
+	{
+		"id": 26006,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Captain Marvel (Carol Danvers)"
+		]
+	},
+	{
+		"id": 25535,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Iron Man"
+		]
+	},
+	{
+		"id": 24858,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 25365,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Hulk"
+		]
+	},
+	{
+		"id": 26033,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Madame Masque",
+			"Spider-Man",
+			"The Hood"
+		]
+	},
+	{
+		"id": 26756,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Thunderbolts"
+		]
+	},
+	{
+		"id": 24849,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 26288,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Baron Strucker",
+			"Gorgon",
+			"Hydra",
+			"Nick Fury",
+			"Secret Warriors",
+			"Viper"
+		]
+	},
+	{
+		"id": 24842,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 26500,
+		"events": [
+			"Dark Reign",
+			"Siege"
+		],
+		"characters": []
+	},
+	{
+		"id": 24853,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 24838,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 27557,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 27642,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"X-Men"
+		]
+	},
+	{
+		"id": 27437,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 26005,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Captain Marvel (Carol Danvers)"
+		]
+	},
+	{
+		"id": 24835,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Fantastic Four"
+		]
+	},
+	{
+		"id": 24914,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 26243,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Daken",
+			"Sentry (Robert Reynolds)",
+			"She-Hulk (Lyra)"
+		]
+	},
+	{
+		"id": 24617,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Black Panther"
+		]
+	},
+	{
+		"id": 24406,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Harry Osborn",
+			"J. Jonah Jameson",
+			"Lily Hollister",
+			"May Parker",
+			"Menace",
+			"Norman Osborn",
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 24946,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Deadpool"
+		]
+	},
+	{
+		"id": 24812,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Dark Avengers"
+		]
+	},
+	{
+		"id": 24845,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 27641,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"X-Men"
+		]
+	},
+	{
+		"id": 26004,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Captain Marvel (Carol Danvers)",
+			"Moonstone"
+		]
+	},
+	{
+		"id": 27343,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Cyclops",
+			"Dark Avengers",
+			"Gambit",
+			"Rogue",
+			"X-Men"
+		]
+	},
+	{
+		"id": 26328,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 24361,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Agents of Atlas"
+		]
+	},
+	{
+		"id": 25534,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Iron Man"
+		]
+	},
+	{
+		"id": 26966,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"X-Men"
+		]
+	},
+	{
+		"id": 26003,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Captain Marvel (Carol Danvers)",
+			"Deadpool",
+			"Spider-Man",
+			"Wolverine"
+		]
+	},
+	{
+		"id": 27871,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 24857,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 26031,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Daimon Hellstrom",
+			"Doctor Strange",
+			"Dormammu",
+			"The Hood"
+		]
+	},
+	{
+		"id": 26755,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Thunderbolts"
+		]
+	},
+	{
+		"id": 27436,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 24848,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 24573,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Diamondback (Rachel Leighton)",
+			"Gauntlet (Joseph Green)",
+			"Gravity",
+			"Justice",
+			"Norman Osborn",
+			"Prodigy",
+			"Taskmaster",
+			"Tigra (Greer Nelson)",
+			"Trauma"
+		]
+	},
+	{
+		"id": 26287,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Hydra",
+			"Nick Fury",
+			"Secret Warriors"
+		]
+	},
+	{
+		"id": 24405,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Harry Osborn",
+			"Lily Hollister",
+			"Menace",
+			"Norman Osborn",
+			"Spider-Man"
+		]
+	},
+	{
+		"id": 27513,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"X-Men"
+		]
+	},
+	{
+		"id": 24841,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 24810,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Dark Avengers"
+		]
+	},
+	{
+		"id": 24912,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 24831,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 25533,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Iron Man"
+		]
+	},
+	{
+		"id": 24837,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 24852,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 25970,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Amadeus Cho",
+			"Edwin Jarvis",
+			"Hank Pym",
+			"Hercules",
+			"Human Torch",
+			"Invisible Woman",
+			"Jocasta",
+			"Mr. Fantastic",
+			"Stature",
+			"Vision"
+		]
+	},
+	{
+		"id": 24844,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 26242,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": []
+	},
+	{
+		"id": 26154,
+		"events": [
+			"Dark Reign"
+		],
+		"characters": [
+			"Punisher",
+			"The Hood"
+		]
+	}
+]
