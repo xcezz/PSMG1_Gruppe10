@@ -32,7 +32,7 @@
     <div class="section no-pad-bot">
       <div class="container">
         <br><br>
-        <h1 class="header center white-text text-lighten-2">MARVEL Heroes</h1>
+        <h1 class="header center white-text text-lighten-2">MARVEL Avengers</h1>
         <div class="row center">
           <h5 class="header col s12 light">a D3.js visualization project</h5>
         </div>
@@ -47,46 +47,92 @@
   </div>
 
 
-  <div class="container">
+  <div class="container" id="chart-container">
     <div class="section">
       <div class="row">
         <div class="col s12 center" id="appearances">
-          <h3><i class="mdi-content-send brown-text"></i></h3>
-          <h4>Anzahl der Auftritte</h4>
+          <h5>Klicke auf mir herum und finde heraus, was ich dir alles zu erzählen habe.</h5>
+			<svg id="ourChart"></svg> <!-- hier wird die Visualisierung angehängt -->
         </div>
       </div>
 
     </div>
   </div>
-
-<!--  <div class="container">
-    <div class="section">
-
-      <div class="row">
-        <div class="col s12 center" id="appearances">
-          <h3><i class="mdi-content-send brown-text"></i></h3>
-          <h4>Anzahl der Tode</h4>
-          
+	
+	<!-- das ist wird bei Klick auf einen Helden, angezeigt und zeigt seinen Steckbrief -->
+	<div class="container" id="hero-description">
+	  <div class="row">
+        <div class="col s12 m7">
+          <div class="card">
+            <div class="card-image">
+              <img src="http://i.annihil.us/u/prod/marvel/i/mg/3/50/526548a343e4b/landscape_small.jpg"> <!-- Beispiel Bild... -->
+              <span class="card-title">Steckbrief von (Name)</span>
+            </div>
+            <div class="card-content">
+			  <div class="card-tabs">
+				<ul class="tabs tabs-fixed-width">
+				  <li class="tab"><a class="active" href="#tab1">Allgemeines</a></li>
+				  <li class="tab"><a href="#tab2">Auftritte</a></li>
+				</ul>
+			  </div>
+				<div class="card-content grey lighten-4">
+				  <div id="tab1" class="black-text">
+					<div class="row">
+					  <div class="col s6">
+						<span class="black-text">Name: </span>
+					  </div>
+					  <div class="col s6">
+						<span class="black-text" id="name-span">Spidey</span>
+					  </div>
+					</div>
+					<div class="row">
+					  <div class="col s6">
+						<span class="black-text">Kurzbeschreibung: </span>
+					  </div>
+					  <div class="col s6">
+						<span class="black-text" id="age-span">blabla</span>
+			   		  </div>
+					</div>
+				  </div>
+				  <div id="tab2" class="black-text">
+					<div class="row">
+					  <div class="col s6">
+						<span class="black-text">Comics: </span>
+					  </div>
+					  <div class="col s6">
+						<span class="black-text" id="age-span">blabla</span>
+					  </div>
+					</div>
+					<div class="row">
+					  <div class="col s6">
+						<span class="black-text">Serien: </span>
+					  </div>
+					  <div class="col s6">
+						<span class="black-text" id="age-span">blub</span>
+					  </div>
+					</div>
+				  </div>
+				</div>
+				<div class="card-action">
+              		<a href="#">Wiki Artikel</a>
+				</div>
+            </div>
+          </div>
         </div>
       </div>
-
-    </div>
-  </div>-->
-
+	</div>
+	
   <footer class="page-footer marvel-color">
     <div class="container">
       <div class="row">
         <div class="col l6 s12">
-          <h5 class="white-text">PSMG I: Informationsvisualisierung</h5>
-          <p class="grey-text text-lighten-4">wow! yes master doge, much full! need adipiscing. wow! such ipsum, oh my full, plz layout. much doge. want doge.</p>
-
-
+          <h6 class="white-text">PSMG I: Informationsvisualisierung</h6>
         </div>
       </div>
     </div>
     <div class="footer-copyright">
       <div class="container">
-      Made by <a class="brown-text text-lighten-3" href="http://materializecss.com">Gruppe 10</a>
+      Made by <a class="brown-text text-lighten-3" href="http://materializecss.com">Gruppe 10: Markus Bosek, Svenja Franzes, Kerstin Mondry, Christian Winkler</a>
       </div>
     </div>
   </footer>
