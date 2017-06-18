@@ -15,21 +15,102 @@
             <section>
                 <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
 
-                <h3 class="meta">Legende</h3>
+                <div class="meta"><h2>Legende</h2></div>
+
+                <p>Jedes Ringelement repräsentiert ein Event im Marveluniversum, jeder Punkt ein Comic und jeder Kreis einen Avenger.Je größer der Kreis, desto öfter trat der Held in Erscheinung.</p>
+
+                <div class="meta"><h2>Die Visualisierung</h2></div>
+
+
                 
-                <p class="meta">Jedes Ringelement repräsentiert ein Event im Marveluniversum, jeder Punkt ein Comic und jeder Kreis einen Avenger.Je größer der Kreis, desto öfter trat der Held in Erscheinung.</p>
                 <div class="columns">
-                
+                    <div>
+                        <table>
+                            <tr><td>Steckbrief von Spidey</td><td><img src="http://i.annihil.us/u/prod/marvel/i/mg/3/50/526548a343e4b/landscape_small.jpg"></td></tr>
+                            <tr>
+                                <th>Information</th>
+                                <th>Wert</th>
+                            </tr>
+                            <tr><td>Name</td><td>Spidey</td></tr>
+                            <tr><td>Beschreibung</td><td>Best Spieder EUW</td></tr>
+                            <tr><td>Comics</td><td>Spiederman, the Amazing Spiederman..</td></tr>
+                            <tr><td>Serien</td><td>ren, no sea takimata sanctus est Lorem ip</td></tr>
+                            <tr><td>Wiki</td></tr>
+                        </table>
+                    </div>
                     <svg width="800" height="820" id="myChart">
                         <g class="lines"></g>
                         <g class="arc"></g>
                         <g class="comics"></g>
                         <g class="heroes"></g>
                     </svg>
-                    <div class="rows" >
-                        <p>Steckbrief</p>
-                        <p>Hier kommt der Steckbrief hin</p>
-                    </div>
+
+
+                    <!-- das wird bei Klick auf einen Helden, angezeigt und zeigt seinen Steckbrief -->
+                    <!--<div class="container" id="hero-description">
+<div class="row">
+<div class="col s4"></div>
+<div class="col s4 center">
+<div class="card">
+<div class="card-image">
+<img src="http://i.annihil.us/u/prod/marvel/i/mg/3/50/526548a343e4b/landscape_small.jpg">  Beispiel Bild... 
+<span class="card-title">Steckbrief von (Name)</span>
+</div>
+<div class="card-content">
+<div class="card-tabs">
+<ul class="tabs tabs-fixed-width">
+<li class="tab"><a class="active" href="#tab1">Allgemeines</a></li>
+<li class="tab"><a href="#tab2">Auftritte</a></li>
+</ul>
+</div>
+<div class="card-content grey lighten-4">
+<div id="tab1" class="black-text">
+<div class="row">
+<div class="col s6">
+<span class="black-text">Name: </span>
+</div>
+<div class="col s6">
+<span class="black-text" id="name-span">Spidey</span>
+</div>
+</div>
+<div class="row">
+<div class="col s6">
+<span class="black-text">Kurzbeschreibung: </span>
+</div>
+<div class="col s6">
+<span class="black-text" id="description-span">blabla</span>
+</div>
+</div>
+</div>
+<div id="tab2" class="black-text">
+<div class="row">
+<div class="col s6">
+<span class="black-text">Comics: </span>
+</div>
+<div class="col s6">
+<span class="black-text" id="comics-span">blabla</span>
+</div>
+</div>
+<div class="row">
+<div class="col s6">
+<span class="black-text">Serien: </span>
+</div>
+<div class="col s6">
+<span class="black-text" id="series-span">blub</span>
+</div>
+</div>
+</div>
+</div>
+<div class="card-action center">
+<a id="wiki-link" href="#">Wiki Artikel</a>
+</div>
+</div>
+</div>
+</div>
+<div class="col s4"></div>
+</div>
+</div>-->
+
                 </div>
 
             </section>
@@ -54,9 +135,11 @@
         <script src="js/avengers.js"></script>
 
         <!--stylesheets-->
-        <link rel="stylesheet" href="css/style.css">
         <link href='http://fonts.googleapis.com/css?family=Fjalla+One' rel='stylesheet' type='text/css'>
         <link href='http://fonts.googleapis.com/css?family=Playball' rel='stylesheet' type='text/css'>
+        <!--<link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/> -->
+        <link rel="stylesheet" href="css/style.css">
+
 
     </body>
 </html>
