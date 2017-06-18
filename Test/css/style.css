@@ -1,0 +1,77 @@
+body{
+  background:black;
+}
+
+article{
+  width:80%;
+  margin:0 auto;
+  padding:50px 50px;
+  background:snow;
+}
+
+h1{
+  font-family: 'Fjalla One', sans-serif;
+  font-size:72px;
+  text-align:center;
+  text-transform:uppercase;
+  letter-spacing:4px;
+  word-spacing:10px;
+  margin-top:0;
+  margin-bottom:20px;
+}
+
+h1 span{
+  font-family: 'Playball', cursive;
+  font-size:60px;
+  text-transform:lowercase;
+  position:relative;
+  top:-15px 
+}
+.meta{
+  border-top:1px solid #333;
+  text-align:center;
+}
+
+.meta h2{
+  display:inline-block;
+  margin:0;
+  padding:0 20px;
+  background:white;
+  position:relative;
+  top:-12px;
+  font-family: 'Fjalla One', sans-serif;
+  font-size:18px;
+  text-transform:uppercase;
+  letter-spacing:3px;
+}
+
+header{
+  margin-bottom:25px;
+}
+section .columns{
+  -moz-column-count:3; /* Firefox */
+  -webkit-column-count:3; /* Safari and Chrome */
+  column-count:3;
+}
+.columns p{
+  font-size:18px;
+  margin:0 0 10px 0;
+  text-indent:10px;
+}
+
+strong{
+  margin:0;
+}
+
+blockquote{
+  -moz-column-span:all;
+  -webkit-column-span:all;
+  column-span:all;
+  font-family: 'Playball', cursive;
+  font-size:32px;
+  font-weight:normal;
+  border-top:3px solid #333;
+  border-bottom:3px solid #333;
+  padding:15px 0;
+  
+}

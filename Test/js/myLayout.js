@@ -15,7 +15,7 @@ var MyLayout = function(){
     comicCountEvents = data.comicCountEvents;
     lines = data.lines;
     arcdata = {
-      centerX: 600,
+      centerX: 400,
       centerY: 405
     };
     eventArcData = {

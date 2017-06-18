@@ -1,28 +1,62 @@
 <!DOCTYPE html>
 <html lang="de">
-<head>
-   <meta charset="UTF-8">
-   <title>TEST</title>
-</head>
+    <head>
+        <meta charset="UTF-8">
+        <title>TEST</title>
+    </head>
 
-<body>
-   <h1>TEST</h1>
-   <p onclick="doChart()">Hier klicken um den Chart anzuzeigen!</p>
-   <svg width="1200" height="820" id="myChart">
-     <g class="lines"></g>
-     <g class="arc"></g>
-     <g class="comics"></g>
-     <g class="heroes"></g>
-   </svg>
+    <body>
+        <article>
+            <header>
+                <h1>Marvel's The Avengers comic and event appearance
+                    <span>by</span> Gruppe 10 </h1>
+                <div class="meta"><h2>Informationsvisualisierung Universität Regensburg</h2></div>
+            </header>
+            <section>
+                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
 
-   <!-- Scripts should be loaded when the dom model is done and thus are included at the bottom -->
-   <!-- reasons: script error doesnt lead to blank page; receiving and parsing large scripts increases load time -->
-   <!-- dom model is ready and modifiable -->
-   <script src="lib/d3/d3.js"></script>
-   <script src="js/character.js"></script>
-   <script src="js/comic.js"></script>
-   <script src="js/event.js"></script>
-   <script src="js/myLayout.js"></script>
-   <script src="js/avengers.js"></script>
-</body>
+                <h3 class="meta">Legende</h3>
+                
+                <p class="meta">Jedes Ringelement repräsentiert ein Event im Marveluniversum, jeder Punkt ein Comic und jeder Kreis einen Avenger.Je größer der Kreis, desto öfter trat der Held in Erscheinung.</p>
+                <div class="columns">
+                
+                    <svg width="800" height="820" id="myChart">
+                        <g class="lines"></g>
+                        <g class="arc"></g>
+                        <g class="comics"></g>
+                        <g class="heroes"></g>
+                    </svg>
+                    <div class="rows" >
+                        <p>Steckbrief</p>
+                        <p>Hier kommt der Steckbrief hin</p>
+                    </div>
+                </div>
+
+            </section>
+
+
+
+
+
+
+
+        </article>
+
+
+        <!-- Scripts should be loaded when the dom model is done and thus are included at the bottom -->
+        <!-- reasons: script error doesnt lead to blank page; receiving and parsing large scripts increases load time -->
+        <!-- dom model is ready and modifiable -->
+        <script src="lib/d3/d3.js"></script>
+        <script src="js/character.js"></script>
+        <script src="js/comic.js"></script>
+        <script src="js/event.js"></script>
+        <script src="js/myLayout.js"></script>
+        <script src="js/avengers.js"></script>
+
+        <!--stylesheets-->
+        <link rel="stylesheet" href="css/style.css">
+        <link href='http://fonts.googleapis.com/css?family=Fjalla+One' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Playball' rel='stylesheet' type='text/css'>
+
+    </body>
 </html>
