@@ -31,7 +31,8 @@ MarvelApp = function(){
     comics: {
       radius: 280,
       comicsPerRow: 6,
-      comicRowSpacing: 10
+      comicRowSpacing: 10,
+      offsetPerRow: 1
     },
     characters: {
       diameter: 500
