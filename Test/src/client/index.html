@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+</head>
+
+<body>
+  <svg width="1200" height="820" id="myChart">
+   <g class="lines"></g>
+   <g class="arc"></g>
+   <g class="heroes"></g>
+   <g class="lines_active"></g>
+   <g class="heroes_active"></g>
+   <g class="comics"></g>
+  </svg>
+  <script src="js/lib/d3/d3.js"></script>
+  <script type="text/javascript" src="js/MarvelApp.js"></script>
+  <script type="text/javascript" src="js/MarvelModel.js"></script>
+  <script type="text/javascript" src="js/Character.js"></script>
+  <script type="text/javascript" src="js/Comic.js"></script>
+  <script type="text/javascript" src="js/Event.js"></script>
+  <script type="text/javascript" src="js/Line.js"></script>
+  <script type="text/javascript" src="js/Layout.js"></script>
+  <script type="text/javascript" src="js/MarvelView.js"></script>
+  <script type="text/javascript" src="js/MarvelController.js"></script>
+  <script type="text/javascript">
+    MarvelApp.init();
+  </script>
+</body>
+</html>

@@ -1,2 +1,0 @@
-avengercomics: Alle comics in denen der Charakter "Avengers" vorkommt (auch comics ohne events/nicht alle comics der events)
-avengerevents: Alle comics aller events in denen der Charakter "Avengers" vorkommt (comics ohne event nicht dabei/auch comics ohne avengers dabei)

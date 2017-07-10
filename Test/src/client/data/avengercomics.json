@@ -1,0 +1,7088 @@
+[
+	{
+		"events": [],
+		"sale_date": "1963-09-10T00:00:00-0400",
+		"name": "Avengers (1963) #1",
+		"id": 6951,
+		"characters": [
+			"Avengers",
+			"Fantastic Four",
+			"Hank Pym",
+			"Hulk",
+			"Iron Man",
+			"Loki",
+			"Thor"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1963-11-10T00:00:00-0500",
+		"name": "Avengers (1963) #2",
+		"id": 7063,
+		"characters": [
+			"Avengers",
+			"Giant Man",
+			"Hulk",
+			"Iron Man",
+			"Thor"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1964-01-10T00:00:00-0500",
+		"name": "Avengers (1963) #3",
+		"id": 7174,
+		"characters": [
+			"Avengers",
+			"Fantastic Four",
+			"Hulk",
+			"Spider-Man",
+			"X-Men"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1964-03-10T00:00:00-0500",
+		"name": "Avengers (1963) #4",
+		"id": 7285,
+		"characters": [
+			"Avengers",
+			"Captain America"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1964-05-10T00:00:00-0400",
+		"name": "Avengers (1963) #5",
+		"id": 7299,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Iron Man",
+			"Thor",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1964-07-10T00:00:00-0400",
+		"name": "Avengers (1963) #6",
+		"id": 7310,
+		"characters": [
+			"Avengers",
+			"Baron Zemo (Heinrich Zemo)",
+			"Zemo"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1964-08-10T00:00:00-0400",
+		"name": "Avengers (1963) #7",
+		"id": 7321,
+		"characters": [
+			"Avengers",
+			"Baron Zemo (Heinrich Zemo)",
+			"Captain America",
+			"Iron Man",
+			"Loki",
+			"Odin",
+			"Thor",
+			"Zemo"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1964-09-10T00:00:00-0400",
+		"name": "Avengers (1963) #8",
+		"id": 7332,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hank Pym",
+			"Iron Man",
+			"Kang",
+			"Thor",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1964-10-01T00:00:00-0400",
+		"name": "Amazing Spider-Man Annual (1964) #1",
+		"id": 16883,
+		"characters": [
+			"Avengers",
+			"Chameleon",
+			"Doctor Octopus",
+			"Doctor Strange",
+			"Electro",
+			"Giant Man",
+			"J. Jonah Jameson",
+			"Kraven the Hunter",
+			"May Parker",
+			"Mysterio",
+			"Sandman",
+			"Spider-Man"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1964-10-10T00:00:00-0400",
+		"name": "Avengers (1963) #9",
+		"id": 7343,
+		"characters": [
+			"Avengers",
+			"Masters of Evil",
+			"Wonder Man"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1964-11-10T00:00:00-0500",
+		"name": "Avengers (1963) #10",
+		"id": 6953,
+		"characters": [
+			"Avengers",
+			"Baron Zemo (Heinrich Zemo)",
+			"Captain America",
+			"Hank Pym",
+			"Hercules",
+			"Iron Man",
+			"Thor",
+			"Wasp",
+			"Zemo"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1964-12-10T00:00:00-0500",
+		"name": "Avengers (1963) #11",
+		"id": 6964,
+		"characters": [
+			"Avengers",
+			"Kang",
+			"Spider-Man"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1965-01-10T00:00:00-0500",
+		"name": "Avengers (1963) #12",
+		"id": 6975,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hank Pym",
+			"Iron Man",
+			"Mole Man",
+			"Thor",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1965-01-10T00:00:00-0500",
+		"name": "Uncanny X-Men (1963) #9",
+		"id": 12543,
+		"characters": [
+			"Avengers",
+			"Professor X",
+			"Rachel Grey",
+			"X-Men"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1965-02-10T00:00:00-0500",
+		"name": "Avengers (1963) #13",
+		"id": 6986,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1965-03-10T00:00:00-0500",
+		"name": "Avengers (1963) #14",
+		"id": 6997,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1965-04-10T00:00:00-0500",
+		"name": "Avengers (1963) #15",
+		"id": 7008,
+		"characters": [
+			"Avengers",
+			"Zemo"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1965-05-10T00:00:00-0400",
+		"name": "Avengers (1963) #16",
+		"id": 7019,
+		"characters": [
+			"Avengers",
+			"Hawkeye"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1965-06-10T00:00:00-0400",
+		"name": "Avengers (1963) #17",
+		"id": 7030,
+		"characters": [
+			"Avengers",
+			"Hawkeye",
+			"Hulk",
+			"Quicksilver",
+			"Scarlet Witch"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1965-07-10T00:00:00-0400",
+		"name": "Avengers (1963) #18",
+		"id": 7041,
+		"characters": [
+			"Avengers",
+			"Hawkeye",
+			"Quicksilver",
+			"Scarlet Witch"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1965-08-10T00:00:00-0400",
+		"name": "Avengers (1963) #19",
+		"id": 7052,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hawkeye",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Swordsman"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1965-09-10T00:00:00-0400",
+		"name": "Avengers (1963) #20",
+		"id": 7064,
+		"characters": [
+			"Avengers",
+			"Hawkeye",
+			"Mandarin",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Swordsman"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1965-10-10T00:00:00-0400",
+		"name": "Avengers (1963) #21",
+		"id": 7075,
+		"characters": [
+			"Avengers",
+			"Hawkeye",
+			"Quicksilver",
+			"Scarlet Witch"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1965-11-10T00:00:00-0500",
+		"name": "Avengers (1963) #22",
+		"id": 7086,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hawkeye",
+			"Quicksilver"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1965-12-10T00:00:00-0500",
+		"name": "Avengers (1963) #23",
+		"id": 7097,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hawkeye",
+			"Quicksilver",
+			"Scarlet Witch"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1966-01-10T00:00:00-0500",
+		"name": "Avengers (1963) #24",
+		"id": 7108,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hawkeye",
+			"Kang",
+			"Quicksilver",
+			"Scarlet Witch"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1966-02-10T00:00:00-0500",
+		"name": "Avengers (1963) #25",
+		"id": 7119,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hawkeye",
+			"Quicksilver",
+			"Scarlet Witch"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1966-03-10T00:00:00-0500",
+		"name": "Avengers (1963) #26",
+		"id": 7130,
+		"characters": [
+			"Avengers",
+			"Hawkeye",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1966-04-10T00:00:00-0500",
+		"name": "Avengers (1963) #27",
+		"id": 7141,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hawkeye",
+			"Quicksilver",
+			"Scarlet Witch"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1966-05-10T00:00:00-0400",
+		"name": "Avengers (1963) #28",
+		"id": 7152,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Giant Man",
+			"Hawkeye",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1966-06-10T00:00:00-0400",
+		"name": "Avengers (1963) #29",
+		"id": 7163,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hawkeye",
+			"Quicksilver",
+			"Scarlet Witch"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1966-07-10T00:00:00-0400",
+		"name": "Avengers (1963) #30",
+		"id": 7175,
+		"characters": [
+			"Avengers",
+			"Black Widow",
+			"Captain America",
+			"Hawkeye",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Swordsman",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1966-08-10T00:00:00-0400",
+		"name": "Avengers (1963) #31",
+		"id": 7186,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hawkeye",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1966-09-10T00:00:00-0400",
+		"name": "Avengers (1963) #32",
+		"id": 7197,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hawkeye",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1966-10-10T00:00:00-0400",
+		"name": "Avengers (1963) #33",
+		"id": 7208,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hawkeye",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1966-11-03T00:00:00-0500",
+		"name": "Amazing Spider-Man Annual (1964) #3",
+		"id": 16904,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Daredevil",
+			"Hulk",
+			"Iron Man",
+			"Spider-Man",
+			"Thor"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1966-11-10T00:00:00-0500",
+		"name": "Avengers (1963) #34",
+		"id": 7219,
+		"characters": [
+			"Avengers",
+			"Hawkeye",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1966-12-10T00:00:00-0500",
+		"name": "Avengers (1963) #35",
+		"id": 7230,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hawkeye",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1967-01-10T00:00:00-0500",
+		"name": "Avengers (1963) #36",
+		"id": 7241,
+		"characters": [
+			"Avengers",
+			"Black Widow",
+			"Captain America",
+			"Hawkeye",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1967-02-10T00:00:00-0500",
+		"name": "Avengers (1963) #37",
+		"id": 7252,
+		"characters": [
+			"Avengers",
+			"Black Widow",
+			"Captain America",
+			"Hawkeye",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1967-03-10T00:00:00-0500",
+		"name": "Avengers (1963) #38",
+		"id": 7263,
+		"characters": [
+			"Avengers",
+			"Black Widow",
+			"Captain America",
+			"Hawkeye",
+			"Hercules",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1967-04-10T00:00:00-0500",
+		"name": "Avengers (1963) #39",
+		"id": 7274,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hawkeye",
+			"Hercules",
+			"Mad Thinker",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1967-05-10T00:00:00-0400",
+		"name": "Avengers (1963) #40",
+		"id": 7286,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hawkeye",
+			"Hercules",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Sub-Mariner",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1967-06-10T00:00:00-0400",
+		"name": "Avengers (1963) #41",
+		"id": 7290,
+		"characters": [
+			"Avengers",
+			"Black Widow",
+			"Captain America",
+			"Diablo",
+			"Hawkeye",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1967-07-10T00:00:00-0400",
+		"name": "Avengers (1963) #42",
+		"id": 7291,
+		"characters": [
+			"Avengers",
+			"Black Widow",
+			"Captain America",
+			"Diablo",
+			"Dragon Man",
+			"Hawkeye",
+			"Hercules",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1967-08-10T00:00:00-0400",
+		"name": "Avengers (1963) #43",
+		"id": 7292,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hawkeye",
+			"Hercules",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1967-09-10T00:00:00-0400",
+		"name": "Avengers (1963) #44",
+		"id": 7293,
+		"characters": [
+			"Avengers",
+			"Black Widow",
+			"Captain America",
+			"Hawkeye",
+			"Hercules",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1967-09-10T00:00:00-0400",
+		"name": "Avengers Annual (1967) #1",
+		"id": 6923,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1967-10-10T00:00:00-0400",
+		"name": "Avengers (1963) #45",
+		"id": 7294,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hawkeye",
+			"Hercules",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1967-11-10T00:00:00-0500",
+		"name": "Avengers (1963) #46",
+		"id": 7295,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hawkeye",
+			"Hercules",
+			"Quicksilver",
+			"Scarlet Witch"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1967-12-10T00:00:00-0500",
+		"name": "Avengers (1963) #47",
+		"id": 7296,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hawkeye",
+			"Hercules",
+			"Magneto",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Toad"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1968-01-10T00:00:00-0500",
+		"name": "Avengers (1963) #48",
+		"id": 7297,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hawkeye",
+			"Magneto",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Toad",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1968-02-10T00:00:00-0500",
+		"name": "Avengers (1963) #49",
+		"id": 7298,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hawkeye",
+			"Magneto",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Toad",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1968-03-10T00:00:00-0500",
+		"name": "Avengers (1963) #50",
+		"id": 7300,
+		"characters": [
+			"Ares",
+			"Avengers",
+			"Captain America",
+			"Hawkeye",
+			"Hercules",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1968-04-10T00:00:00-0500",
+		"name": "Avengers (1963) #51",
+		"id": 7301,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Captain America",
+			"Hawkeye",
+			"Hulk",
+			"Iron Man",
+			"Thor",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1968-05-10T00:00:00-0400",
+		"name": "Avengers (1963) #52",
+		"id": 7302,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Captain America",
+			"Grim Reaper",
+			"Hawkeye",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1968-06-10T00:00:00-0400",
+		"name": "Avengers (1963) #53",
+		"id": 7303,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Cyclops",
+			"Hawkeye",
+			"Magneto",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Toad",
+			"Wasp",
+			"X-Men"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1968-07-10T00:00:00-0400",
+		"name": "Avengers (1963) #54",
+		"id": 7304,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Hawkeye",
+			"Klaw",
+			"Radioactive Man",
+			"Ultron",
+			"Wasp",
+			"Whirlwind"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1968-08-10T00:00:00-0400",
+		"name": "Avengers (1963) #55",
+		"id": 7305,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Hawkeye",
+			"Ultron",
+			"Wasp",
+			"Whirlwind"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1968-09-10T00:00:00-0400",
+		"name": "Avengers Annual (1967) #2",
+		"id": 6934,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hawkeye",
+			"Hercules",
+			"Hulk",
+			"Iron Man",
+			"Quicksilver",
+			"Thor"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1968-09-10T00:00:00-0400",
+		"name": "Avengers (1963) #56",
+		"id": 7306,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Bucky",
+			"Captain America",
+			"Hawkeye",
+			"Wasp",
+			"Zemo"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1968-10-10T00:00:00-0400",
+		"name": "Avengers (1963) #57",
+		"id": 7307,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Hawkeye",
+			"Ultron",
+			"Vision",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1968-11-10T00:00:00-0500",
+		"name": "Avengers (1963) #58",
+		"id": 7308,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Captain America",
+			"Hawkeye",
+			"Iron Man",
+			"Thor",
+			"Vision",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1968-12-10T00:00:00-0500",
+		"name": "Avengers (1963) #59",
+		"id": 7309,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Hawkeye",
+			"J. Jonah Jameson",
+			"Spider-Man",
+			"Vision",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1969-01-10T00:00:00-0500",
+		"name": "Avengers (1963) #60",
+		"id": 7311,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Captain America",
+			"Hawkeye",
+			"Vision",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1969-02-10T00:00:00-0500",
+		"name": "Avengers (1963) #61",
+		"id": 7312,
+		"characters": [
+			"Avengers",
+			"Black Knight (Sir Percy of Scandia)",
+			"Black Panther",
+			"Doctor Strange",
+			"Hawkeye",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1969-03-10T00:00:00-0500",
+		"name": "Avengers (1963) #62",
+		"id": 7313,
+		"characters": [
+			"Avengers",
+			"Black Knight (Sir Percy of Scandia)",
+			"Black Panther",
+			"Hawkeye",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1969-04-10T00:00:00-0500",
+		"name": "Avengers (1963) #63",
+		"id": 7314,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Black Widow",
+			"Captain America",
+			"Hank Pym",
+			"Hawkeye",
+			"Puppet Master",
+			"Vision",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1969-05-10T00:00:00-0400",
+		"name": "Avengers (1963) #64",
+		"id": 7315,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Black Widow",
+			"Vision",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1969-06-10T00:00:00-0400",
+		"name": "Avengers (1963) #65",
+		"id": 7316,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Swordsman",
+			"Vision",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1969-07-10T00:00:00-0400",
+		"name": "Marvel Super-Heroes (1967) #21",
+		"id": 15432,
+		"characters": [
+			"Avengers",
+			"X-Men"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1969-07-10T00:00:00-0400",
+		"name": "Avengers (1963) #66",
+		"id": 7317,
+		"characters": [
+			"Avengers",
+			"Iron Man",
+			"Thor",
+			"Vision",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1969-08-10T00:00:00-0400",
+		"name": "Avengers (1963) #67",
+		"id": 7318,
+		"characters": [
+			"Avengers",
+			"Iron Man",
+			"Thor",
+			"Ultron",
+			"Vision",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1969-09-10T00:00:00-0400",
+		"name": "Avengers (1963) #68",
+		"id": 7319,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Thor",
+			"Vision",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1969-09-10T00:00:00-0400",
+		"name": "Avengers Annual (1967) #3",
+		"id": 6939,
+		"characters": [
+			"Avengers",
+			"Captain America"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1969-10-10T00:00:00-0400",
+		"name": "Avengers (1963) #69",
+		"id": 7320,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Kang",
+			"Thor",
+			"Vision",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1969-11-10T00:00:00-0500",
+		"name": "Avengers (1963) #70",
+		"id": 7322,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Doctor Spectrum",
+			"Iron Man",
+			"Kang",
+			"Nighthawk",
+			"Squadron Sinister",
+			"Thor"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1969-12-10T00:00:00-0500",
+		"name": "Avengers (1963) #71",
+		"id": 7323,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Captain America",
+			"Human Torch",
+			"Kang",
+			"Sub-Mariner",
+			"Vision",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1970-01-10T00:00:00-0500",
+		"name": "Avengers (1963) #72",
+		"id": 7324,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Rick Jones",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1970-02-10T00:00:00-0500",
+		"name": "Avengers (1963) #73",
+		"id": 7325,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Captain America",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1970-03-10T00:00:00-0500",
+		"name": "Avengers (1963) #74",
+		"id": 7326,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Vision",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1970-04-10T00:00:00-0500",
+		"name": "Avengers (1963) #75",
+		"id": 7327,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Captain America",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1970-05-10T00:00:00-0400",
+		"name": "Avengers (1963) #76",
+		"id": 7328,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Captain America",
+			"Iron Man",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1970-06-10T00:00:00-0400",
+		"name": "Avengers (1963) #77",
+		"id": 7329,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1970-07-10T00:00:00-0400",
+		"name": "Avengers (1963) #78",
+		"id": 7330,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Captain America",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1970-08-10T00:00:00-0400",
+		"name": "Avengers (1963) #79",
+		"id": 7331,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Captain America",
+			"Iron Man",
+			"Lethal Legion",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Swordsman",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1970-09-10T00:00:00-0400",
+		"name": "Avengers (1963) #80",
+		"id": 7333,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Captain America",
+			"Hawkeye",
+			"Iron Man",
+			"Quicksilver",
+			"Red Wolf",
+			"Scarlet Witch",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1970-10-10T00:00:00-0400",
+		"name": "Avengers (1963) #81",
+		"id": 7334,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Captain America",
+			"Hawkeye",
+			"Iron Man",
+			"Quicksilver",
+			"Red Wolf",
+			"Scarlet Witch",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1970-11-10T00:00:00-0500",
+		"name": "Avengers (1963) #82",
+		"id": 7335,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Captain America",
+			"Daredevil",
+			"Fantastic Four",
+			"Iron Man",
+			"Peter Parker",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Spider-Man",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1970-12-10T00:00:00-0500",
+		"name": "Avengers (1963) #83",
+		"id": 7336,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Black Widow",
+			"Hank Pym",
+			"Hawkeye",
+			"Klaw",
+			"Medusa",
+			"Odin",
+			"Quicksilver",
+			"Radioactive Man",
+			"Scarlet Witch",
+			"Vision",
+			"Wasp",
+			"Whirlwind"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1971-01-10T00:00:00-0500",
+		"name": "Avengers Annual (1967) #4",
+		"id": 6940,
+		"characters": [
+			"Avengers",
+			"Baron Zemo (Heinrich Zemo)",
+			"Black Knight (Sir Percy of Scandia)",
+			"Captain America",
+			"Hulk",
+			"Iron Man",
+			"Radioactive Man",
+			"Thor",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1971-01-10T00:00:00-0500",
+		"name": "Avengers (1963) #84",
+		"id": 7337,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Hawkeye",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1971-02-10T00:00:00-0500",
+		"name": "Avengers (1963) #85",
+		"id": 7338,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Captain America",
+			"Nighthawk",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Speed Demon",
+			"Spider-Man",
+			"Squadron Sinister",
+			"Squadron Supreme (Earth-712)",
+			"Thor",
+			"Vision",
+			"Whizzer (Stanley Stewart)"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1971-03-10T00:00:00-0500",
+		"name": "Avengers (1963) #86",
+		"id": 7339,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Doctor Spectrum",
+			"Hawkeye",
+			"Hyperion (Earth-712)",
+			"Iron Man",
+			"Nighthawk",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Squadron Sinister",
+			"Thor",
+			"Vision",
+			"Whizzer (Stanley Stewart)"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1971-04-10T00:00:00-0500",
+		"name": "Avengers (1963) #87",
+		"id": 7340,
+		"characters": [
+			"A.I.M.",
+			"Avengers",
+			"Black Panther",
+			"Edwin Jarvis",
+			"Hawkeye",
+			"Iron Man",
+			"Klaw",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1971-05-10T00:00:00-0400",
+		"name": "Avengers (1963) #88",
+		"id": 7341,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Captain America",
+			"Falcon",
+			"Glenn Talbot",
+			"Hawkeye",
+			"Hulk",
+			"Iron Man",
+			"Mr. Fantastic",
+			"Professor X",
+			"Quicksilver",
+			"Redwing",
+			"Scarlet Witch",
+			"Thor",
+			"Thunderbolt Ross",
+			"Vision",
+			"X-Men"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1971-06-10T00:00:00-0400",
+		"name": "Avengers (1963) #89",
+		"id": 7342,
+		"characters": [
+			"Avengers",
+			"Quicksilver",
+			"Rick Jones",
+			"Scarlet Witch"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1971-07-10T00:00:00-0400",
+		"name": "Iron Man (1968) #39",
+		"id": 9592,
+		"characters": [
+			"Avengers",
+			"Iron Man"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1971-07-10T00:00:00-0400",
+		"name": "Avengers (1963) #90",
+		"id": 7344,
+		"characters": [
+			"Avengers",
+			"Quicksilver",
+			"Rick Jones",
+			"Scarlet Witch",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1971-08-10T00:00:00-0400",
+		"name": "Avengers (1963) #91",
+		"id": 7345,
+		"characters": [
+			"Avengers",
+			"Quicksilver",
+			"Rick Jones",
+			"Scarlet Witch",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1971-09-10T00:00:00-0400",
+		"name": "Avengers (1963) #92",
+		"id": 7346,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Iron Man",
+			"Quicksilver",
+			"Rick Jones",
+			"Scarlet Witch",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1971-11-10T00:00:00-0500",
+		"name": "Avengers (1963) #93",
+		"id": 7347,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Iron Man",
+			"Quicksilver",
+			"Rick Jones",
+			"Scarlet Witch",
+			"Skrulls",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1971-12-10T00:00:00-0500",
+		"name": "Avengers (1963) #94",
+		"id": 7348,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Fantastic Four",
+			"Iron Man",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1972-01-10T00:00:00-0500",
+		"name": "Avengers Annual (1967) #5",
+		"id": 6941,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1972-01-10T00:00:00-0500",
+		"name": "Avengers (1963) #95",
+		"id": 7349,
+		"characters": [
+			"Avengers",
+			"Black Bolt",
+			"Captain America",
+			"Iron Man",
+			"Rick Jones",
+			"Thor",
+			"Triton",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1972-02-10T00:00:00-0500",
+		"name": "Avengers (1963) #96",
+		"id": 7350,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Iron Man",
+			"Kree",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1972-03-10T00:00:00-0500",
+		"name": "Avengers (1963) #97",
+		"id": 7351,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Iron Man",
+			"Rick Jones",
+			"Scarlet Witch",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1972-04-10T00:00:00-0500",
+		"name": "Avengers (1963) #98",
+		"id": 7352,
+		"characters": [
+			"Ares",
+			"Avengers",
+			"Captain America",
+			"Goliath (Bill Foster)",
+			"Hawkeye",
+			"Hercules",
+			"Iron Man",
+			"Quicksilver",
+			"Rick Jones",
+			"Scarlet Witch",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1972-05-10T00:00:00-0400",
+		"name": "Avengers (1963) #99",
+		"id": 7353,
+		"characters": [
+			"Ares",
+			"Avengers",
+			"Black Panther",
+			"Captain America",
+			"Edwin Jarvis",
+			"Hank Pym",
+			"Hawkeye",
+			"Hercules",
+			"Iron Man",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1972-06-10T00:00:00-0400",
+		"name": "Avengers (1963) #100",
+		"id": 6954,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hercules",
+			"Hulk",
+			"Iron Man",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Swordsman",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1972-07-10T00:00:00-0400",
+		"name": "Avengers (1963) #101",
+		"id": 6955,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Iron Man",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1972-08-10T00:00:00-0400",
+		"name": "Avengers (1963) #102",
+		"id": 6956,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Grim Reaper",
+			"Iron Man",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1972-09-10T00:00:00-0400",
+		"name": "Avengers (1963) #103",
+		"id": 6957,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hawkeye",
+			"Iron Man",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Sentinel",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1972-10-10T00:00:00-0400",
+		"name": "Avengers (1963) #104",
+		"id": 6958,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hawkeye",
+			"Iron Man",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Sentinel",
+			"Thor"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1972-10-10T00:00:00-0400",
+		"name": "Captain America (1968) #154",
+		"id": 7535,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1972-11-10T00:00:00-0500",
+		"name": "Avengers (1963) #105",
+		"id": 6959,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Hawkeye",
+			"Iron Man",
+			"Scarlet Witch",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1972-12-10T00:00:00-0500",
+		"name": "Avengers (1963) #106",
+		"id": 6960,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Captain America",
+			"Hawkeye",
+			"Iron Man",
+			"Rick Jones",
+			"Scarlet Witch",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1973-01-10T00:00:00-0500",
+		"name": "Avengers (1963) #107",
+		"id": 6961,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Grim Reaper",
+			"Hawkeye",
+			"Iron Man",
+			"Scarlet Witch",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1973-02-10T00:00:00-0500",
+		"name": "Avengers (1963) #108",
+		"id": 6962,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Captain America",
+			"Grim Reaper",
+			"Hawkeye",
+			"Iron Man",
+			"Scarlet Witch",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1973-03-10T00:00:00-0500",
+		"name": "Avengers (1963) #109",
+		"id": 6963,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Captain America",
+			"Hawkeye",
+			"Iron Man",
+			"Scarlet Witch",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1973-04-10T00:00:00-0500",
+		"name": "Avengers (1963) #110",
+		"id": 6965,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Captain America",
+			"Crystal",
+			"Cyclops",
+			"Hawkeye",
+			"Iceman",
+			"Iron Man",
+			"Jean Grey",
+			"Lockjaw",
+			"Magneto",
+			"Professor X",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Thor",
+			"Vision",
+			"X-Men"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1973-05-10T00:00:00-0400",
+		"name": "Avengers (1963) #111",
+		"id": 6966,
+		"characters": [
+			"Avengers",
+			"Black Widow",
+			"Captain America",
+			"Daredevil",
+			"Iron Man",
+			"Magneto",
+			"Scarlet Witch",
+			"Thor",
+			"Vision",
+			"X-Men"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1973-06-10T00:00:00-0400",
+		"name": "Avengers (1963) #112",
+		"id": 6967,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Black Widow",
+			"Iron Man",
+			"Scarlet Witch",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1973-07-10T00:00:00-0400",
+		"name": "Avengers (1963) #113",
+		"id": 6968,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Captain America",
+			"Iron Man",
+			"Mantis",
+			"Scarlet Witch",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1973-08-10T00:00:00-0400",
+		"name": "Avengers (1963) #114",
+		"id": 6969,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Captain America",
+			"Mantis",
+			"Scarlet Witch",
+			"Swordsman",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1973-09-10T00:00:00-0400",
+		"name": "Avengers (1963) #115",
+		"id": 6970,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Captain America",
+			"Doctor Strange",
+			"Dormammu",
+			"Iron Man",
+			"Loki",
+			"Magneto",
+			"Mantis",
+			"S.H.I.E.L.D.",
+			"Scarlet Witch",
+			"Swordsman",
+			"Swordsman (Jaques Duquesne)",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1973-10-10T00:00:00-0400",
+		"name": "Defenders (1972) #9",
+		"id": 20403,
+		"characters": [
+			"Avengers",
+			"Defenders",
+			"Hawkeye",
+			"Iron Man"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1973-10-10T00:00:00-0400",
+		"name": "Avengers (1963) #116",
+		"id": 6971,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Iron Man",
+			"Scarlet Witch",
+			"Silver Surfer",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1973-11-10T00:00:00-0500",
+		"name": "Defenders (1972) #10",
+		"id": 20263,
+		"characters": [
+			"Avengers",
+			"Defenders",
+			"Hulk",
+			"Thor"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1973-11-20T00:00:00-0500",
+		"name": "Avengers (1963) #117",
+		"id": 6972,
+		"characters": [
+			"Avengers",
+			"Iron Man",
+			"Scarlet Witch",
+			"Silver Surfer",
+			"Sub-Mariner",
+			"Swordsman",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1973-12-30T00:00:00-0500",
+		"name": "Avengers (1963) #118",
+		"id": 6973,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Captain America",
+			"Doctor Strange",
+			"Hulk",
+			"Iron Man",
+			"Scarlet Witch",
+			"Sub-Mariner",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1974-01-10T00:00:00-0400",
+		"name": "Avengers (1963) #119",
+		"id": 6974,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Captain America",
+			"Iron Man",
+			"Mantis",
+			"Scarlet Witch",
+			"Swordsman",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1974-02-20T00:00:00-0400",
+		"name": "Avengers (1963) #120",
+		"id": 6976,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Iron Man",
+			"Scarlet Witch",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1974-03-30T00:00:00-0400",
+		"name": "Avengers (1963) #121",
+		"id": 6977,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Iron Man",
+			"Mantis",
+			"Scarlet Witch",
+			"Swordsman",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1974-04-01T00:00:00-0400",
+		"name": "Avengers (1963) #122",
+		"id": 6978,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Iron Man",
+			"Mantis",
+			"Scarlet Witch",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1974-05-01T00:00:00-0400",
+		"name": "Avengers (1963) #123",
+		"id": 6979,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Iron Man",
+			"Mantis",
+			"Scarlet Witch",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1974-06-01T00:00:00-0400",
+		"name": "Avengers (1963) #124",
+		"id": 6980,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Iron Man",
+			"Mantis",
+			"Scarlet Witch",
+			"Swordsman",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1974-07-01T00:00:00-0400",
+		"name": "Avengers (1963) #125",
+		"id": 6981,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Mantis",
+			"Scarlet Witch",
+			"Thanos",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1974-08-01T00:00:00-0400",
+		"name": "Avengers (1963) #126",
+		"id": 6982,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Iron Man",
+			"Klaw",
+			"Scarlet Witch",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1974-08-10T00:00:00-0400",
+		"name": "Giant-Size Avengers (1974) #1",
+		"id": 20020,
+		"characters": [
+			"Avengers",
+			"Human Torch",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1974-09-01T00:00:00-0400",
+		"name": "Avengers (1963) #127",
+		"id": 6983,
+		"characters": [
+			"Avengers",
+			"Black Bolt",
+			"Fantastic Four",
+			"Gorgon",
+			"Human Torch",
+			"Iron Man",
+			"Lockjaw",
+			"Mantis",
+			"Medusa",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Swordsman",
+			"Thor",
+			"Ultron",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1974-10-10T00:00:00-0400",
+		"name": "Avengers (1963) #128",
+		"id": 6984,
+		"characters": [
+			"Avengers",
+			"Iron Man",
+			"Scarlet Witch",
+			"Thor"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1974-11-10T00:00:00-0500",
+		"name": "Giant-Size Avengers (1974) #2",
+		"id": 20021,
+		"characters": [
+			"Avengers",
+			"Fantastic Four"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1974-11-20T00:00:00-0500",
+		"name": "Avengers (1963) #129",
+		"id": 6985,
+		"characters": [
+			"Avengers",
+			"Iron Man",
+			"Kang",
+			"Mantis",
+			"Scarlet Witch",
+			"Swordsman",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1974-12-30T00:00:00-0500",
+		"name": "Avengers (1963) #130",
+		"id": 6987,
+		"characters": [
+			"Avengers",
+			"Crimson Dynamo",
+			"Hawkeye",
+			"Iron Man",
+			"Mantis",
+			"Radioactive Man",
+			"Scarlet Witch",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1975-01-10T00:00:00-0500",
+		"name": "Avengers (1963) #131",
+		"id": 6988,
+		"characters": [
+			"Avengers",
+			"Hawkeye",
+			"Human Torch",
+			"Iron Man",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1975-02-10T00:00:00-0500",
+		"name": "Giant-Size Avengers (1974) #3",
+		"id": 20022,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1975-02-20T00:00:00-0500",
+		"name": "Avengers (1963) #132",
+		"id": 6989,
+		"characters": [
+			"Avengers",
+			"Iron Man",
+			"Mantis",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1975-03-30T00:00:00-0400",
+		"name": "Avengers (1963) #133",
+		"id": 6990,
+		"characters": [
+			"Avengers",
+			"Hawkeye",
+			"Iron Man",
+			"Mantis",
+			"Scarlet Witch",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1975-04-01T00:00:00-0400",
+		"name": "Avengers (1963) #134",
+		"id": 6991,
+		"characters": [
+			"Avengers",
+			"Human Torch",
+			"Iron Man",
+			"Mantis",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1975-05-01T00:00:00-0400",
+		"name": "Avengers (1963) #135",
+		"id": 6992,
+		"characters": [
+			"Avengers",
+			"Iron Man",
+			"Mantis",
+			"Scarlet Witch",
+			"Thor",
+			"Ultron",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1975-06-01T00:00:00-0400",
+		"name": "Avengers (1963) #136",
+		"id": 6993,
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Iron Man"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1975-06-10T00:00:00-0400",
+		"name": "Giant-Size Avengers (1974) #4",
+		"id": 20023,
+		"characters": [
+			"Avengers",
+			"Black Widow",
+			"Hank Pym"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1975-07-01T00:00:00-0400",
+		"name": "Avengers (1963) #137",
+		"id": 6994,
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Iron Man",
+			"Moondragon",
+			"Scarlet Witch",
+			"Thor",
+			"Vision",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1975-08-01T00:00:00-0400",
+		"name": "Avengers (1963) #138",
+		"id": 6995,
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Hank Pym",
+			"Iron Man",
+			"Moondragon",
+			"Scarlet Witch",
+			"Stranger",
+			"Thor",
+			"Toad",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1975-09-01T00:00:00-0400",
+		"name": "Avengers (1963) #139",
+		"id": 6996,
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Iron Man",
+			"Thor",
+			"Wasp",
+			"Whirlwind"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1975-10-10T00:00:00-0400",
+		"name": "Avengers (1963) #140",
+		"id": 6998,
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Scarlet Witch",
+			"Thor",
+			"Vision",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1975-11-20T00:00:00-0500",
+		"name": "Avengers (1963) #141",
+		"id": 6999,
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Captain America",
+			"Iron Man",
+			"Scarlet Witch",
+			"Squadron Sinister",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1975-12-30T00:00:00-0500",
+		"name": "Avengers (1963) #142",
+		"id": 7000,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hawkeye",
+			"Iron Man",
+			"Moondragon",
+			"Scarlet Witch",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1976-01-06T00:00:00-0500",
+		"name": "Avengers Annual (1967) #6",
+		"id": 6942,
+		"characters": [
+			"Avengers",
+			"Vision",
+			"Whirlwind"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1976-01-10T00:00:00-0500",
+		"name": "Avengers (1963) #143",
+		"id": 7001,
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Captain America",
+			"Iron Man",
+			"Kang",
+			"Moondragon",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1976-02-10T00:00:00-0500",
+		"name": "Avengers (1963) #144",
+		"id": 7002,
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Captain America",
+			"Hellcat (Patsy Walker)",
+			"Iron Man",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1976-03-10T00:00:00-0500",
+		"name": "Avengers (1963) #145",
+		"id": 7003,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hawkeye",
+			"Iron Man",
+			"Scarlet Witch",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1976-04-10T00:00:00-0500",
+		"name": "Avengers (1963) #146",
+		"id": 7004,
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Captain America",
+			"Falcon",
+			"Hank Pym",
+			"Hawkeye",
+			"Iron Man",
+			"Scarlet Witch",
+			"Thor",
+			"Vision",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1976-05-10T00:00:00-0400",
+		"name": "Avengers (1963) #147",
+		"id": 7005,
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Captain America",
+			"Iron Man",
+			"Scarlet Witch",
+			"Squadron Sinister",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1976-06-10T00:00:00-0400",
+		"name": "Avengers (1963) #148",
+		"id": 7006,
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Captain America",
+			"Hellcat (Patsy Walker)",
+			"Iron Man",
+			"Scarlet Witch",
+			"Squadron Sinister",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1976-07-10T00:00:00-0400",
+		"name": "Avengers (1963) #149",
+		"id": 7007,
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Captain America",
+			"Hellcat (Patsy Walker)",
+			"Iron Man",
+			"Scarlet Witch",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1976-08-10T00:00:00-0400",
+		"name": "Avengers (1963) #150",
+		"id": 7009,
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Captain America",
+			"Hellcat (Patsy Walker)",
+			"Iron Man",
+			"Moondragon",
+			"Scarlet Witch",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1976-09-10T00:00:00-0400",
+		"name": "Avengers (1963) #151",
+		"id": 7010,
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Black Widow",
+			"Hellcat (Patsy Walker)",
+			"Hercules",
+			"Iron Man",
+			"Moondragon",
+			"Scarlet Witch",
+			"Thor",
+			"Vision",
+			"Wonder Man"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1976-10-10T00:00:00-0400",
+		"name": "Avengers (1963) #152",
+		"id": 7011,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Iron Man",
+			"Scarlet Witch",
+			"Vision",
+			"Wasp",
+			"Wonder Man"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1976-11-10T00:00:00-0500",
+		"name": "Avengers (1963) #153",
+		"id": 7012,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Iron Man",
+			"Scarlet Witch",
+			"Vision",
+			"Wasp",
+			"Yellow Claw"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1976-12-10T00:00:00-0500",
+		"name": "Avengers (1963) #154",
+		"id": 7013,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Iron Man",
+			"Scarlet Witch",
+			"Vision",
+			"Wonder Man"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1977-01-07T00:00:00-0500",
+		"name": "Avengers Annual (1967) #7",
+		"id": 6943,
+		"characters": [
+			"Avengers",
+			"Thanos"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1977-01-10T00:00:00-0500",
+		"name": "Avengers (1963) #155",
+		"id": 7014,
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Captain America",
+			"Doctor Doom",
+			"Scarlet Witch",
+			"Sub-Mariner",
+			"Vision",
+			"Wonder Man"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1977-02-10T00:00:00-0500",
+		"name": "Avengers (1963) #156",
+		"id": 7015,
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Captain America",
+			"Doctor Doom",
+			"Hank Pym",
+			"Iron Man",
+			"Namorita",
+			"Scarlet Witch",
+			"Sub-Mariner",
+			"Vision",
+			"Wasp",
+			"Wonder Man"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1977-03-10T00:00:00-0500",
+		"name": "Avengers (1963) #157",
+		"id": 7016,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hank Pym",
+			"Hawkeye",
+			"Iron Man",
+			"Scarlet Witch",
+			"Valkyrie (Samantha Parrington)",
+			"Vision",
+			"Wonder Man"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1977-04-10T00:00:00-0500",
+		"name": "Avengers (1963) #158",
+		"id": 7017,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Iron Man",
+			"Scarlet Witch",
+			"Wonder Man"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1977-05-10T00:00:00-0400",
+		"name": "Avengers (1963) #159",
+		"id": 7018,
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Black Panther",
+			"Captain America",
+			"Iron Man",
+			"Scarlet Witch",
+			"Thor",
+			"Vision",
+			"Wonder Man"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1977-06-10T00:00:00-0400",
+		"name": "Avengers (1963) #160",
+		"id": 7020,
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Black Panther",
+			"Grim Reaper",
+			"Scarlet Witch",
+			"Vision",
+			"Wonder Man"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1977-06-10T00:00:00-0400",
+		"name": "What If? (1977) #3",
+		"id": 12143,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hulk",
+			"Iron Man",
+			"Thor",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1977-07-10T00:00:00-0400",
+		"name": "Avengers (1963) #161",
+		"id": 7021,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Captain America",
+			"Scarlet Witch",
+			"Ultron",
+			"Vision",
+			"Wasp",
+			"Wonder Man"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1977-08-10T00:00:00-0400",
+		"name": "Avengers (1963) #162",
+		"id": 7022,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Iron Man",
+			"Thor",
+			"Ultron",
+			"Wasp",
+			"Wonder Man"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1977-09-10T00:00:00-0400",
+		"name": "Avengers (1963) #163",
+		"id": 7023,
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Black Widow",
+			"Hercules",
+			"Iron Man"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1977-10-10T00:00:00-0400",
+		"name": "Avengers (1963) #164",
+		"id": 7024,
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Black Panther",
+			"Captain America",
+			"Count Nefaria",
+			"Lethal Legion",
+			"Scarlet Witch",
+			"Wasp",
+			"Whirlwind",
+			"Wonder Man"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1977-10-10T00:00:00-0400",
+		"name": "Super-Villain Team-Up (1975) #14",
+		"id": 18784,
+		"characters": [
+			"Avengers",
+			"Doctor Doom"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1977-11-10T00:00:00-0500",
+		"name": "Avengers (1963) #165",
+		"id": 7025,
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Black Panther",
+			"Captain America",
+			"Count Nefaria",
+			"Iron Man",
+			"Scarlet Witch",
+			"Vision",
+			"Wonder Man"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1977-12-10T00:00:00-0500",
+		"name": "Uncanny X-Men (1963) #108",
+		"id": 12423,
+		"characters": [
+			"Avengers",
+			"Banshee",
+			"Beast",
+			"Black Panther",
+			"Ch'od",
+			"Colossus",
+			"Cyclops",
+			"D'Ken Neramani",
+			"Firelord",
+			"Hank Pym",
+			"Hepzibah",
+			"Human Torch",
+			"Mr. Fantastic",
+			"Nightcrawler",
+			"Raza",
+			"Starjammers",
+			"Storm",
+			"Wasp",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1977-12-10T00:00:00-0500",
+		"name": "Avengers (1963) #166",
+		"id": 7026,
+		"characters": [
+			"Avengers",
+			"Count Nefaria",
+			"Iron Man",
+			"Scarlet Witch",
+			"Thor",
+			"Vision",
+			"Wasp",
+			"Wonder Man"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1978-01-08T00:00:00-0500",
+		"name": "Avengers Annual (1967) #8",
+		"id": 6944,
+		"characters": [
+			"Avengers",
+			"Doctor Strange"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1978-01-10T00:00:00-0500",
+		"name": "Avengers (1963) #167",
+		"id": 7027,
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Captain America",
+			"Iron Man",
+			"Scarlet Witch",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1978-02-10T00:00:00-0500",
+		"name": "Avengers (1963) #168",
+		"id": 7028,
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Captain America",
+			"Guardians of the Galaxy",
+			"Iron Man",
+			"Scarlet Witch",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1978-03-10T00:00:00-0500",
+		"name": "Avengers (1963) #169",
+		"id": 7029,
+		"characters": [
+			"Avengers",
+			"Black Panther",
+			"Captain America",
+			"Iron Man"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1978-04-10T00:00:00-0500",
+		"name": "Avengers (1963) #170",
+		"id": 7031,
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Captain America",
+			"Iron Man",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Vision",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1978-05-10T00:00:00-0400",
+		"name": "Captain America (1968) #221",
+		"id": 7602,
+		"characters": [
+			"Avengers",
+			"Captain America"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1978-05-10T00:00:00-0400",
+		"name": "Avengers (1963) #171",
+		"id": 7032,
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Captain America",
+			"Iron Man",
+			"Scarlet Witch",
+			"Thor",
+			"Ultron",
+			"Vision",
+			"Wasp",
+			"Wonder Man"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1978-06-10T00:00:00-0400",
+		"name": "What If? (1977) #9",
+		"id": 12167,
+		"characters": [
+			"Avengers",
+			"Thor"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1978-06-10T00:00:00-0400",
+		"name": "Avengers (1963) #172",
+		"id": 7033,
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Captain America",
+			"Hawkeye",
+			"Scarlet Witch",
+			"Vision",
+			"Wonder Man"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1978-07-10T00:00:00-0400",
+		"name": "Avengers (1963) #173",
+		"id": 7034,
+		"characters": [
+			"Avengers",
+			"Black Widow",
+			"Hawkeye",
+			"Hercules",
+			"Iron Man",
+			"Vision",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1978-08-10T00:00:00-0400",
+		"name": "Avengers (1963) #174",
+		"id": 7035,
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Captain America",
+			"Hawkeye",
+			"Iron Man",
+			"Scarlet Witch",
+			"Thor",
+			"Vision",
+			"Wasp",
+			"Wonder Man"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1978-09-10T00:00:00-0400",
+		"name": "Avengers (1963) #175",
+		"id": 7036,
+		"characters": [
+			"Avengers",
+			"Hawkeye",
+			"Iron Man",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1978-10-10T00:00:00-0400",
+		"name": "Avengers (1963) #176",
+		"id": 7037,
+		"characters": [
+			"Avengers",
+			"Hawkeye",
+			"Iron Man",
+			"Scarlet Witch",
+			"Thor",
+			"Vision",
+			"Wonder Man"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1978-11-10T00:00:00-0500",
+		"name": "Avengers (1963) #177",
+		"id": 7038,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hawkeye",
+			"Iron Man",
+			"Scarlet Witch",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1978-12-10T00:00:00-0500",
+		"name": "Avengers (1963) #178",
+		"id": 7039,
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Captain America",
+			"Wonder Man"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1979-01-09T00:00:00-0500",
+		"name": "Avengers Annual (1967) #9",
+		"id": 6945,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1979-01-10T00:00:00-0500",
+		"name": "Avengers (1963) #179",
+		"id": 7040,
+		"characters": [
+			"Avengers",
+			"Iron Man",
+			"Scarlet Witch",
+			"Thor",
+			"Vision",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1979-02-10T00:00:00-0500",
+		"name": "Avengers (1963) #180",
+		"id": 7042,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1979-03-10T00:00:00-0500",
+		"name": "Avengers (1963) #181",
+		"id": 7043,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1979-04-10T00:00:00-0500",
+		"name": "Avengers (1963) #182",
+		"id": 7044,
+		"characters": [
+			"Avengers",
+			"Nighthawk",
+			"Toad"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1979-05-10T00:00:00-0400",
+		"name": "Avengers (1963) #183",
+		"id": 7045,
+		"characters": [
+			"Absorbing Man",
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1979-06-10T00:00:00-0400",
+		"name": "Avengers (1963) #184",
+		"id": 7046,
+		"characters": [
+			"Absorbing Man",
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1979-07-10T00:00:00-0400",
+		"name": "Avengers (1963) #185",
+		"id": 7047,
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Quicksilver",
+			"Scarlet Witch"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1979-08-10T00:00:00-0400",
+		"name": "Avengers (1963) #186",
+		"id": 7048,
+		"characters": [
+			"Avengers",
+			"Quicksilver",
+			"Scarlet Witch"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1979-09-10T00:00:00-0400",
+		"name": "Avengers (1963) #187",
+		"id": 7049,
+		"characters": [
+			"Avengers",
+			"Scarlet Witch"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1979-10-10T00:00:00-0400",
+		"name": "Avengers (1963) #188",
+		"id": 7050,
+		"characters": [
+			"Avengers",
+			"Black Bolt",
+			"Crystal",
+			"Elements of Doom",
+			"Gorgon",
+			"Karnak"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1979-11-10T00:00:00-0500",
+		"name": "Avengers (1963) #189",
+		"id": 7051,
+		"characters": [
+			"Avengers",
+			"Deathbird",
+			"Hawkeye"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1979-12-10T00:00:00-0500",
+		"name": "Avengers (1963) #190",
+		"id": 7053,
+		"characters": [
+			"Avengers",
+			"Daredevil",
+			"Grey Gargoyle"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1980-01-10T00:00:00-0500",
+		"name": "Avengers (1963) #191",
+		"id": 7054,
+		"characters": [
+			"Avengers",
+			"Daredevil",
+			"Grey Gargoyle"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1980-02-10T00:00:00-0500",
+		"name": "Avengers (1963) #192",
+		"id": 7055,
+		"characters": [
+			"Avengers",
+			"Henry Peter Gyrich",
+			"Iron Man",
+			"Wonder Man"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1980-03-10T00:00:00-0500",
+		"name": "Avengers (1963) #193",
+		"id": 7056,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1980-04-10T00:00:00-0500",
+		"name": "Avengers (1963) #194",
+		"id": 7057,
+		"characters": [
+			"Avengers",
+			"Jocasta",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1980-04-10T00:00:00-0500",
+		"name": "What If? (1977) #20",
+		"id": 12133,
+		"characters": [
+			"Avengers",
+			"Human Torch"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1980-05-10T00:00:00-0400",
+		"name": "Avengers (1963) #195",
+		"id": 7058,
+		"characters": [
+			"Ant-Man (Scott Lang)",
+			"Avengers",
+			"Hank Pym",
+			"Taskmaster",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1980-06-10T00:00:00-0400",
+		"name": "Avengers (1963) #196",
+		"id": 7059,
+		"characters": [
+			"Avengers",
+			"Taskmaster"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1980-07-10T00:00:00-0400",
+		"name": "Avengers (1963) #197",
+		"id": 7060,
+		"characters": [
+			"Avengers",
+			"Jocasta"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1980-08-10T00:00:00-0400",
+		"name": "Avengers (1963) #198",
+		"id": 7061,
+		"characters": [
+			"Avengers",
+			"Jocasta"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1980-09-10T00:00:00-0400",
+		"name": "Avengers (1963) #199",
+		"id": 7062,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1980-10-10T00:00:00-0400",
+		"name": "Avengers (1963) #200",
+		"id": 7065,
+		"characters": [
+			"Avengers",
+			"Jocasta"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1980-10-10T00:00:00-0400",
+		"name": "Captain America (1968) #250",
+		"id": 7631,
+		"characters": [
+			"Avengers",
+			"Captain America"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1980-11-10T00:00:00-0500",
+		"name": "Avengers (1963) #201",
+		"id": 7066,
+		"characters": [
+			"Avengers",
+			"Edwin Jarvis",
+			"Jocasta",
+			"Ultron"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1980-12-10T00:00:00-0500",
+		"name": "Avengers (1963) #202",
+		"id": 7067,
+		"characters": [
+			"Avengers",
+			"Jocasta",
+			"Ultron"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1981-01-10T00:00:00-0500",
+		"name": "Avengers (1963) #203",
+		"id": 7068,
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Jocasta",
+			"Wonder Man"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1981-01-10T00:00:00-0500",
+		"name": "Avengers Annual (1967) #10",
+		"id": 6924,
+		"characters": [
+			"Avengers",
+			"Rogue"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1981-02-10T00:00:00-0500",
+		"name": "Avengers (1963) #204",
+		"id": 7069,
+		"characters": [
+			"Avengers",
+			"Jocasta",
+			"Yellow Claw"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1981-03-10T00:00:00-0500",
+		"name": "Avengers (1963) #205",
+		"id": 7070,
+		"characters": [
+			"Avengers",
+			"Jocasta",
+			"Vision",
+			"Yellow Claw"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1981-04-10T00:00:00-0500",
+		"name": "Avengers (1963) #206",
+		"id": 7071,
+		"characters": [
+			"Avengers",
+			"Human Torch"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1981-05-10T00:00:00-0400",
+		"name": "Avengers (1963) #207",
+		"id": 7072,
+		"characters": [
+			"Avengers",
+			"Jocasta"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1981-06-10T00:00:00-0400",
+		"name": "Avengers (1963) #208",
+		"id": 7073,
+		"characters": [
+			"Avengers",
+			"Jocasta"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1981-07-10T00:00:00-0400",
+		"name": "Avengers (1963) #209",
+		"id": 7074,
+		"characters": [
+			"Avengers",
+			"Mr. Fantastic",
+			"Skrulls"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1981-08-10T00:00:00-0400",
+		"name": "Avengers (1963) #210",
+		"id": 7076,
+		"characters": [
+			"Avengers",
+			"Jocasta"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1981-09-10T00:00:00-0400",
+		"name": "Marvel Super-Heroes (1967) #377",
+		"id": 10267,
+		"characters": [
+			"Avengers",
+			"Captain Britain",
+			"X-Men"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1981-09-10T00:00:00-0400",
+		"name": "Avengers (1963) #211",
+		"id": 7077,
+		"characters": [
+			"Avengers",
+			"Moon Knight",
+			"Moondragon"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1981-09-10T00:00:00-0400",
+		"name": "Marvel Super-Heroes (1967) #377",
+		"id": 15405,
+		"characters": [
+			"Avengers",
+			"Captain Britain",
+			"X-Men"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1981-10-10T00:00:00-0400",
+		"name": "What If? (1977) #29",
+		"id": 12142,
+		"characters": [
+			"Avengers",
+			"Inhumans",
+			"Spider-Man",
+			"Sub-Mariner"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1981-10-10T00:00:00-0400",
+		"name": "Marvel Super-Heroes (1967) #378",
+		"id": 10268,
+		"characters": [
+			"Avengers",
+			"Captain Britain"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1981-10-10T00:00:00-0400",
+		"name": "Avengers (1963) #212",
+		"id": 7078,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1981-10-10T00:00:00-0400",
+		"name": "Marvel Super-Heroes (1967) #378",
+		"id": 15406,
+		"characters": [
+			"Avengers",
+			"Captain Britain"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1981-11-10T00:00:00-0500",
+		"name": "Marvel Super-Heroes (1967) #379",
+		"id": 10269,
+		"characters": [
+			"Avengers",
+			"Captain Britain"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1981-11-10T00:00:00-0500",
+		"name": "Avengers (1963) #213",
+		"id": 7079,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1981-11-10T00:00:00-0500",
+		"name": "Marvel Super-Heroes (1967) #379",
+		"id": 15407,
+		"characters": [
+			"Avengers",
+			"Captain Britain"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1981-12-10T00:00:00-0500",
+		"name": "Marvel Super-Heroes (1967) #380",
+		"id": 15408,
+		"characters": [
+			"Avengers",
+			"Captain Britain"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1981-12-10T00:00:00-0500",
+		"name": "Marvel Super-Heroes (1967) #380",
+		"id": 10270,
+		"characters": [
+			"Avengers",
+			"Captain Britain"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1981-12-10T00:00:00-0500",
+		"name": "Avengers (1963) #214",
+		"id": 7080,
+		"characters": [
+			"Avengers",
+			"Ghost Rider (Johnny Blaze)",
+			"Hank Pym",
+			"Iron Man"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1982-01-10T00:00:00-0500",
+		"name": "Avengers (1963) #215",
+		"id": 7081,
+		"characters": [
+			"Avengers",
+			"Molecule Man",
+			"Silver Surfer"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1982-01-10T00:00:00-0500",
+		"name": "Marvel Super-Heroes (1967) #381",
+		"id": 15409,
+		"characters": [
+			"Avengers",
+			"Captain Britain"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1982-01-10T00:00:00-0500",
+		"name": "Marvel Super-Heroes (1967) #381",
+		"id": 10271,
+		"characters": [
+			"Avengers",
+			"Captain Britain"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1982-01-11T00:00:00-0500",
+		"name": "Avengers Annual (1967) #11",
+		"id": 6925,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "-0001-11-30T00:00:00-0500",
+		"name": "Thanos Vol. 3: Marvel Universe - The End (2003)",
+		"id": 17476,
+		"characters": [
+			"Avengers",
+			"Captain Marvel (Mar-Vell)",
+			"Doctor Doom",
+			"Doctor Strange",
+			"Eternity",
+			"Fantastic Four",
+			"Hulk",
+			"Living Tribunal",
+			"Namor",
+			"Silver Surfer",
+			"Thanos",
+			"Thor",
+			"X-Men"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "-0001-11-30T00:00:00-0500",
+		"name": "Giant-Size Avengers (1974) #5",
+		"id": 20024,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1982-02-10T00:00:00-0500",
+		"name": "Marvel Super-Heroes (1967) #382",
+		"id": 15410,
+		"characters": [
+			"Avengers",
+			"Captain Britain"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1982-02-10T00:00:00-0500",
+		"name": "Marvel Super-Heroes (1967) #382",
+		"id": 10272,
+		"characters": [
+			"Avengers",
+			"Captain Britain"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1982-02-10T00:00:00-0500",
+		"name": "Avengers (1963) #216",
+		"id": 7082,
+		"characters": [
+			"Avengers",
+			"Fantastic Four",
+			"Molecule Man",
+			"Silver Surfer",
+			"Tigra (Greer Nelson)"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1982-03-10T00:00:00-0500",
+		"name": "Marvel Super-Heroes (1967) #383",
+		"id": 15411,
+		"characters": [
+			"Avengers",
+			"Captain Britain"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1982-03-10T00:00:00-0500",
+		"name": "Marvel Super-Heroes (1967) #383",
+		"id": 10273,
+		"characters": [
+			"Avengers",
+			"Captain Britain"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1982-03-10T00:00:00-0500",
+		"name": "Avengers (1963) #217",
+		"id": 7083,
+		"characters": [
+			"Avengers",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1982-04-10T00:00:00-0500",
+		"name": "Marvel Super-Heroes (1967) #384",
+		"id": 15412,
+		"characters": [
+			"Avengers",
+			"Captain Britain"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1982-04-10T00:00:00-0500",
+		"name": "What If? (1977) #32",
+		"id": 12146,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Iron Man",
+			"Thor"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1982-04-10T00:00:00-0500",
+		"name": "Marvel Super-Heroes (1967) #384",
+		"id": 10274,
+		"characters": [
+			"Avengers",
+			"Captain Britain"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1982-04-10T00:00:00-0500",
+		"name": "Avengers (1963) #218",
+		"id": 7084,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1982-05-10T00:00:00-0400",
+		"name": "Avengers (1963) #219",
+		"id": 7085,
+		"characters": [
+			"Avengers",
+			"Drax",
+			"Moondragon"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1982-05-10T00:00:00-0400",
+		"name": "Marvel Super-Heroes (1967) #385",
+		"id": 15413,
+		"characters": [
+			"Avengers",
+			"Captain Britain"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1982-05-10T00:00:00-0400",
+		"name": "Marvel Super-Heroes (1967) #385",
+		"id": 10275,
+		"characters": [
+			"Avengers",
+			"Captain Britain"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1982-06-10T00:00:00-0400",
+		"name": "Marvel Super-Heroes (1967) #386",
+		"id": 15414,
+		"characters": [
+			"Avengers",
+			"Captain Britain"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1982-06-10T00:00:00-0400",
+		"name": "Avengers (1963) #220",
+		"id": 7087,
+		"characters": [
+			"Avengers",
+			"Drax",
+			"Moondragon",
+			"Odin"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1982-06-10T00:00:00-0400",
+		"name": "Marvel Super-Heroes (1967) #386",
+		"id": 10276,
+		"characters": [
+			"Avengers",
+			"Captain Britain"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1982-07-10T00:00:00-0400",
+		"name": "Marvel Super-Heroes (1967) #387",
+		"id": 10277,
+		"characters": [
+			"Avengers",
+			"Captain Britain"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1982-07-10T00:00:00-0400",
+		"name": "Marvel Super-Heroes (1967) #387",
+		"id": 15415,
+		"characters": [
+			"Avengers",
+			"Captain Britain"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1982-07-10T00:00:00-0400",
+		"name": "Avengers (1963) #221",
+		"id": 7088,
+		"characters": [
+			"Ant-Man (Scott Lang)",
+			"Avengers",
+			"Black Bolt",
+			"Daredevil",
+			"Dazzler",
+			"Doctor Strange",
+			"Hawkeye",
+			"Hulk",
+			"Luke Cage",
+			"She-Hulk (Jennifer Walters)",
+			"Silver Surfer",
+			"Spider-Man",
+			"Spider-Woman (Jessica Drew)",
+			"Wolverine"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1982-08-10T00:00:00-0400",
+		"name": "Marvel Super-Heroes (1967) #388",
+		"id": 15416,
+		"characters": [
+			"Avengers",
+			"Captain Britain",
+			"Doctor Strange"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1982-08-10T00:00:00-0400",
+		"name": "Marvel Super-Heroes (1967) #388",
+		"id": 10278,
+		"characters": [
+			"Avengers",
+			"Captain Britain",
+			"Doctor Strange"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1982-08-10T00:00:00-0400",
+		"name": "Avengers (1963) #222",
+		"id": 7089,
+		"characters": [
+			"Avengers",
+			"Masters of Evil"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1982-08-10T00:00:00-0400",
+		"name": "What If? (1977) #34",
+		"id": 12148,
+		"characters": [
+			"Adam Warlock",
+			"Alpha Flight",
+			"Avengers",
+			"Black Bolt",
+			"Black Widow",
+			"Captain America",
+			"Captain Marvel (Mar-Vell)",
+			"Cyclops",
+			"Daredevil",
+			"Dazzler",
+			"Doctor Doom",
+			"Doctor Strange",
+			"Elektra",
+			"Fantastic Four",
+			"Galactus",
+			"Ghost Rider (Johnny Blaze)",
+			"Howard The Duck",
+			"Hulk",
+			"Inhumans",
+			"Iron Man",
+			"Ka-Zar",
+			"Leader",
+			"Moon Knight",
+			"Mr. Fantastic",
+			"Nick Fury",
+			"Nomad",
+			"Silver Surfer",
+			"Spider-Man",
+			"Thing",
+			"Thor",
+			"X-Men"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1982-09-10T00:00:00-0400",
+		"name": "Avengers (1963) #223",
+		"id": 7090,
+		"characters": [
+			"Ant-Man (Scott Lang)",
+			"Avengers",
+			"Hank Pym",
+			"Hawkeye",
+			"Taskmaster"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1982-10-10T00:00:00-0400",
+		"name": "Incredible Hulk Annual (1968) #11",
+		"id": 16868,
+		"characters": [
+			"Avengers",
+			"Doc Samson",
+			"Hulk",
+			"Leader"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1982-10-10T00:00:00-0400",
+		"name": "What If? (1977) #35",
+		"id": 12149,
+		"characters": [
+			"Avengers",
+			"Daredevil",
+			"Elektra",
+			"Hank Pym"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1982-10-10T00:00:00-0400",
+		"name": "Avengers (1963) #224",
+		"id": 7091,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1982-11-10T00:00:00-0500",
+		"name": "Avengers (1963) #225",
+		"id": 7092,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1982-12-10T00:00:00-0500",
+		"name": "Avengers (1963) #226",
+		"id": 7093,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1983-01-10T00:00:00-0500",
+		"name": "Avengers (1963) #227",
+		"id": 7094,
+		"characters": [
+			"Avengers",
+			"Captain Marvel (Monica Rambeau)",
+			"She-Hulk (Jennifer Walters)",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1983-01-12T00:00:00-0500",
+		"name": "Avengers Annual (1967) #12",
+		"id": 6926,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1983-02-10T00:00:00-0500",
+		"name": "Avengers (1963) #228",
+		"id": 7095,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hawkeye",
+			"She-Hulk (Jennifer Walters)",
+			"Thor",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1983-03-10T00:00:00-0500",
+		"name": "Avengers (1963) #229",
+		"id": 7096,
+		"characters": [
+			"Avengers",
+			"Masters of Evil"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1983-04-10T00:00:00-0500",
+		"name": "Avengers (1963) #230",
+		"id": 7098,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hawkeye",
+			"Thor"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1983-05-10T00:00:00-0400",
+		"name": "Avengers (1963) #231",
+		"id": 7099,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1983-06-10T00:00:00-0400",
+		"name": "Avengers (1963) #232",
+		"id": 7100,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Captain Marvel (Monica Rambeau)",
+			"Hawkeye",
+			"She-Hulk (Jennifer Walters)",
+			"Starfox",
+			"Thor",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1983-07-10T00:00:00-0400",
+		"name": "Avengers (1963) #233",
+		"id": 7101,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1983-08-10T00:00:00-0400",
+		"name": "Avengers (1963) #234",
+		"id": 7102,
+		"characters": [
+			"Avengers",
+			"Scarlet Witch"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1983-09-10T00:00:00-0400",
+		"name": "Avengers (1963) #235",
+		"id": 7103,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1983-10-10T00:00:00-0400",
+		"name": "Avengers (1963) #236",
+		"id": 7104,
+		"characters": [
+			"Avengers",
+			"Spider-Man"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1983-11-10T00:00:00-0500",
+		"name": "Avengers (1963) #237",
+		"id": 7105,
+		"characters": [
+			"Avengers",
+			"Blackout",
+			"Electro",
+			"Moonstone",
+			"Rhino",
+			"Spider-Man",
+			"Starfox"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1983-12-10T00:00:00-0500",
+		"name": "Avengers (1963) #238",
+		"id": 7106,
+		"characters": [
+			"Avengers",
+			"Captain Marvel (Monica Rambeau)",
+			"Starfox",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1984-01-10T00:00:00-0500",
+		"name": "Avengers (1963) #239",
+		"id": 7107,
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Black Panther",
+			"Black Widow",
+			"Hawkeye",
+			"Wonder Man"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1984-01-13T00:00:00-0500",
+		"name": "Avengers Annual (1967) #13",
+		"id": 6927,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [
+			"Secret Wars"
+		],
+		"sale_date": "1984-02-10T00:00:00-0500",
+		"name": "Avengers (1963) #240",
+		"id": 7109,
+		"characters": [
+			"Avengers",
+			"Captain Marvel (Monica Rambeau)",
+			"Doctor Strange",
+			"Scarlet Witch",
+			"She-Hulk (Jennifer Walters)",
+			"Spider-Woman (Jessica Drew)",
+			"Tigra (Greer Nelson)"
+		]
+	},
+	{
+		"events": [
+			"Secret Wars"
+		],
+		"sale_date": "1984-03-10T00:00:00-0500",
+		"name": "Avengers (1963) #241",
+		"id": 7110,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [
+			"Secret Wars"
+		],
+		"sale_date": "1984-04-10T00:00:00-0500",
+		"name": "Avengers (1963) #242",
+		"id": 7111,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [
+			"Secret Wars"
+		],
+		"sale_date": "1984-05-10T00:00:00-0400",
+		"name": "Avengers (1963) #243",
+		"id": 7112,
+		"characters": [
+			"Avengers",
+			"Scarlet Witch",
+			"Starfox",
+			"Vision"
+		]
+	},
+	{
+		"events": [
+			"Secret Wars"
+		],
+		"sale_date": "1984-05-10T00:00:00-0400",
+		"name": "Amazing Spider-Man (1963) #252",
+		"id": 6652,
+		"characters": [
+			"Avengers",
+			"Black Cat",
+			"Curt Conners",
+			"J. Jonah Jameson",
+			"Peter Parker",
+			"Robbie Robertson",
+			"Spider-Man"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1984-06-10T00:00:00-0400",
+		"name": "Avengers (1963) #244",
+		"id": 7113,
+		"characters": [
+			"Avengers",
+			"Wraith"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1984-07-10T00:00:00-0400",
+		"name": "Avengers (1963) #245",
+		"id": 7114,
+		"characters": [
+			"Avengers",
+			"Captain Marvel (Monica Rambeau)"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1984-08-10T00:00:00-0400",
+		"name": "Avengers (1963) #246",
+		"id": 7115,
+		"characters": [
+			"Avengers",
+			"Eternals",
+			"Sersi",
+			"She-Hulk (Jennifer Walters)",
+			"Starfox",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1984-09-10T00:00:00-0400",
+		"name": "Avengers (1963) #247",
+		"id": 7116,
+		"characters": [
+			"Avengers",
+			"Sersi",
+			"Starfox"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1984-10-10T00:00:00-0400",
+		"name": "Avengers (1963) #248",
+		"id": 7117,
+		"characters": [
+			"Avengers",
+			"Eternals",
+			"Ikaris",
+			"Maelstrom",
+			"Sersi",
+			"Starfox",
+			"Thena"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1984-11-10T00:00:00-0500",
+		"name": "Avengers (1963) #249",
+		"id": 7118,
+		"characters": [
+			"Avengers",
+			"Fantastic Four",
+			"Hercules",
+			"Thor"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1984-12-10T00:00:00-0500",
+		"name": "Avengers (1963) #250",
+		"id": 7120,
+		"characters": [
+			"Avengers",
+			"Maelstrom"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1985-01-10T00:00:00-0500",
+		"name": "Avengers (1963) #251",
+		"id": 7121,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1985-01-14T00:00:00-0500",
+		"name": "Avengers Annual (1967) #14",
+		"id": 6928,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1985-02-10T00:00:00-0500",
+		"name": "Avengers (1963) #252",
+		"id": 7122,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1985-03-10T00:00:00-0500",
+		"name": "Avengers (1963) #253",
+		"id": 7123,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1985-04-10T00:00:00-0500",
+		"name": "Avengers (1963) #254",
+		"id": 7124,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1985-05-10T00:00:00-0400",
+		"name": "Avengers (1963) #255",
+		"id": 7125,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1985-06-10T00:00:00-0400",
+		"name": "Avengers (1963) #256",
+		"id": 7126,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1985-07-10T00:00:00-0400",
+		"name": "Avengers (1963) #257",
+		"id": 7127,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1985-08-10T00:00:00-0400",
+		"name": "Avengers (1963) #258",
+		"id": 7128,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1985-09-10T00:00:00-0400",
+		"name": "Avengers (1963) #259",
+		"id": 7129,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [
+			"Secret Wars II"
+		],
+		"sale_date": "1985-10-10T00:00:00-0400",
+		"name": "Avengers (1963) #260",
+		"id": 7131,
+		"characters": [
+			"Avengers",
+			"Firelord",
+			"Galactus",
+			"Nebula",
+			"Skrulls",
+			"Thanos"
+		]
+	},
+	{
+		"events": [
+			"Secret Wars II"
+		],
+		"sale_date": "1985-11-10T00:00:00-0500",
+		"name": "Avengers (1963) #261",
+		"id": 7132,
+		"characters": [
+			"Avengers",
+			"Beyonder",
+			"Firelord",
+			"Galactus",
+			"Nebula",
+			"Skrulls"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1985-11-10T00:00:00-0500",
+		"name": "Fantastic Four Annual (1963) #19",
+		"id": 8697,
+		"characters": [
+			"Avengers",
+			"Black Knight (Sir Percy of Scandia)",
+			"Captain America",
+			"Captain Marvel (Mar-Vell)",
+			"Fantastic Four",
+			"Hercules",
+			"Human Torch",
+			"Invisible Woman",
+			"Mr. Fantastic",
+			"She-Hulk (Jennifer Walters)",
+			"Skrulls",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1985-12-10T00:00:00-0500",
+		"name": "Avengers (1963) #262",
+		"id": 7133,
+		"characters": [
+			"Avengers",
+			"Hercules",
+			"Namor"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1986-01-10T00:00:00-0500",
+		"name": "Avengers (1963) #263",
+		"id": 7134,
+		"characters": [
+			"Avengers",
+			"Hercules",
+			"Namor"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1986-01-15T00:00:00-0500",
+		"name": "Avengers Annual (1967) #15",
+		"id": 6929,
+		"characters": [
+			"Avalanche",
+			"Avengers",
+			"Beast",
+			"Black Knight (Sir Percy of Scandia)",
+			"Blob",
+			"Daredevil",
+			"Destiny",
+			"Hawkeye",
+			"Hercules",
+			"Iron Man",
+			"Pyro",
+			"Tigra (Greer Nelson)",
+			"Wasp",
+			"Wonder Man"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1986-02-10T00:00:00-0500",
+		"name": "Avengers (1963) #264",
+		"id": 7135,
+		"characters": [
+			"Avengers",
+			"Wasp",
+			"Yellowjacket (Rita DeMara)"
+		]
+	},
+	{
+		"events": [
+			"Secret Wars II"
+		],
+		"sale_date": "1986-03-10T00:00:00-0500",
+		"name": "Avengers (1963) #265",
+		"id": 7136,
+		"characters": [
+			"Avengers",
+			"Beyonder"
+		]
+	},
+	{
+		"events": [
+			"Secret Wars II"
+		],
+		"sale_date": "1986-04-10T00:00:00-0500",
+		"name": "Avengers (1963) #266",
+		"id": 7137,
+		"characters": [
+			"Avengers",
+			"Fantastic Four",
+			"Hercules",
+			"Molecule Man",
+			"Namor",
+			"Silver Surfer"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1986-05-10T00:00:00-0400",
+		"name": "Avengers (1963) #267",
+		"id": 7138,
+		"characters": [
+			"Avengers",
+			"Colossus",
+			"Hercules",
+			"Kang",
+			"Namor",
+			"Storm"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1986-06-10T00:00:00-0400",
+		"name": "New Mutants (1983) #40",
+		"id": 10378,
+		"characters": [
+			"Avengers",
+			"New Mutants"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1986-06-10T00:00:00-0400",
+		"name": "Avengers (1963) #268",
+		"id": 7139,
+		"characters": [
+			"Avengers",
+			"Hercules",
+			"Kang",
+			"Namor"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1986-07-10T00:00:00-0400",
+		"name": "Avengers (1963) #269",
+		"id": 7140,
+		"characters": [
+			"Avengers",
+			"Doctor Doom",
+			"Fantastic Four",
+			"Kang"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1986-08-10T00:00:00-0400",
+		"name": "Avengers (1963) #270",
+		"id": 7142,
+		"characters": [
+			"Absorbing Man",
+			"Avengers",
+			"Moonstone",
+			"Namor",
+			"Titania"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1986-09-10T00:00:00-0400",
+		"name": "Avengers (1963) #271",
+		"id": 7143,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Captain Marvel (Monica Rambeau)",
+			"Hercules",
+			"Paladin",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1986-10-10T00:00:00-0400",
+		"name": "Avengers (1963) #272",
+		"id": 7144,
+		"characters": [
+			"Alpha Flight",
+			"Avengers",
+			"Masters of Evil",
+			"Namor"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1986-11-10T00:00:00-0500",
+		"name": "Avengers (1963) #273",
+		"id": 7145,
+		"characters": [
+			"Avengers",
+			"Masters of Evil"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1986-12-10T00:00:00-0500",
+		"name": "Avengers (1963) #274",
+		"id": 7146,
+		"characters": [
+			"Avengers",
+			"Masters of Evil"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1987-01-10T00:00:00-0500",
+		"name": "Avengers (1963) #275",
+		"id": 7147,
+		"characters": [
+			"Avengers",
+			"Masters of Evil"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1987-01-16T00:00:00-0500",
+		"name": "Avengers Annual (1967) #16",
+		"id": 6930,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1987-02-10T00:00:00-0500",
+		"name": "Avengers (1963) #276",
+		"id": 7148,
+		"characters": [
+			"Avengers",
+			"Masters of Evil"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1987-03-10T00:00:00-0500",
+		"name": "Avengers (1963) #277",
+		"id": 7149,
+		"characters": [
+			"Avengers",
+			"Masters of Evil"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1987-04-01T00:00:00-0500",
+		"name": "X-Men Vs. Avengers (1987) #1",
+		"id": 42807,
+		"characters": [
+			"Avengers",
+			"X-Men"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1987-04-10T00:00:00-0400",
+		"name": "Avengers (1963) #278",
+		"id": 7150,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1987-05-01T00:00:00-0400",
+		"name": "X-Men Vs. Avengers (1987) #2",
+		"id": 42808,
+		"characters": [
+			"Avengers",
+			"X-Men"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1987-05-10T00:00:00-0400",
+		"name": "Avengers (1963) #279",
+		"id": 7151,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1987-06-01T00:00:00-0400",
+		"name": "X-Men Vs. Avengers (1987) #3",
+		"id": 42809,
+		"characters": [
+			"Avengers",
+			"X-Men"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1987-06-10T00:00:00-0400",
+		"name": "Avengers (1963) #280",
+		"id": 7153,
+		"characters": [
+			"Avengers",
+			"Edwin Jarvis"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1987-07-01T00:00:00-0400",
+		"name": "X-Men Vs. Avengers (1987) #4",
+		"id": 42810,
+		"characters": [
+			"Avengers",
+			"X-Men"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1987-07-10T00:00:00-0400",
+		"name": "Avengers (1963) #281",
+		"id": 7154,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"She-Hulk (Jennifer Walters)",
+			"Thor"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1987-08-10T00:00:00-0400",
+		"name": "Avengers (1963) #282",
+		"id": 7155,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"She-Hulk (Jennifer Walters)",
+			"Sub-Mariner",
+			"Thor"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1987-09-10T00:00:00-0400",
+		"name": "Avengers (1963) #283",
+		"id": 7156,
+		"characters": [
+			"Ares",
+			"Avengers",
+			"Captain America",
+			"Captain Marvel (Monica Rambeau)",
+			"Hercules",
+			"Photon",
+			"She-Hulk (Jennifer Walters)",
+			"Sub-Mariner",
+			"Thor",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1987-10-10T00:00:00-0400",
+		"name": "Avengers (1963) #284",
+		"id": 7157,
+		"characters": [
+			"Ares",
+			"Avengers",
+			"Captain America",
+			"Captain Marvel (Monica Rambeau)",
+			"Hercules",
+			"Photon",
+			"She-Hulk (Jennifer Walters)",
+			"Sub-Mariner",
+			"Thor",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1987-11-10T00:00:00-0500",
+		"name": "Avengers (1963) #285",
+		"id": 7158,
+		"characters": [
+			"Ares",
+			"Avengers",
+			"Captain America",
+			"Captain Marvel (Monica Rambeau)",
+			"Hercules",
+			"Photon",
+			"She-Hulk (Jennifer Walters)",
+			"Sub-Mariner",
+			"Thor",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1987-12-10T00:00:00-0500",
+		"name": "Avengers (1963) #286",
+		"id": 7159,
+		"characters": [
+			"Avengers",
+			"Captain Marvel (Monica Rambeau)",
+			"She-Hulk (Jennifer Walters)",
+			"Sub-Mariner"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1988-01-10T00:00:00-0500",
+		"name": "Avengers (1963) #287",
+		"id": 7160,
+		"characters": [
+			"Avengers",
+			"Captain Marvel (Monica Rambeau)",
+			"She-Hulk (Jennifer Walters)",
+			"Sub-Mariner"
+		]
+	},
+	{
+		"events": [
+			"Evolutionary War"
+		],
+		"sale_date": "1988-01-17T00:00:00-0500",
+		"name": "Avengers Annual (1967) #17",
+		"id": 6931,
+		"characters": [
+			"Avengers",
+			"High Evolutionary"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1988-02-10T00:00:00-0500",
+		"name": "Avengers (1963) #288",
+		"id": 7161,
+		"characters": [
+			"Avengers",
+			"Captain Marvel (Monica Rambeau)",
+			"Sub-Mariner"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1988-03-10T00:00:00-0500",
+		"name": "Avengers (1963) #289",
+		"id": 7162,
+		"characters": [
+			"Avengers",
+			"She-Hulk (Jennifer Walters)",
+			"Sub-Mariner"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1988-04-10T00:00:00-0400",
+		"name": "Avengers (1963) #290",
+		"id": 7164,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Captain Marvel (Monica Rambeau)",
+			"She-Hulk (Jennifer Walters)",
+			"Spectrum",
+			"Sub-Mariner",
+			"Super-Adaptoid"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1988-05-10T00:00:00-0400",
+		"name": "Avengers (1963) #291",
+		"id": 7165,
+		"characters": [
+			"Avengers",
+			"Captain Marvel (Monica Rambeau)",
+			"She-Hulk (Jennifer Walters)",
+			"Sub-Mariner",
+			"Thor"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1988-06-10T00:00:00-0400",
+		"name": "Avengers (1963) #292",
+		"id": 7166,
+		"characters": [
+			"Avengers",
+			"Captain Marvel (Monica Rambeau)",
+			"She-Hulk (Jennifer Walters)",
+			"Sub-Mariner",
+			"Thor"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1988-07-10T00:00:00-0400",
+		"name": "Avengers (1963) #293",
+		"id": 7167,
+		"characters": [
+			"Avengers",
+			"Captain Marvel (Monica Rambeau)",
+			"She-Hulk (Jennifer Walters)",
+			"Sub-Mariner",
+			"Thor"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1988-08-10T00:00:00-0400",
+		"name": "Avengers (1963) #294",
+		"id": 7168,
+		"characters": [
+			"Avengers",
+			"Captain Marvel (Monica Rambeau)",
+			"She-Hulk (Jennifer Walters)",
+			"Thor"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1988-09-10T00:00:00-0400",
+		"name": "Avengers (1963) #295",
+		"id": 7169,
+		"characters": [
+			"Avengers",
+			"She-Hulk (Jennifer Walters)",
+			"Thor"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1988-10-10T00:00:00-0400",
+		"name": "Avengers (1963) #296",
+		"id": 7170,
+		"characters": [
+			"Avengers",
+			"She-Hulk (Jennifer Walters)",
+			"Thor"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1988-11-10T00:00:00-0500",
+		"name": "Avengers (1963) #297",
+		"id": 7171,
+		"characters": [
+			"Avengers",
+			"She-Hulk (Jennifer Walters)",
+			"Thor"
+		]
+	},
+	{
+		"events": [
+			"Inferno"
+		],
+		"sale_date": "1988-12-10T00:00:00-0500",
+		"name": "Avengers (1963) #298",
+		"id": 7172,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Edwin Jarvis",
+			"Thor"
+		]
+	},
+	{
+		"events": [
+			"Inferno"
+		],
+		"sale_date": "1989-01-10T00:00:00-0500",
+		"name": "Avengers (1963) #299",
+		"id": 7173,
+		"characters": [
+			"Avengers",
+			"Fantastic Four",
+			"Orphan-Maker"
+		]
+	},
+	{
+		"events": [
+			"Atlantis Attacks"
+		],
+		"sale_date": "1989-01-18T00:00:00-0500",
+		"name": "Avengers Annual (1967) #18",
+		"id": 6932,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [
+			"Inferno"
+		],
+		"sale_date": "1989-02-10T00:00:00-0500",
+		"name": "Avengers (1963) #300",
+		"id": 7176,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Fantastic Four",
+			"Forgotten One",
+			"Invisible Woman",
+			"Thor"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1989-03-10T00:00:00-0500",
+		"name": "Avengers (1963) #301",
+		"id": 7177,
+		"characters": [
+			"Avengers",
+			"Fantastic Four"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1989-04-10T00:00:00-0400",
+		"name": "Avengers (1963) #302",
+		"id": 7178,
+		"characters": [
+			"Avengers",
+			"Fantastic Four",
+			"Firelord",
+			"Quasar (Wendell Vaughn)"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1989-05-10T00:00:00-0400",
+		"name": "Avengers (1963) #303",
+		"id": 7179,
+		"characters": [
+			"Avengers",
+			"Fantastic Four",
+			"Firelord",
+			"Quasar (Wendell Vaughn)"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1989-06-01T00:00:00-0400",
+		"name": "Saga of the Sub-Mariner (1988) #8",
+		"id": 62673,
+		"characters": [
+			"Avengers",
+			"Fantastic Four",
+			"Hulk",
+			"Namor"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1989-06-10T00:00:00-0400",
+		"name": "Avengers (1963) #304",
+		"id": 7180,
+		"characters": [
+			"Avengers",
+			"Puma",
+			"U-Foes"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1989-07-01T00:00:00-0400",
+		"name": "Saga of the Sub-Mariner (1988) #9",
+		"id": 62674,
+		"characters": [
+			"Avengers",
+			"Brotherhood of Evil Mutants",
+			"Daredevil",
+			"Fantastic Four",
+			"Magneto",
+			"Namor",
+			"X-Men"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1989-07-10T00:00:00-0400",
+		"name": "Avengers (1963) #305",
+		"id": 7181,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [
+			"Evolutionary War"
+		],
+		"sale_date": "1989-07-10T00:00:00-0400",
+		"name": "What If? (1989) #1",
+		"id": 18294,
+		"characters": [
+			"Avengers",
+			"High Evolutionary"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1989-08-10T00:00:00-0400",
+		"name": "Avengers (1963) #306",
+		"id": 7182,
+		"characters": [
+			"Avengers",
+			"Namor"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1989-09-10T00:00:00-0400",
+		"name": "Avengers (1963) #307",
+		"id": 7183,
+		"characters": [
+			"Avengers",
+			"Fantastic Four"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1989-09-10T00:00:00-0400",
+		"name": "What If? (1989) #3",
+		"id": 18331,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Falcon",
+			"Franklin Richards",
+			"Galactus",
+			"Mr. Fantastic",
+			"Nick Fury",
+			"Nomad",
+			"Red Skull"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1989-10-01T00:00:00-0400",
+		"name": "Saga of the Sub-Mariner (1988) #12",
+		"id": 62677,
+		"characters": [
+			"Alpha Flight",
+			"Avengers",
+			"Invisible Woman",
+			"Namor"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1989-10-10T00:00:00-0400",
+		"name": "Avengers (1963) #308",
+		"id": 7184,
+		"characters": [
+			"Avengers",
+			"Ikaris",
+			"Sersi",
+			"Thena"
+		]
+	},
+	{
+		"events": [
+			"Atlantis Attacks",
+			"Evolutionary War"
+		],
+		"sale_date": "1989-11-10T00:00:00-0500",
+		"name": "Avengers West Coast Annual (1986) #4",
+		"id": 17842,
+		"characters": [
+			"Avengers",
+			"Firebird"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1989-11-10T00:00:00-0500",
+		"name": "Doctor Strange, Sorcerer Supreme (1988) #9",
+		"id": 20256,
+		"characters": [
+			"Avengers",
+			"Black Knight (Sir Percy of Scandia)",
+			"Blade",
+			"Dagger",
+			"Daredevil",
+			"Doctor Strange",
+			"Dormammu",
+			"Hulk",
+			"Nick Fury",
+			"Scarlet Witch",
+			"Silver Surfer",
+			"Spider-Man",
+			"Thing",
+			"Wong"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1989-11-10T00:00:00-0500",
+		"name": "Avengers (1963) #309",
+		"id": 7185,
+		"characters": [
+			"Avengers",
+			"Blastaar",
+			"Namor",
+			"Sersi"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1989-11-20T00:00:00-0500",
+		"name": "Avengers (1963) #310",
+		"id": 7187,
+		"characters": [
+			"Avengers",
+			"Blastaar"
+		]
+	},
+	{
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"sale_date": "1989-12-10T00:00:00-0500",
+		"name": "Avengers (1963) #311",
+		"id": 7188,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"She-Hulk (Jennifer Walters)",
+			"Sub-Mariner",
+			"Thor"
+		]
+	},
+	{
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"sale_date": "1989-12-20T00:00:00-0500",
+		"name": "Avengers (1963) #312",
+		"id": 7189,
+		"characters": [
+			"Avengers",
+			"Falcon",
+			"Scarlet Witch",
+			"Vision"
+		]
+	},
+	{
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"sale_date": "1989-12-20T00:00:00-0500",
+		"name": "Avengers West Coast (1985) #53",
+		"id": 17795,
+		"characters": [
+			"Avengers",
+			"Loki",
+			"Magneto"
+		]
+	},
+	{
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"sale_date": "1990-01-10T00:00:00-0500",
+		"name": "Avengers (1963) #313",
+		"id": 7190,
+		"characters": [
+			"Avengers",
+			"Black Widow",
+			"Captain America",
+			"Hellcat (Patsy Walker)",
+			"Scarlet Witch",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"sale_date": "1990-01-10T00:00:00-0500",
+		"name": "Avengers West Coast (1985) #54",
+		"id": 17796,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [
+			"Acts of Vengeance!"
+		],
+		"sale_date": "1990-01-19T00:00:00-0500",
+		"name": "Avengers Annual (1967) #19",
+		"id": 6933,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1990-02-10T00:00:00-0500",
+		"name": "Avengers (1963) #314",
+		"id": 7191,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Iron Man",
+			"Sersi",
+			"Spider-Man",
+			"Thor"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1990-03-10T00:00:00-0500",
+		"name": "Avengers (1963) #315",
+		"id": 7192,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Edwin Jarvis",
+			"Spider-Man",
+			"Thor"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1990-04-10T00:00:00-0400",
+		"name": "Avengers (1963) #316",
+		"id": 7193,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Iron Man",
+			"Sersi",
+			"Spider-Man",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1990-05-10T00:00:00-0400",
+		"name": "Avengers (1963) #317",
+		"id": 7194,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Edwin Jarvis",
+			"Iron Man",
+			"Nebula",
+			"Spider-Man",
+			"Stranger",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1990-06-10T00:00:00-0400",
+		"name": "Avengers (1963) #318",
+		"id": 7195,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Iron Man",
+			"Nebula",
+			"Spider-Man",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1990-07-10T00:00:00-0400",
+		"name": "Avengers (1963) #319",
+		"id": 7196,
+		"characters": [
+			"Avengers",
+			"Edwin Jarvis",
+			"Sersi",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1990-07-10T00:00:00-0400",
+		"name": "What If? (1989) #15",
+		"id": 18315,
+		"characters": [
+			"Avengers",
+			"Daredevil",
+			"Fantastic Four",
+			"Gladiator (Kallark)",
+			"Human Torch",
+			"Imperial Guard",
+			"Invisible Woman",
+			"Lilandra",
+			"Mr. Fantastic",
+			"Nova",
+			"Punisher",
+			"Skrulls",
+			"Spider-Man",
+			"Thing",
+			"Thor",
+			"Wolverine"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1990-08-10T00:00:00-0400",
+		"name": "Avengers (1963) #320",
+		"id": 7198,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Sersi",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1990-08-20T00:00:00-0400",
+		"name": "Avengers (1963) #321",
+		"id": 7199,
+		"characters": [
+			"Alpha Flight",
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1990-09-05T00:00:00-0400",
+		"name": "Avengers (1963) #322",
+		"id": 7200,
+		"characters": [
+			"Alpha Flight",
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1990-09-10T00:00:00-0400",
+		"name": "Avengers (1963) #323",
+		"id": 7201,
+		"characters": [
+			"Alpha Flight",
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1990-10-10T00:00:00-0400",
+		"name": "Avengers (1963) #324",
+		"id": 7202,
+		"characters": [
+			"Alpha Flight",
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1990-10-20T00:00:00-0400",
+		"name": "Avengers (1963) #325",
+		"id": 7203,
+		"characters": [
+			"Avengers",
+			"Sersi"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1990-11-10T00:00:00-0500",
+		"name": "What If? (1989) #19",
+		"id": 18319,
+		"characters": [
+			"Avengers",
+			"Hydra",
+			"Kingpin",
+			"Lilandra",
+			"Mad Thinker",
+			"She-Hulk (Jennifer Walters)",
+			"Thor",
+			"Vision",
+			"X-Men"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1990-11-10T00:00:00-0500",
+		"name": "Avengers (1963) #326",
+		"id": 7204,
+		"characters": [
+			"Avengers",
+			"Iron Man",
+			"Rage"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1990-11-10T00:00:00-0500",
+		"name": "Doctor Strange, Sorcerer Supreme (1988) #23",
+		"id": 20183,
+		"characters": [
+			"Ancient One",
+			"Avengers",
+			"Clea",
+			"Dormammu",
+			"Hulk",
+			"Loki",
+			"Scarlet Witch",
+			"Silver Surfer",
+			"Thor",
+			"Umar",
+			"Wong"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1990-12-10T00:00:00-0500",
+		"name": "Avengers (1963) #327",
+		"id": 7205,
+		"characters": [
+			"Avengers",
+			"Iron Man",
+			"Rage"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1991-01-10T00:00:00-0500",
+		"name": "Avengers (1963) #328",
+		"id": 7206,
+		"characters": [
+			"Avengers",
+			"Rage"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1991-01-20T00:00:00-0500",
+		"name": "Avengers Annual (1967) #20",
+		"id": 6935,
+		"characters": [
+			"Absorbing Man",
+			"Avengers",
+			"Loki",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1991-02-10T00:00:00-0500",
+		"name": "Avengers (1963) #329",
+		"id": 7207,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Rage",
+			"Sandman"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1991-03-10T00:00:00-0500",
+		"name": "Avengers (1963) #330",
+		"id": 7209,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1991-04-10T00:00:00-0400",
+		"name": "Avengers (1963) #331",
+		"id": 7210,
+		"characters": [
+			"Avengers",
+			"Black Widow",
+			"Captain America",
+			"Doctor Strange",
+			"Quasar (Wendell Vaughn)",
+			"Rage",
+			"She-Hulk (Jennifer Walters)",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1991-05-10T00:00:00-0400",
+		"name": "Avengers (1963) #332",
+		"id": 7211,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Fantastic Four",
+			"Hercules",
+			"Rage",
+			"She-Hulk (Jennifer Walters)",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1991-06-10T00:00:00-0400",
+		"name": "Avengers (1963) #333",
+		"id": 7212,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Doctor Doom",
+			"Quasar (Wendell Vaughn)",
+			"Rage"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1991-07-01T00:00:00-0400",
+		"name": "New Warriors (1990) #13",
+		"id": 53443,
+		"characters": [
+			"Avengers",
+			"New Warriors",
+			"X-Men"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1991-07-10T00:00:00-0400",
+		"name": "Avengers (1963) #334",
+		"id": 7213,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Quicksilver"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1991-08-10T00:00:00-0400",
+		"name": "Nick Fury, Agent of S.H.I.E.L.D. (1989) #26",
+		"id": 27728,
+		"characters": [
+			"Avengers",
+			"Mr. Fantastic",
+			"Nick Fury",
+			"S.H.I.E.L.D."
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1991-08-10T00:00:00-0400",
+		"name": "Alpha Flight (1983) #99",
+		"id": 12766,
+		"characters": [
+			"Alpha Flight",
+			"Avengers",
+			"Nova"
+		]
+	},
+	{
+		"events": [
+			"Infinity Gauntlet"
+		],
+		"sale_date": "1991-08-10T00:00:00-0400",
+		"name": "Infinity Gauntlet (1991) #2",
+		"id": 9287,
+		"characters": [
+			"Avengers",
+			"Death",
+			"Mephisto",
+			"Thanos"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1991-08-10T00:00:00-0400",
+		"name": "Avengers (1963) #335",
+		"id": 7214,
+		"characters": [
+			"Avengers",
+			"Black Widow",
+			"Captain America",
+			"Hercules",
+			"Rage",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1991-08-20T00:00:00-0400",
+		"name": "Avengers (1963) #336",
+		"id": 7215,
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Hercules",
+			"Iron Man",
+			"Quasar (Wendell Vaughn)",
+			"Rage",
+			"Sersi"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1991-09-10T00:00:00-0400",
+		"name": "Avengers (1963) #337",
+		"id": 7216,
+		"characters": [
+			"Avengers",
+			"Black Widow",
+			"Captain America",
+			"Sersi",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1991-09-10T00:00:00-0400",
+		"name": "What If? (1989) #29",
+		"id": 18330,
+		"characters": [
+			"Avengers",
+			"Captain America"
+		]
+	},
+	{
+		"events": [
+			"Infinity Gauntlet"
+		],
+		"sale_date": "1991-09-10T00:00:00-0400",
+		"name": "Infinity Gauntlet (1991) #3",
+		"id": 9288,
+		"characters": [
+			"Avengers",
+			"Death",
+			"Defenders",
+			"Galactus",
+			"Mephisto",
+			"Silver Surfer",
+			"Thanos"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1991-09-10T00:00:00-0400",
+		"name": "Alpha Flight (1983) #100",
+		"id": 12639,
+		"characters": [
+			"Alpha Flight",
+			"Avengers",
+			"Galactus",
+			"Nova"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1991-09-20T00:00:00-0400",
+		"name": "Avengers (1963) #338",
+		"id": 7217,
+		"characters": [
+			"Avengers",
+			"Black Widow",
+			"Captain America",
+			"Hercules",
+			"Sersi"
+		]
+	},
+	{
+		"events": [
+			"Infinity Gauntlet"
+		],
+		"sale_date": "1991-10-10T00:00:00-0400",
+		"name": "Infinity Gauntlet (1991) #4",
+		"id": 9289,
+		"characters": [
+			"Avengers",
+			"Defenders",
+			"Mephisto",
+			"Thanos",
+			"The Watchers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1991-10-10T00:00:00-0400",
+		"name": "Avengers (1963) #339",
+		"id": 7218,
+		"characters": [
+			"Avengers",
+			"Black Widow",
+			"Captain America",
+			"Hercules",
+			"Quasar (Wendell Vaughn)",
+			"Sersi",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1991-10-10T00:00:00-0400",
+		"name": "Alpha Flight (1983) #101",
+		"id": 12640,
+		"characters": [
+			"Alpha Flight",
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1991-10-20T00:00:00-0400",
+		"name": "Avengers (1963) #340",
+		"id": 7220,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hercules",
+			"Iron Man",
+			"She-Hulk (Jennifer Walters)",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1991-11-01T00:00:00-0500",
+		"name": "Fantastic Four (1961) #358",
+		"id": 13181,
+		"characters": [
+			"Annihilus",
+			"Avengers",
+			"Blastaar",
+			"Daredevil",
+			"Doctor Doom",
+			"Fantastic Four",
+			"Galactus",
+			"Hulk",
+			"Human Torch",
+			"Iceman",
+			"Inhumans",
+			"Invisible Woman",
+			"Juggernaut",
+			"Kang",
+			"Mad Thinker",
+			"Mr. Fantastic",
+			"Nick Fury",
+			"Puppet Master",
+			"Rhino",
+			"She-Hulk (Jennifer Walters)",
+			"Silver Surfer",
+			"Spider-Man",
+			"Thing",
+			"Uatu The Watcher",
+			"X-Men"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1991-11-10T00:00:00-0500",
+		"name": "Avengers (1963) #341",
+		"id": 7221,
+		"characters": [
+			"Avengers",
+			"New Warriors",
+			"Rage"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1991-12-10T00:00:00-0500",
+		"name": "Avengers (1963) #342",
+		"id": 7222,
+		"characters": [
+			"Avengers",
+			"New Warriors"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1992-01-10T00:00:00-0500",
+		"name": "Avengers (1963) #343",
+		"id": 7223,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1992-01-21T00:00:00-0500",
+		"name": "Avengers Annual (1967) #21",
+		"id": 6936,
+		"characters": [
+			"Avengers",
+			"Hercules",
+			"Kang"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1992-02-10T00:00:00-0500",
+		"name": "Avengers (1963) #344",
+		"id": 7224,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1992-03-10T00:00:00-0500",
+		"name": "Avengers (1963) #345",
+		"id": 7225,
+		"characters": [
+			"Avengers",
+			"Deathbird",
+			"Kree",
+			"Shi'Ar"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1992-04-10T00:00:00-0400",
+		"name": "Avengers (1963) #346",
+		"id": 7226,
+		"characters": [
+			"Avengers",
+			"Deathbird",
+			"Kree"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1992-04-10T00:00:00-0400",
+		"name": "What If? (1989) #36",
+		"id": 18338,
+		"characters": [
+			"Avengers",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1992-05-10T00:00:00-0400",
+		"name": "Avengers (1963) #347",
+		"id": 7227,
+		"characters": [
+			"Avengers",
+			"Deathbird",
+			"Kree"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1992-05-10T00:00:00-0400",
+		"name": "Captain America (1968) #400",
+		"id": 7781,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Diamondback (Rachel Leighton)"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1992-06-10T00:00:00-0400",
+		"name": "Avengers (1963) #348",
+		"id": 7228,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1992-07-10T00:00:00-0400",
+		"name": "Avengers (1963) #349",
+		"id": 7229,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [
+			"Infinity War"
+		],
+		"sale_date": "1992-08-01T00:00:00-0400",
+		"name": "Fantastic Four (1961) #367",
+		"id": 13191,
+		"characters": [
+			"Avengers",
+			"Daredevil",
+			"Fantastic Four",
+			"Hulk",
+			"Human Torch",
+			"Invisible Woman",
+			"Iron Man",
+			"Puppet Master",
+			"Thor",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1992-08-10T00:00:00-0400",
+		"name": "Avengers (1963) #350",
+		"id": 7231,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1992-08-20T00:00:00-0400",
+		"name": "Avengers (1963) #351",
+		"id": 7232,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [
+			"Infinity War"
+		],
+		"sale_date": "1992-09-01T00:00:00-0400",
+		"name": "Fantastic Four (1961) #368",
+		"id": 13192,
+		"characters": [
+			"Avengers",
+			"Beast",
+			"Colossus",
+			"Fantastic Four",
+			"Hulk",
+			"Human Torch",
+			"Invisible Woman",
+			"Iron Man",
+			"Namorita",
+			"Sasquatch (Walter Langkowski)",
+			"She-Hulk (Jennifer Walters)",
+			"Thanos",
+			"Thor",
+			"Wasp",
+			"X-Men"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1992-09-10T00:00:00-0400",
+		"name": "What If? (1989) #41",
+		"id": 18344,
+		"characters": [
+			"Avengers",
+			"Fantastic Four",
+			"Wolverine"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1992-09-10T00:00:00-0400",
+		"name": "Avengers (1963) #352",
+		"id": 7233,
+		"characters": [
+			"Avengers",
+			"Hercules",
+			"Sersi",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1992-09-20T00:00:00-0400",
+		"name": "Avengers (1963) #353",
+		"id": 7234,
+		"characters": [
+			"Avengers",
+			"Crystal",
+			"Grim Reaper",
+			"Hercules",
+			"Sersi",
+			"Vision"
+		]
+	},
+	{
+		"events": [
+			"Infinity War"
+		],
+		"sale_date": "1992-10-01T00:00:00-0400",
+		"name": "Fantastic Four (1961) #369",
+		"id": 13193,
+		"characters": [
+			"Alpha Flight",
+			"Avengers",
+			"Captain America",
+			"Doctor Strange",
+			"Fantastic Four",
+			"Galactus",
+			"Hulk",
+			"Human Torch",
+			"Invisible Woman",
+			"Psylocke",
+			"Puppet Master",
+			"Quasar (Phyla-Vell)",
+			"Silver Surfer",
+			"Thanos",
+			"Uatu The Watcher",
+			"X-Men"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1992-10-10T00:00:00-0400",
+		"name": "Avengers (1963) #354",
+		"id": 7235,
+		"characters": [
+			"Avengers",
+			"Crystal",
+			"Hercules",
+			"Sersi",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1992-10-20T00:00:00-0400",
+		"name": "Avengers (1963) #355",
+		"id": 7236,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [
+			"Infinity War"
+		],
+		"sale_date": "1992-11-01T00:00:00-0500",
+		"name": "Fantastic Four (1961) #370",
+		"id": 13195,
+		"characters": [
+			"Adam Warlock",
+			"Avengers",
+			"Fantastic Four",
+			"Galactus",
+			"Hulk",
+			"Human Torch",
+			"Invisible Woman",
+			"Silver Surfer",
+			"Thanos",
+			"Thor",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1992-11-10T00:00:00-0500",
+		"name": "Avengers (1963) #356",
+		"id": 7237,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1992-12-10T00:00:00-0500",
+		"name": "Avengers (1963) #357",
+		"id": 7238,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1992-12-10T00:00:00-0500",
+		"name": "Quasar (1989) #41",
+		"id": 18930,
+		"characters": [
+			"Avengers",
+			"Quasar (Phyla-Vell)"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1993-01-10T00:00:00-0500",
+		"name": "Avengers (1963) #358",
+		"id": 7239,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1993-01-10T00:00:00-0500",
+		"name": "Quasar (1989) #42",
+		"id": 18931,
+		"characters": [
+			"Avengers",
+			"Quasar (Phyla-Vell)"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1993-01-22T00:00:00-0500",
+		"name": "Avengers Annual (1967) #22",
+		"id": 6937,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1993-02-10T00:00:00-0500",
+		"name": "Avengers (1963) #359",
+		"id": 7240,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1993-03-10T00:00:00-0500",
+		"name": "What If? (1989) #47",
+		"id": 18350,
+		"characters": [
+			"Avalanche",
+			"Avengers",
+			"Blob",
+			"Colossus",
+			"Dazzler",
+			"Fantastic Four",
+			"Magneto",
+			"Mesmero",
+			"Mister Sinister",
+			"Psylocke",
+			"Storm",
+			"Sunspot",
+			"Thor",
+			"Wolverine",
+			"X-Men"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1993-03-10T00:00:00-0500",
+		"name": "Avengers (1963) #360",
+		"id": 7242,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1993-04-10T00:00:00-0400",
+		"name": "Avengers (1963) #361",
+		"id": 7243,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1993-05-10T00:00:00-0400",
+		"name": "Avengers (1963) #362",
+		"id": 7244,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1993-06-10T00:00:00-0400",
+		"name": "Avengers (1963) #363",
+		"id": 7245,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1993-06-10T00:00:00-0400",
+		"name": "Infinity Crusade (1993) #1",
+		"id": 23307,
+		"characters": [
+			"Adam Warlock",
+			"Avengers",
+			"Fantastic Four",
+			"X-Men"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1993-07-01T00:00:00-0400",
+		"name": "Fantastic Four (1961) #378",
+		"id": 13203,
+		"characters": [
+			"Avengers",
+			"Black Knight (Sir Percy of Scandia)",
+			"Captain Marvel (Carol Danvers)",
+			"Crystal",
+			"Daredevil",
+			"Fantastic Four",
+			"Human Torch",
+			"Invisible Woman",
+			"Klaw",
+			"Sandman",
+			"Sersi",
+			"Silver Sable",
+			"Spider-Man",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1993-07-10T00:00:00-0400",
+		"name": "Avengers (1963) #364",
+		"id": 7246,
+		"characters": [
+			"Avengers",
+			"Sersi"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1993-08-10T00:00:00-0400",
+		"name": "Avengers (1963) #365",
+		"id": 7247,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1993-09-01T00:00:00-0400",
+		"name": "Avengers: The Terminatrix Objective (1993) #1",
+		"id": 55892,
+		"characters": [
+			"Avengers",
+			"Iron Patriot (James Rhodes)",
+			"U.S. Agent"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1993-09-10T00:00:00-0400",
+		"name": "Avengers (1963) #366",
+		"id": 7248,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1993-10-10T00:00:00-0400",
+		"name": "Avengers (1963) #367",
+		"id": 7249,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1993-11-10T00:00:00-0500",
+		"name": "Avengers (1963) #368",
+		"id": 7250,
+		"characters": [
+			"Avengers",
+			"X-Men"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1993-11-10T00:00:00-0500",
+		"name": "What If? (1989) #55",
+		"id": 18359,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1993-12-10T00:00:00-0500",
+		"name": "What If? (1989) #56",
+		"id": 18360,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1993-12-10T00:00:00-0500",
+		"name": "Avengers (1963) #369",
+		"id": 7251,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Crystal",
+			"Exodus",
+			"Hawkeye",
+			"Jean Grey",
+			"Professor X",
+			"Quicksilver",
+			"Scarlet Witch",
+			"Vision",
+			"X-Men"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1994-01-10T00:00:00-0500",
+		"name": "Avengers (1963) #370",
+		"id": 7253,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1994-01-23T00:00:00-0500",
+		"name": "Avengers Annual (1967) #23",
+		"id": 6938,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1994-02-10T00:00:00-0500",
+		"name": "Avengers (1963) #371",
+		"id": 7254,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1994-03-10T00:00:00-0500",
+		"name": "Avengers (1963) #372",
+		"id": 7255,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1994-04-10T00:00:00-0400",
+		"name": "Avengers (1963) #373",
+		"id": 7256,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1994-05-10T00:00:00-0400",
+		"name": "Avengers (1963) #374",
+		"id": 7257,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1994-05-10T00:00:00-0400",
+		"name": "Fantastic Four (1961) #388",
+		"id": 13214,
+		"characters": [
+			"Avengers",
+			"Fantastic Four",
+			"Human Torch",
+			"Invisible Woman",
+			"Iron Man",
+			"Spider-Man",
+			"Thor",
+			"Uatu The Watcher"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1994-06-10T00:00:00-0400",
+		"name": "Avengers (1963) #375",
+		"id": 7258,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1994-07-10T00:00:00-0400",
+		"name": "Avengers (1963) #376",
+		"id": 7259,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1994-08-10T00:00:00-0400",
+		"name": "Avengers (1963) #377",
+		"id": 7260,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1994-09-10T00:00:00-0400",
+		"name": "Avengers (1963) #378",
+		"id": 7261,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1994-10-10T00:00:00-0400",
+		"name": "Avengers (1963) #379",
+		"id": 7262,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1994-11-10T00:00:00-0500",
+		"name": "Avengers (1963) #380",
+		"id": 7264,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1994-12-10T00:00:00-0500",
+		"name": "Avengers (1963) #381",
+		"id": 7265,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1995-01-10T00:00:00-0500",
+		"name": "Avengers (1963) #382",
+		"id": 7266,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1995-02-10T00:00:00-0500",
+		"name": "Avengers (1963) #383",
+		"id": 7267,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1995-03-10T00:00:00-0500",
+		"name": "Avengers (1963) #384",
+		"id": 7268,
+		"characters": [
+			"Avengers",
+			"Hercules"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1995-04-10T00:00:00-0400",
+		"name": "Avengers (1963) #385",
+		"id": 7269,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1995-05-10T00:00:00-0400",
+		"name": "Avengers (1963) #386",
+		"id": 7270,
+		"characters": [
+			"Avengers",
+			"Red Skull"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1995-06-10T00:00:00-0400",
+		"name": "Avengers (1963) #387",
+		"id": 7271,
+		"characters": [
+			"Avengers",
+			"Red Skull"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1995-07-10T00:00:00-0400",
+		"name": "Avengers (1963) #388",
+		"id": 7272,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1995-08-10T00:00:00-0400",
+		"name": "Avengers (1963) #389",
+		"id": 7273,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1995-08-10T00:00:00-0400",
+		"name": "Iron Man (1968) #319",
+		"id": 9571,
+		"characters": [
+			"Avengers",
+			"Force Works",
+			"Iron Man",
+			"Titanium Man (Topolov)"
+		]
+	},
+	{
+		"events": [
+			"Crossing"
+		],
+		"sale_date": "1995-09-10T00:00:00-0400",
+		"name": "Avengers (1963) #390",
+		"id": 7275,
+		"characters": [
+			"Avengers",
+			"Deathcry",
+			"Magdalene"
+		]
+	},
+	{
+		"events": [
+			"Crossing"
+		],
+		"sale_date": "1995-10-10T00:00:00-0400",
+		"name": "Avengers (1963) #391",
+		"id": 7276,
+		"characters": [
+			"Avengers",
+			"Deathcry",
+			"Magdalene"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1995-11-01T00:00:00-0500",
+		"name": "The Last Avengers Story (1995) #1",
+		"id": 23313,
+		"characters": [
+			"Avengers",
+			"Cannonball",
+			"Doctor Doom",
+			"Grim Reaper",
+			"Hercules",
+			"Hulk",
+			"Human Torch",
+			"Kang",
+			"Mockingbird",
+			"Mr. Fantastic",
+			"She-Hulk (Jennifer Walters)",
+			"Thor",
+			"Tigra (Greer Nelson)",
+			"Ultron",
+			"Wasp",
+			"Wonder Man"
+		]
+	},
+	{
+		"events": [
+			"Crossing"
+		],
+		"sale_date": "1995-11-10T00:00:00-0500",
+		"name": "Avengers (1963) #392",
+		"id": 7277,
+		"characters": [
+			"Avengers",
+			"Mantis"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1995-12-01T00:00:00-0500",
+		"name": "The Last Avengers Story (1995) #2",
+		"id": 23314,
+		"characters": [
+			"Avengers",
+			"Cannonball",
+			"Grim Reaper",
+			"Human Torch",
+			"Kang",
+			"Mockingbird",
+			"Quicksilver",
+			"Scarlet Witch",
+			"She-Hulk (Jennifer Walters)",
+			"Spider-Man",
+			"Ultron",
+			"Vision",
+			"Wasp"
+		]
+	},
+	{
+		"events": [
+			"Crossing"
+		],
+		"sale_date": "1995-12-10T00:00:00-0500",
+		"name": "Avengers (1963) #393",
+		"id": 7278,
+		"characters": [
+			"Avengers",
+			"Kang",
+			"Mantis",
+			"Masque"
+		]
+	},
+	{
+		"events": [
+			"Crossing"
+		],
+		"sale_date": "1996-01-10T00:00:00-0500",
+		"name": "Avengers (1963) #394",
+		"id": 7279,
+		"characters": [
+			"Avengers",
+			"Kang",
+			"Mantis",
+			"Wasp"
+		]
+	},
+	{
+		"events": [
+			"Crossing"
+		],
+		"sale_date": "1996-02-10T00:00:00-0500",
+		"name": "Avengers (1963) #395",
+		"id": 7280,
+		"characters": [
+			"Avengers",
+			"Iron Man",
+			"Kang",
+			"Mantis",
+			"Masque"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1996-03-10T00:00:00-0500",
+		"name": "Avengers (1963) #396",
+		"id": 7281,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1996-04-10T00:00:00-0400",
+		"name": "Avengers (1963) #397",
+		"id": 7282,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1996-05-10T00:00:00-0400",
+		"name": "Avengers (1963) #398",
+		"id": 7283,
+		"characters": [
+			"Avengers",
+			"Masque"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1996-06-10T00:00:00-0400",
+		"name": "Avengers (1963) #399",
+		"id": 7284,
+		"characters": [
+			"Avengers",
+			"Masque"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1996-07-10T00:00:00-0400",
+		"name": "Avengers (1963) #400",
+		"id": 7287,
+		"characters": [
+			"Avengers",
+			"Doctor Spectrum",
+			"Fantastic Four",
+			"Loki",
+			"Namor"
+		]
+	},
+	{
+		"events": [
+			"Onslaught"
+		],
+		"sale_date": "1996-08-10T00:00:00-0400",
+		"name": "Avengers (1963) #401",
+		"id": 7288,
+		"characters": [
+			"Avengers",
+			"Magneto",
+			"Rogue"
+		]
+	},
+	{
+		"events": [
+			"Onslaught"
+		],
+		"sale_date": "1996-09-10T00:00:00-0400",
+		"name": "Avengers (1963) #402",
+		"id": 7289,
+		"characters": [
+			"Avengers"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1996-10-10T00:00:00-0400",
+		"name": "Amazing Spider-Man (1963) #416",
+		"id": 6834,
+		"characters": [
+			"Avengers",
+			"Fantastic Four",
+			"J. Jonah Jameson",
+			"Mary Jane Watson",
+			"Peter Parker",
+			"Spider-Man (Ben Reilly)"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1996-11-10T00:00:00-0500",
+		"name": "Avengers (1996) #1",
+		"id": 17751,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hellcat (Patsy Walker)",
+			"Iron Man",
+			"Loki",
+			"Nick Fury",
+			"Scarlet Witch",
+			"Swordsman",
+			"Thor",
+			"Ultron",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1996-12-10T00:00:00-0500",
+		"name": "Avengers (1996) #2",
+		"id": 17756,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hellcat (Patsy Walker)",
+			"Kang",
+			"Mantis",
+			"Nick Fury",
+			"Scarlet Witch",
+			"Swordsman",
+			"Thor",
+			"Ultron",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1997-01-10T00:00:00-0500",
+		"name": "Avengers (1996) #3",
+		"id": 17757,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hellcat (Patsy Walker)",
+			"Kang",
+			"Loki",
+			"Mantis",
+			"Nick Fury",
+			"Scarlet Witch",
+			"Swordsman",
+			"Thor",
+			"Vision",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1997-02-10T00:00:00-0500",
+		"name": "Avengers (1996) #4",
+		"id": 17758,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hellcat (Patsy Walker)",
+			"Hulk",
+			"Loki",
+			"Scarlet Witch",
+			"Swordsman",
+			"Thor",
+			"Vision",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1997-03-01T00:00:00-0500",
+		"name": "Code of Honor (1997) #2",
+		"id": 62633,
+		"characters": [
+			"Avengers",
+			"Cloak",
+			"Dagger",
+			"Daredevil",
+			"Luke Cage",
+			"Punisher"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1997-03-10T00:00:00-0500",
+		"name": "Avengers (1996) #5",
+		"id": 17759,
+		"characters": [
+			"Avengers",
+			"Hulk",
+			"Nick Fury",
+			"Thor",
+			"Vision"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1997-04-10T00:00:00-0400",
+		"name": "Avengers (1996) #6",
+		"id": 17760,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Fantastic Four",
+			"Hellcat (Patsy Walker)",
+			"Hulk",
+			"Human Torch",
+			"Iron Man",
+			"Loki",
+			"Mr. Fantastic",
+			"Nick Fury",
+			"Thor"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1997-05-10T00:00:00-0400",
+		"name": "Avengers (1996) #7",
+		"id": 17761,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Hellcat (Patsy Walker)",
+			"Iron Man",
+			"Lethal Legion",
+			"Nick Fury",
+			"Scarlet Witch",
+			"Swordsman",
+			"Thor",
+			"Vision",
+			"Wonder Man"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1997-06-10T00:00:00-0400",
+		"name": "Avengers (1996) #8",
+		"id": 17762,
+		"characters": [
+			"Avengers",
+			"Black Knight (Sir Percy of Scandia)",
+			"Captain America",
+			"Hellcat (Patsy Walker)",
+			"Iron Man",
+			"Kang",
+			"Klaw",
+			"Lethal Legion",
+			"Loki",
+			"Mantis",
+			"Masters of Evil",
+			"Nick Fury",
+			"Radioactive Man",
+			"Scarlet Witch",
+			"Thor",
+			"Vision",
+			"Whirlwind",
+			"Wonder Man"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1997-07-10T00:00:00-0400",
+		"name": "Avengers (1996) #9",
+		"id": 17763,
+		"characters": [
+			"Amora",
+			"Avengers",
+			"Black Knight (Sir Percy of Scandia)",
+			"Captain America",
+			"Grim Reaper",
+			"Hellcat (Patsy Walker)",
+			"Iron Man",
+			"Klaw",
+			"Loki",
+			"Masters of Evil",
+			"Nick Fury",
+			"Radioactive Man",
+			"Scarlet Witch",
+			"Super-Adaptoid",
+			"Thor",
+			"Vision",
+			"Wasp",
+			"Whirlwind"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1997-08-10T00:00:00-0400",
+		"name": "Avengers (1996) #10",
+		"id": 17752,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Enchantress (Amora)",
+			"Iron Man",
+			"Loki",
+			"Mantis",
+			"Mr. Fantastic",
+			"Nick Fury",
+			"Scarlet Witch",
+			"Thor",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1997-09-10T00:00:00-0400",
+		"name": "Avengers (1996) #11",
+		"id": 17753,
+		"characters": [
+			"Avengers",
+			"Captain America",
+			"Enchantress (Amora)",
+			"Hawkeye",
+			"Iron Man",
+			"Loki",
+			"Odin",
+			"Scarlet Witch",
+			"Thor",
+			"Wasp"
+		]
+	},
+	{
+		"events": [],
+		"sale_date": "1997-10-01T00:00:00-0400",
+		"name": "Fantastic Four (1996) #12",
+		"id": 13315,
+		"characters": [
+			"Avengers",
+			"Black Bolt",
+			"Black Panther",
+			"Captain America",
+			"Crystal",
+			"Doctor Doom",
+			"Fantastic Four",
+			"Firelord",
+			"Galactus",
+			"Gorgon",
+			"Hawkeye",
+			"Human Torch",
+			"Inhumans",
+			"Invisible Woman",
+			"Iron Man",
+			"Medusa",
+			"Mole Man",
+			"Nick Fury",
+			"S.H.I.E.L.D.",
+			"Scarlet Witch",
+			"Silver Surfer",
+			"Thor"
+		]
+	}
+]
