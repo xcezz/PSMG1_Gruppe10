@@ -1,72 +1,145 @@
-/**
- * Custom Stylesheet
- * Use this file to override Materialize files
- *
- */
- 
 body {
-  background-color: #921c28;
+    background: #2f2f2f;
 }
 
-.marvel-color {
-  color: #921c28 !important;
+article {
+    width: 80%;
+    margin: 0 auto;
+    padding: 50px 50px;
+    background: snow;
+    color: #2f2f2f;
+    background-color: #f9f7f1;
 }
 
-.marvel {
-  background: url('http://37.media.tumblr.com/tumblr_mbha9qWF401qcixnko4_500.gif');
-  background-size: cover;
-  -webkit-animation: fadeOut 9s infinite;
-  -moz-animation: fadeOut 9s infinite;
-  animation: fadeOut 9s infinite;
+h1 {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 72px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    word-spacing: 10px;
+    margin-top: 0;
+    margin-bottom: 20px;
 }
 
-nav ul a,
-nav .brand-logo {
-  color: #fff;
+h1 span {
+    font-family: 'Playball', cursive;
+    font-size: 60px;
+    text-transform: lowercase;
+    position: relative;
+    top: -15px
 }
 
-p {
-  line-height: 2rem;
+.meta {
+    border-top: 1px solid #333;
+    text-align: center;
 }
 
-.button-collapse {
-  color: #921c28;
+.meta h2 {
+    display: inline-block;
+    margin: 0;
+    padding: 0 20px;
+    background: #f9f7f1;
+    position: relative;
+    top: -12px;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
 }
 
-.parallax-container {
-  min-height: 380px;
-  line-height: 0;
-  height: auto;
-  color: rgba(255,255,255,.9);
-}
-  .parallax-container .section {
-    width: 100%;
-  }
-
-@media only screen and (max-width : 992px) {
-  .parallax-container .section {
-    position: absolute;
-    top: 40%;
-  }
-  #index-banner .section {
-    top: 10%;
-  }
+header {
+    margin-bottom: 25px;
 }
 
-@media only screen and (max-width : 600px) {
-  #index-banner .section {
-    top: 0;
-  }
+section .columns {
+    -moz-column-count: 3;
+    /* Firefox */
+    -webkit-column-count: 3;
+    /* Safari and Chrome */
+    column-count: 3;
 }
 
-.icon-block {
-  padding: 0 15px;
+.columns p {
+    font-size: 18px;
+    margin: 0 0 10px 0;
+    text-indent: 10px;
 }
 
-.icon-block .material-icons {
-  font-size: inherit;
+strong {
+    margin: 0;
 }
 
-footer.page-footer {
-  margin: 0;
+blockquote {
+    -moz-column-span: all;
+    -webkit-column-span: all;
+    column-span: all;
+    font-family: 'Playball', cursive;
+    font-size: 32px;
+    font-weight: normal;
+    border-top: 3px solid #333;
+    border-bottom: 3px solid #333;
+    padding: 15px 0;
+}
+
+.table-small {
+    margin-bottom: 30px;
+}
+
+.td-newspaper {
+    width: 20%;
+    padding: 20px;
+    vertical-align: top;
+    text-align: justify;
+}
+
+.headline-leg {
+    font-weight: bold;
+    font-size: 26px;
+    box-sizing: border-box;
+    padding: 10px 0 10px 0;
+    text-align: center;
+    line-height: normal;
+    display: block;
+    margin: 0 auto;
+}
+
+.headline-under {
+    font-weight: 700;
+    font-size: 12px;
+    box-sizing: border-box;
+    padding: 10px 0 10px 0;
+    text-align: center;
+    line-height: normal;
+    display: block;
+    margin: 0 auto
+}
+
+.headline-leg+.headline-under {
+    border-bottom: 1px solid rgba(47, 47, 47, .3);
+    border-top: 1px solid rgba(47, 47, 47, .3);
+}
+
+.padding-top-10 {
+    padding-top: 10px;
+}
+
+.width-fill {
+    width: 70%;
+    margin: auto;
+    display: block;
+    padding: 10px 0px;
+}
+
+.subhead h2 {
+    text-transform: uppercase;
+    border-bottom: 2px solid #2f2f2f;
+    border-top: 2px solid #2f2f2f;
+    padding: 12px 0 12px 0;
+    font-size: 14px;
+    text-align: center;
+}
+
+td+td {
+    border-left: 1px solid rgba(47, 47, 47, .2);
 }
