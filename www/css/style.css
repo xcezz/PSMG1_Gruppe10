@@ -143,3 +143,31 @@ blockquote {
 td+td {
     border-left: 1px solid rgba(47, 47, 47, .2);
 }
+
+strong{
+    font-weight: bold;
+}
+
+.hover-hulk{
+    position: relative;
+    display: inline-block;
+}
+
+.hover-hulk .hover-text{
+    visibility: hidden;
+    width: 284px;
+    background-color: forestgreen;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius:  6px;
+    position: absolute;
+    z-index: 1;
+     font-family: 'Playfair Display', serif;
+     text-transform: uppercase;
+    font-size: 20px;
+}
+
+.hover-hulk:hover .hover-text{
+    visibility: visible;
+}
