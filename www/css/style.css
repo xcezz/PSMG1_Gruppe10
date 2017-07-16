@@ -95,6 +95,7 @@ blockquote {
 
 .headline-leg {
     font-weight: bold;
+    font-style: italic;
     font-size: 26px;
     box-sizing: border-box;
     padding: 10px 0 10px 0;
