@@ -18,8 +18,12 @@ app.get('/data', function (req, res) {
 });
 
 // initialize marvelServerApp Module
-marvelServerApp = marvelServerApp(marvel, myMarvelAPI, marvelDataModel)
-.init();
+try{
+  marvelServerApp = marvelServerApp(marvel, myMarvelAPI, marvelDataModel)
+  .init();
+} catch(e){
+  console.log("Invalid API Keys.\nPlease enter your keys (https://developer.marvel.com/account)");
+}
 
 // if last successfully loaded data older than 24 hours
 // -> load new
