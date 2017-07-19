@@ -30,7 +30,7 @@ MarvelApp.MarvelModel.Character = function(identifier){
       thumbnail = img;
     }
     return {
-      name: name,
+      name: that.name,
       description: description,
       thumbnail: thumbnail,
       url: url,
