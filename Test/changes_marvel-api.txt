@@ -1,0 +1,10 @@
+added formatError function to utils.js to create Error Object:
+
+exports.formatError = function(body) {
+  var error = new Error(response.body.message);
+  error.code = response.body.code;
+
+  return error;
+};
+
+creating Error Objects in all modules with utils.js function on response status != 200 with returned status and message
