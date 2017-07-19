@@ -6,7 +6,7 @@ MarvelApp.MarvelModel = function(){
   var that = {},
   onDataUpdated,
   comicCountEvents,
-  
+
   lines,
   comics,
   characters,
@@ -46,31 +46,16 @@ MarvelApp.MarvelModel = function(){
 
   function activateCharacter(identifier, activate){
     var character = characters[characterToIndex[identifier]];
-    var character_events = character.getEvents();
-    var character_comics = character.getComics();
-    var character_lines = character.getLines();
-    if(activate){
-      character.activate();
-      for(var i = 0; i < character_events.length; i++){
-        character_events[i].activate();
-      }
-      for(var i = 0; i < character_comics.length; i++){
-        character_comics[i].activate();
-      }
-      for(var i = 0; i < character_lines.length; i++){
-        character_lines[i].activate();
-      }
-    } else {
-      character.deactivate();
-      for(var i = 0; i < character_events.length; i++){
-        character_events[i].deactivate();
-      }
-      for(var i = 0; i < character_comics.length; i++){
-        character_comics[i].deactivate();
-      }
-      for(var i = 0; i < character_lines.length; i++){
-        character_lines[i].deactivate();
-      }
+
+    character.active = activate;
+    for(var i = 0; i < character.events.length; i++){
+      character.events[i].active = activate;
+    }
+    for(var i = 0; i < character.comics.length; i++){
+      character.comics[i].active = activate;
+    }
+    for(var i = 0; i < character.lines.length; i++){
+      character.lines[i].active = activate;
     }
 
     onDataUpdated(dataForView());
@@ -78,46 +63,31 @@ MarvelApp.MarvelModel = function(){
 
   function resetActive(){
     for(var i = 0; i < characters.length; i++){
-      characters[i].deactivate();
+      characters[i].active = false;
     }
     for(var i = 0; i < events.length; i++){
-      events[i].deactivate();
+      events[i].active = false;
     }
     for(var i = 0; i < comics.length; i++){
-      comics[i].deactivate();
+      comics[i].active = false;
     }
     for(var i = 0; i < lines.length; i++){
-      lines[i].deactivate();
+      lines[i].active = false;
     }
   }
 
   function activateComic(identifier, activate){
     var comic = comics[comicToIndex[identifier]];
-    var comic_events = comic.getEvents();
-    var comic_characters = comic.getCharacters();
-    var comic_lines = comic.getLines();
-    if(activate){
-      comic.activate();
-      for(var i = 0; i < comic_events.length; i++){
-        comic_events[i].activate();
-      }
-      for(var i = 0; i < comic_characters.length; i++){
-        comic_characters[i].activate();
-      }
-      for(var i = 0; i < comic_lines.length; i++){
-        comic_lines[i].activate();
-      }
-    } else {
-      comic.deactivate();
-      for(var i = 0; i < comic_events.length; i++){
-        comic_events[i].deactivate();
-      }
-      for(var i = 0; i < comic_characters.length; i++){
-        comic_characters[i].deactivate();
-      }
-      for(var i = 0; i < comic_lines.length; i++){
-        comic_lines[i].deactivate();
-      }
+
+    comic.active = activate;
+    for(var i = 0; i < comic.events.length; i++){
+      comic.events[i].active = activate;
+    }
+    for(var i = 0; i < comic.characters.length; i++){
+      comic.characters[i].active = activate;
+    }
+    for(var i = 0; i < comic.lines.length; i++){
+      comic.lines[i].active = activate;
     }
 
     onDataUpdated(dataForView());
@@ -125,32 +95,17 @@ MarvelApp.MarvelModel = function(){
 
   function activateEvent(identifier, activate){
     var event = events[eventToIndex[identifier]];
-    var event_characters = event.getCharacters();
-    var event_comics = event.getComics();
-    if(activate){
-      event.activate();
-      for(var i = 0; i < event_comics.length; i++){
-        event_comics[i].activate();
-        let event_comic_lines = event_comics[i].getLines();
-        for(var j = 0; j < event_comic_lines.length; j++){
-          event_comic_lines[j].activate();
-        }
+
+    event.active = activate;
+    for(var i = 0; i < event.comics.length; i++){
+      event.comics[i].active = activate;
+
+      for(var j = 0; j < event.comics[i].lines.length; j++){
+        event.comics[i].lines[j].active = activate;
       }
-      for(var i = 0; i < event_characters.length; i++){
-        event_characters[i].activate();
-      }
-    } else {
-      event.deactivate();
-      for(var i = 0; i < event_comics.length; i++){
-        event_comics[i].deactivate();
-        let event_comic_lines = event_comics[i].getLines();
-        for(var j = 0; j < event_comic_lines.length; j++){
-          event_comic_lines[j].deactivate();
-        }
-      }
-      for(var i = 0; i < event_characters.length; i++){
-        event_characters[i].deactivate();
-      }
+    }
+    for(var i = 0; i < event.characters.length; i++){
+      event.characters[i].active = activate;
     }
 
     onDataUpdated(dataForView());
@@ -167,82 +122,129 @@ MarvelApp.MarvelModel = function(){
     resetModelVariables();
     var comic, event, character, line;
 
-    for(var i = 0; i < data.length; i++){
-      comic = createComic(data[i]);
+    for(var e = 0; e < data.events.length; e++){
+      createEvent(data.events[e].id, data.events[e]);
+    }
 
-      var comics_events = data[i].events;
-      if(comics_events.length == 0){
-        event = createEvent(noEvent);
-        comic.addEvent(event);
-        event.addComic(comic);
-        comic.setColor(event.getDisplay().color);
-        comicCountEvents += 1;
-      }else{
-        for(var e = 0; e < comics_events.length; e++){
-            event = createEvent(comics_events[e]);
-            comic.addEvent(event);
-            event.addComic(comic);
-            comic.setColor(event.getDisplay().color);
-            comicCountEvents += 1;
+    for(var c = 0; c < data.characters.length; c++){
+      createCharacter(data.characters[c].id, data.characters[c]);
+    }
+
+    for(var i = 0; i < data.comics.length; i++){
+      comic = createComic(data.comics[i].id, data.comics[i]);
+
+      for(var e = 0; e < data.comics[i].events.length; e++){
+        event = createEvent(data.comics[i].events[e]);
+
+        if(comic.events.indexOf(event) === -1){
+          comic.events.push(event);
         }
+
+        if(event.comics.indexOf(comic) === -1){
+          event.comics.push(comic);
+        }
+
+        comic.display.color = event.display.color;
+        comicCountEvents += 1;
       }
 
+      for(var c = 0; c < data.comics[i].characters.length; c++){
+        character = createCharacter(data.comics[i].characters[c]);
 
-      var comics_characters = data[i].characters;
-      for(var c = 0; c < comics_characters.length; c++){
-        character = createCharacter(comics_characters[c]);
-        comic.addCharacter(character);
-        character.addComic(comic);
+        if(comic.characters.indexOf(character) === -1){
+          comic.characters.push(character);
+        }
+
+        if(character.comics.indexOf(comic) === -1){
+          character.comics.push(comic);
+        }
 
         line = new MarvelApp.MarvelModel.Line().init(comic, character);
         lines.push(line);
-        character.addLine(line);
-        comic.addLine(line);
 
-        if(comics_events.length == 0){
-          event = events[eventToIndex[noEvent]];
-          event.addCharacter(character);
-          character.addEvent(event);
-        } else {
-          for(var e = 0; e < comics_events.length; e++){
-            event = events[eventToIndex[comics_events[e]]];
-            event.addCharacter(character);
-            character.addEvent(event);
+        character.lines.push(line);
+        comic.lines.push(line);
+
+        for(var e = 0; e < data.comics[i].events.length; e++){
+          event = events[eventToIndex[data.comics[i].events[e]]];
+
+          if(event.characters.indexOf(character) === -1){
+            event.characters.push(character);
+          }
+
+          if(character.events.indexOf(event) === -1){
+            character.events.push(event);
           }
         }
       }
     }
+
+    events.sort(function(a,b){return a.getStart() - b.getStart()});
+    for(var i = 0; i < events.length; i++){
+      eventToIndex[events[i].getId()] = i;
+    }
+
+    comics.sort(function(a,b){return events.indexOf(a.events[0]) - events.indexOf(b.events[0])});
+    for(var i = 0; i < comics.length; i++){
+      comicToIndex[comics[i].getId()] = i;
+    }
   }
 
-  function createComic(data){
-    var comic = new MarvelApp.MarvelModel.Comic().init(data);
-    comics.push(comic);
-    comicToIndex[comic.getId()] = comics.indexOf(comic);
+  function createComic(id, data){
+    var comic,
+    comic_index = comicToIndex[id];
+    if(comic_index === undefined){
+      comic = new MarvelApp.MarvelModel.Comic(id),
+      comic_index = comics.length;
+      comics.push(comic);
+      comicToIndex[id] = comic_index;
+    } else {
+      comic = comics[comic_index];
+    }
+
+    if(data != undefined && !comic.isInitialized){
+      comic.init(data);
+    }
+
     return comic;
   }
 
-  function createEvent(data){
-    var event_index = eventToIndex[data];
+  function createEvent(id, data){
+    var event,
+    event_index = eventToIndex[id];
     if(event_index === undefined){
-      var event = new MarvelApp.MarvelModel.Event().init(data, colorData.events());
+      event = new MarvelApp.MarvelModel.Event(id),
+      event_index = events.length;
       events.push(event);
-      eventToIndex[data] = events.indexOf(event);
-      return event;
+      eventToIndex[id] = event_index;
     } else {
-      return events[event_index];
+      event = events[event_index];
     }
+
+    if(data != undefined && !event.isInitialized){
+      event.init(data, colorData.events(event_index));
+    }
+
+    return event;
   }
 
-  function createCharacter(data){
-    var character_index = characterToIndex[data];
+  function createCharacter(id, data){
+    var character,
+    character_index = characterToIndex[id];
     if(character_index === undefined){
-      var character = new MarvelApp.MarvelModel.Character().init(data, colorData.characters);
+      character = new MarvelApp.MarvelModel.Character(id),
+      character_index = characters.length;
       characters.push(character);
-      characterToIndex[data] = characters.indexOf(character);
-      return character;
-    } else{
-      return characters[character_index];
+      characterToIndex[id] = character_index;
+    } else {
+      character = characters[character_index];
     }
+
+    if(data != undefined && !character.isInitialized){
+      character.init(data);
+    }
+
+    return character;
   }
 
   function calculateLayout(){
@@ -266,41 +268,49 @@ MarvelApp.MarvelModel = function(){
     };
     for(let i = 0; i < comics.length; i++){
       let cComic = comics[i];
-      let display = cComic.getDisplay();
+      let display = cComic.display;
       viewData.comics.push({
-        r: sizeData.comics.r * ((cComic.isActive()) ? sizeData.comics.active : 1),
+        r: sizeData.comics.r * ((cComic.active) ? sizeData.comics.active : 1),
         x: display.x,
         y: display.y,
-        color: ((cComic.isActive()) ? display.color : colorData.comics),
-        name: comics[i].getName(),
+        color: ((cComic.active) ? display.color : colorData.comics),
+        name: comics[i].name,
         id: comics[i].getId()
       });
     }
     for(let i = 0; i < events.length; i++){
       let cEvent = events[i];
-      let display = cEvent.getDisplay();
+      let display = cEvent.display;
       viewData.events.push({
+        id: cEvent.getId(),
         d: display.d,
-        stroke_width: sizeData.events.stroke_width * ((cEvent.isActive()) ? sizeData.events.active : 1),
+        stroke_width: sizeData.events.stroke_width * ((cEvent.active) ? sizeData.events.active : 1),
         color: display.color,
-        name: events[i].getName(),
-        count: events[i].getComicCount()
+        name: events[i].name,
+        count: events[i].comics.length,
+        lableData: {
+          lableRot : display.lableRot,
+          lablePos: display.lablePos,
+          textAnchor: display.textAnchor,
+          name: ((cEvent.active) ? events[i].name : "")
+        }
       });
     }
     for(let i = 0; i < characters.length; i++){
       let cCharacter = characters[i];
-      let display = cCharacter.getDisplay();
+      let display = cCharacter.display;
       let character_data = {
+        id: cCharacter.getId(),
         r: display.r,
         x: display.x,
         y: display.y,
-        color: display.color,
-        stroke_width: ((cCharacter.isActive()) ? sizeData.characters.active : 0),
+        color: colorData.characters,
+        stroke_width: ((cCharacter.active) ? sizeData.characters.active : 0),
         stroke: colorData.character_stroke,
-        name: characters[i].getName(),
-        count: characters[i].getComicCount()
+        name: characters[i].name,
+        count: characters[i].comics.length
       }
-      if(cCharacter.isActive()){
+      if(cCharacter.active){
         viewData.characters_active.push(character_data);
         viewData.characters.push(character_data);
       } else {
@@ -309,15 +319,14 @@ MarvelApp.MarvelModel = function(){
     }
     for(let i = 0; i < lines.length; i++){
       let cLine = lines[i];
-      let display = cLine.getDisplay();
       let linedata = {
-        x_start: display.x_start,
-        y_start: display.y_start,
-        x_end: display.x_end,
-        y_end: display.y_end,
+        x_start: cLine.comic.display.x,
+        y_start: cLine.comic.display.y,
+        x_end: cLine.character.display.x,
+        y_end: cLine.character.display.y,
         stroke_width: 1
       }
-      if(cLine.isActive()){
+      if(cLine.active){
         linedata.color = colorData.lines_active;
         viewData.lines_active.push(linedata);
       } else {
@@ -327,6 +336,15 @@ MarvelApp.MarvelModel = function(){
     }
     return viewData;
   }
+  function getEventDescriptionData(identifier){
+    return events[eventToIndex[identifier]].getDescriptionData();
+  }
+  function getComicDescriptionData(identifier){
+    return comics[comicToIndex[identifier]].getDescriptionData();
+  }
+  function getCharacterDescriptionData(identifier){
+    return characters[characterToIndex[identifier]].getDescriptionData();
+  }
 
   that.init = init;
   that.setData = setData;
@@ -335,6 +353,9 @@ MarvelApp.MarvelModel = function(){
   that.activateComic = activateComic;
   that.activateEvent = activateEvent;
   that.deactivateAll = resetActive;
+  that.getEventDescriptionData = getEventDescriptionData;
+  that.getComicDescriptionData = getComicDescriptionData;
+  that.getCharacterDescriptionData = getCharacterDescriptionData;
 
 
   return that;

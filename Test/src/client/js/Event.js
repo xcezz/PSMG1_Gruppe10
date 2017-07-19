@@ -1,60 +1,71 @@
-MarvelApp.MarvelModel.Event = function(){
+MarvelApp.MarvelModel.Event = function(identifier){
   var that = {},
-  name,
-  display,
-  id,
-  comics,
-  active,
-  characters;
+  description,
+  startDate,
+  endDate,
+  thumbnail,
+  url,
+  id = identifier;
 
   function init(data, color){
-    name = data;
-    comics = [];
-    characters = [];
+    description = data.description;
+    thumbnail = data.thumbnail;
+    startDate = data.start;
+    endDate = data.end;
 
-    active = false;
-
-    display = {
-      color: color
+    for(var link = 0; link < data.urls.length; link++){
+      if(data.urls[link].type == "detail"){
+        url = data.urls[link].url;
+      }
     }
+
+    that.display = {
+      color: color
+    };
+
+    that.isInitialized = true;
+    that.name = data.title;
+    that.active = false;
 
     return that;
   }
 
-  function addComic(comic){
-    comics.push(comic);
-  }
-
-  function addCharacter(character){
-    characters.push(character);
-  }
-
-  function setDisplay(displ){
-    for(var element in displ){
-      display[element] = displ[element];
+  function getDescriptionData(){
+    if(thumbnail.path != undefined){
+      let img = new Image();
+      img.src = thumbnail.path + "/landscape_incredible." + thumbnail.extension;
+      thumbnail = img;
     }
-  }
-
-  function activate(){
-    active = true;
-  }
-
-  function deactivate(){
-    active = false;
+    return {
+      name: that.name,
+      description: description,
+      thumbnail: thumbnail,
+      url: url,
+      dataInfo: [
+        {
+          name: "Comics:",
+          value: that.comics.length
+        },
+        {
+          name: "Characters:",
+          value: that.characters.length
+        }
+      ]
+    };
   }
 
   that.init = init;
-  that.addComic = addComic;
-  that.addCharacter = addCharacter;
-  that.setDisplay = setDisplay;
-  that.activate = activate;
-  that.deactivate = deactivate;
-  that.isActive = function(){return active;}
-  that.getDisplay = function(){return display;}
-  that.getName = function(){return name;}
-  that.getComicCount = function(){return comics.length;}
-  that.getComics = function(){return comics;}
-  that.getCharacters = function(){return characters;}
+  that.getDescriptionData = getDescriptionData;
+
+  that.getId = function(){return id;}
+  that.getStart = function(){return new Date(startDate);}
+
+  that.isInitialized = false;
+  that.name = undefined;
+  that.display = undefined;
+  that.comics = [];
+  that.active = false;
+  that.characters = [];
 
   return that;
 }

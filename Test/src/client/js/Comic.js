@@ -1,74 +1,74 @@
-MarvelApp.MarvelModel.Comic = function(){
+MarvelApp.MarvelModel.Comic = function(identifier){
   var that = {},
-  name,
-  display,
-  id,
-  characters,
-  events,
-  lines,
-  active;
+  description,
+  thumbnail,
+  date,
+  url,
+  id = identifier;
 
   function init(data){
-    name = data.name;
-    id = data.id;
-    characters = [];
-    events = [];
-    lines = [];
+    description = data.description;
+    thumbnail = data.thumbnail;
 
-    active = false;
+    for(var link = 0; link < data.urls.length; link++){
+      if(data.urls[link].type == "detail"){
+        url = data.urls[link].url;
+      }
+    }
 
-    display = {}
+    for(var d = 0; d < data.dates.length; d++){
+      if(data.dates[d].type == "onsaleDate"){
+        date = data.dates[d].date;
+      }
+    }
+
+
+    that.active = false;
+    that.display = {}
+    that.isInitialized = true;
+    that.name = data.title;
 
     return that;
   }
 
-  function addCharacter(character){
-    characters.push(character);
-  }
-
-  function addEvent(event){
-    events.push(event);
-  }
-
-  function addLine(line){
-    lines.push(line);
-  }
-
-  function setDisplay(displ){
-    for(var element in displ){
-      display[element] = displ[element];
+  function getDescriptionData(){
+    if(thumbnail.path != undefined){
+      let img = new Image();
+      img.src = thumbnail.path + "/landscape_incredible." + thumbnail.extension;
+      thumbnail = img;
     }
-  }
-
-  function activate(){
-    active = true;
-  }
-
-  function deactivate(){
-    active = false;
+    return {
+      name: that.name,
+      description: description,
+      thumbnail: thumbnail,
+      url: url,
+      dataInfo: [
+        {
+          name: "Characters:",
+          value: that.characters.length
+        },
+        {
+          name: "Events:",
+          value: that.events.length
+        }
+      ]
+    };
   }
 
   that.init = init;
-  that.addCharacter = addCharacter;
-  that.addEvent = addEvent;
-  that.setDisplay = setDisplay;
-  that.addLine = addLine;
-  that.activate = activate;
-  that.deactivate = deactivate;
-  that.isActive = function(){return active;}
-  that.getDisplay = function(){return display;}
-  that.getName = function(){
-    if(name!=undefined){
-      return name;
-    }else{
-      return id;
-    }
-  }
+  that.getDescriptionData = getDescriptionData;
+
   that.getId = function(){return id;}
-  that.setColor = function(c){display.color = c;}
-  that.getCharacters = function(){return characters;}
-  that.getEvents = function(){return events;}
-  that.getLines = function(){return lines;}
+  that.getDate = function(){return new Date(date);}
+
+  that.isInitialized = false;
+  that.name = undefined;
+  that.display = undefined;
+  that.characters = [];
+  that.events = [];
+  that.lines = [];
+  that.active = false;
+
 
   return that;
 }

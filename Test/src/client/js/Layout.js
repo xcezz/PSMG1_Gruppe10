@@ -30,15 +30,36 @@ MarvelApp.MarvelModel.MyLayout = function(size){
     var degreesWithoutSpacing = 360 - l * sizeData.events.spacing;
     var degreePerComic = degreesWithoutSpacing / comicCountEvents;
     for(var i = 0; i < l; i++){
-      var end = start + events[i].getComicCount() * degreePerComic;
-      events[i].setDisplay({
-        d:describeArc(
-          sizeData.chart.centerX,
-          sizeData.chart.centerY,
-          sizeData.events.radius,
-          start,
-          end),
-      });
+      var end = start + events[i].comics.length * degreePerComic,
+      halfPoint = polarToCartesian(
+        sizeData.chart.centerX,
+        sizeData.chart.centerY,
+        sizeData.events.radius + sizeData.events.stroke_width / 2 + 5,
+        start + (end - start) / 2
+      ),
+      halfRot = start + (end - start) / 2,
+      textAnchor = "";
+
+      if(halfRot > 180){
+        textAnchor = "end";
+        halfRot += 90;
+      } else {
+        textAnchor = "start";
+        halfRot -= 90;
+      }
+
+      events[i].display.d = describeArc(
+        sizeData.chart.centerX,
+        sizeData.chart.centerY,
+        sizeData.events.radius,
+        start,
+        end
+      );
+
+      events[i].display.lablePos = halfPoint;
+      events[i].display.textAnchor = textAnchor;
+      events[i].display.lableRot = halfRot;
+
       start = end + sizeData.events.spacing;
     }
   }
@@ -53,7 +74,7 @@ MarvelApp.MarvelModel.MyLayout = function(size){
     for(var i = 0; i < characters.length; i++){
       hierarchy.children[i] = {
         index: i,
-        count: characters[i].getComicCount()
+        count: characters[i].comics.length
       }
     }
 
@@ -67,11 +88,9 @@ MarvelApp.MarvelModel.MyLayout = function(size){
     for(var i = 0; i < her_lay.length; i ++){
       if(!her_lay[i].children){
         var layout_obj_character = her_lay[i];
-        characters[layout_obj_character.data.index].setDisplay({
-          r: layout_obj_character.r,
-          x: layout_obj_character.x + sizeData.chart.centerX - sizeData.characters.diameter/2,
-          y: layout_obj_character.y + sizeData.chart.centerY - sizeData.characters.diameter/2
-        });
+        characters[layout_obj_character.data.index].display.r = layout_obj_character.r;
+        characters[layout_obj_character.data.index].display.x = layout_obj_character.x + sizeData.chart.centerX - sizeData.characters.diameter/2;
+        characters[layout_obj_character.data.index].display.y = layout_obj_character.y + sizeData.chart.centerY - sizeData.characters.diameter/2;
       }
     }
   }
@@ -87,10 +106,8 @@ MarvelApp.MarvelModel.MyLayout = function(size){
         sizeData.comics.radius + (i % sizeData.comics.comicsPerRow) * sizeData.comics.comicRowSpacing,
         Math.floor(i / sizeData.comics.comicsPerRow) * degreesPerStep + (i % sizeData.comics.comicsPerRow) * sizeData.comics.offsetPerRow
       );
-      comics[i].setDisplay({
-        x: point.x,
-        y: point.y,
-      });
+      comics[i].display.x = point.x;
+      comics[i].display.y = point.y;
     }
   }
 
