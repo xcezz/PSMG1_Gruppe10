@@ -21,27 +21,24 @@ app.get('/data', function (req, res) {
 try{
   marvelServerApp = marvelServerApp(marvel, myMarvelAPI, marvelDataModel)
   .init();
+
+  // if last successfully loaded data older than 24 hours
+  // -> load new
+  // else use cached data
+  fs.readFile(__dirname + '/tmp/last_date.txt', function(err, data){
+    if(err) {
+      return console.log(err);
+    }
+    if((new Date().getTime() - Number(data)) > 24 * 60 * 60 * 1000){
+      getAvengerData();
+    } else{
+      dataFromFile();
+    }
+  });
 } catch(e){
   console.log("Invalid API Keys.\nPlease enter your keys (https://developer.marvel.com/account)");
+  dataFromFile();
 }
-
-// if last successfully loaded data older than 24 hours
-// -> load new
-// else use cached data
-fs.readFile(__dirname + '/tmp/last_date.txt', function(err, data){
-  if(err) {
-    return console.log(err);
-  }
-  if((new Date().getTime() - Number(data)) > 24 * 60 * 60 * 1000){
-    getAvengerData();
-  } else{
-    dataFromFile();
-  }
-});
-
-
-
-
 
 //starting server
 function dataReady(){

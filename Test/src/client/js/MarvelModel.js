@@ -291,7 +291,6 @@ MarvelApp.MarvelModel = function(){
         lableData: {
           lableRot : display.lableRot,
           lablePos: display.lablePos,
-          textAnchor: display.textAnchor,
           name: ((cEvent.active) ? events[i].name : "")
         }
       });

@@ -34,17 +34,14 @@ MarvelApp.MarvelModel.MyLayout = function(size){
       halfPoint = polarToCartesian(
         sizeData.chart.centerX,
         sizeData.chart.centerY,
-        sizeData.events.radius + sizeData.events.stroke_width / 2 + 5,
+        sizeData.events.radius + sizeData.events.stroke_width / 2 + sizeData.events.lableSpacing,
         start + (end - start) / 2
       ),
-      halfRot = start + (end - start) / 2,
-      textAnchor = "";
+      halfRot = start + (end - start) / 2;
 
       if(halfRot > 180){
-        textAnchor = "end";
         halfRot += 90;
       } else {
-        textAnchor = "start";
         halfRot -= 90;
       }
 
@@ -57,7 +54,6 @@ MarvelApp.MarvelModel.MyLayout = function(size){
       );
 
       events[i].display.lablePos = halfPoint;
-      events[i].display.textAnchor = textAnchor;
       events[i].display.lableRot = halfRot;
 
       start = end + sizeData.events.spacing;

@@ -58,7 +58,8 @@ MarvelApp = function(){
     events: {
       radius: 340,
       spacing: 0.4, //°
-      stroke_width: elementSizeData.events.stroke_width * elementSizeData.events.active
+      stroke_width: elementSizeData.events.stroke_width * elementSizeData.events.active,
+      lableSpacing: 65
     },
     comics: {
       radius: 250,
@@ -107,8 +108,11 @@ MarvelApp = function(){
         "rgb(84,61,35)",
         "rgb(154,76,38)"
       ];
-
-      return palette[index];
+      try{
+        return palette[index];
+      } catch(e){
+        return "rgb(0,0,0);"
+      }
     },
     characters: "rgba(240,20,30,1)",
     character_stroke: "rgba(0,0,0,1)",

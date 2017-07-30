@@ -112,7 +112,33 @@ MarvelApp.MarvelView = function(){
     .attr("transform", function(element){ return "rotate(" + element.lableData.lableRot + ")";})
     .attr("text-anchor", function(element){ return element.lableData.textAnchor;})
     .attr("alignment-baseline", "middle")
-    .text(function(element) { return element.lableData.name; });
+    .each(function(element,index,selectionArray) {
+      var parentText = selectionArray[index];
+      var strs = element.lableData.name.split(" ");
+      var toreturn = "";
+      parentText.textContent = "";
+      var splits = 0;
+      for(let str = 0; str < strs.length; str++){
+        if((toreturn + strs[str]).length > 15){
+          let tspan = document.createElementNS("http://www.w3.org/2000/svg", "tspan");
+          tspan.textContent = toreturn;
+          tspan.setAttribute("dx", 0);
+          tspan.setAttribute("dy", 1.2 * splits + "em");
+          tspan.setAttribute("text-anchor","middle");
+          parentText.appendChild(tspan);
+          toreturn = "";
+          splits = 1;
+        }
+        toreturn += strs[str] + " ";
+      }
+
+      let tspan = document.createElementNS("http://www.w3.org/2000/svg", "tspan");
+      tspan.textContent = toreturn;
+      tspan.setAttribute("x", 0);
+      tspan.setAttribute("dy", 1.2 * splits + "em");
+      tspan.setAttribute("text-anchor","middle");
+      parentText.appendChild(tspan);
+    });
   }
 
   function renderLines(parent, lines){
