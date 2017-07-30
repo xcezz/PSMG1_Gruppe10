@@ -259,78 +259,128 @@ MarvelApp.MarvelModel = function(){
 
   function dataForView(){
     let viewData = {
-      comics:[],
-      events:[],
-      characters:[],
-      characters_active: [],
-      lines: [],
-      lines_active: []
+      all: {
+        comics:[],
+        events:[],
+        characters:[],
+        lines: []
+      },
+      active: {
+        comics:[],
+        events:[],
+        characters:[],
+        lines: []
+      }
     };
     for(let i = 0; i < comics.length; i++){
       let cComic = comics[i];
       let display = cComic.display;
-      viewData.comics.push({
-        r: sizeData.comics.r * ((cComic.active) ? sizeData.comics.active : 1),
+
+      viewData.all.comics.push({
+        r: sizeData.comics.r,
         x: display.x,
         y: display.y,
-        color: ((cComic.active) ? display.color : colorData.comics),
+        color: colorData.comics,
         name: comics[i].name,
         id: comics[i].getId()
       });
+
+      if(cComic.active){
+        viewData.active.comics.push({
+          r: sizeData.comics.r * sizeData.comics.active,
+          x: display.x,
+          y: display.y,
+          color: display.color,
+          name: comics[i].name,
+          id: comics[i].getId()
+        });
+      }
     }
     for(let i = 0; i < events.length; i++){
       let cEvent = events[i];
       let display = cEvent.display;
-      viewData.events.push({
+
+      viewData.all.events.push({
         id: cEvent.getId(),
         d: display.d,
-        stroke_width: sizeData.events.stroke_width * ((cEvent.active) ? sizeData.events.active : 1),
+        stroke_width: sizeData.events.stroke_width,
         color: display.color,
         name: events[i].name,
         count: events[i].comics.length,
         lableData: {
           lableRot : display.lableRot,
           lablePos: display.lablePos,
-          name: ((cEvent.active) ? events[i].name : "")
+          name: ""
         }
       });
+
+      if(cEvent.active){
+        viewData.active.events.push({
+          id: cEvent.getId(),
+          d: display.d,
+          stroke_width: sizeData.events.stroke_width * sizeData.events.active,
+          color: display.color,
+          name: events[i].name,
+          count: events[i].comics.length,
+          lableData: {
+            lableRot : display.lableRot,
+            lablePos: display.lablePos,
+            name: events[i].name
+          }
+        });
+      }
     }
     for(let i = 0; i < characters.length; i++){
       let cCharacter = characters[i];
       let display = cCharacter.display;
-      let character_data = {
+
+      viewData.all.characters.push({
         id: cCharacter.getId(),
         r: display.r,
         x: display.x,
         y: display.y,
         color: colorData.characters,
-        stroke_width: ((cCharacter.active) ? sizeData.characters.active : 0),
+        stroke_width: 0,
         stroke: colorData.character_stroke,
         name: characters[i].name,
         count: characters[i].comics.length
-      }
+      });
+
       if(cCharacter.active){
-        viewData.characters_active.push(character_data);
-        viewData.characters.push(character_data);
-      } else {
-        viewData.characters.push(character_data);
+        viewData.active.characters.push({
+          id: cCharacter.getId(),
+          r: display.r,
+          x: display.x,
+          y: display.y,
+          color: colorData.characters,
+          stroke_width: sizeData.characters.active,
+          stroke: colorData.character_stroke,
+          name: characters[i].name,
+          count: characters[i].comics.length
+        });
       }
     }
     for(let i = 0; i < lines.length; i++){
       let cLine = lines[i];
-      let linedata = {
+
+      viewData.all.lines.push({
         x_start: cLine.comic.display.x,
         y_start: cLine.comic.display.y,
         x_end: cLine.character.display.x,
         y_end: cLine.character.display.y,
-        stroke_width: 1
-      }
+        stroke_width: 1,
+        color: colorData.lines
+      });
+
       if(cLine.active){
-        linedata.color = colorData.lines_active;
-        viewData.lines_active.push(linedata);
-      } else {
-        linedata.color = colorData.lines;
-        viewData.lines.push(linedata);
+        viewData.active.lines.push({
+          x_start: cLine.comic.display.x,
+          y_start: cLine.comic.display.y,
+          x_end: cLine.character.display.x,
+          y_end: cLine.character.display.y,
+          stroke_width: 1,
+          color: colorData.lines_active
+        });
       }
     }
     return viewData;

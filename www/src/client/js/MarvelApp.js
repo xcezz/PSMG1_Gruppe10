@@ -17,11 +17,11 @@ MarvelApp = function(){
   },
   domData = {
     svg: "svg",
+    background: ".background_layer",
+    interactive: ".active_layer",
     events: ".arc",
     lines: ".lines",
-    lines_active: ".lines_active",
     characters: ".heroes",
-    characters_active: ".heroes_active",
     comics: ".comics",
     hero_description_id: "hero-description",
     description_image_id: "description_image",

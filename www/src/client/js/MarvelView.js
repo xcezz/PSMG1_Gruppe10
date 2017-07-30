@@ -3,6 +3,8 @@ MarvelApp.MarvelView = function(){
 
  var that = {},
 
+ background_rendered,
+
  eventKeys,
 
  handleMouseEvent,
@@ -10,12 +12,16 @@ MarvelApp.MarvelView = function(){
 
  //dom
  svg,
+ background_layer,
+ active_layer,
  events_g,
+ events_active_g,
  lines_g,
  lines_active_g,
  characters_g,
  characters_active_g,
  comics_g,
+ comics_active_g,
  hero_description,
  description_image,
  description_name,
@@ -27,13 +33,22 @@ MarvelApp.MarvelView = function(){
  description_dataInfoValue_2;
 
  function init(dom, keys){
+   background_rendered = false;
+
    svg = d3.select(dom.svg);
-   events_g = svg.select(dom.events);
-   lines_g = svg.select(dom.lines);
-   lines_active_g = svg.select(dom.lines_active);
-   characters_g = svg.select(dom.characters);
-   characters_active_g = svg.select(dom.characters_active);
-   comics_g = svg.select(dom.comics);
+
+   background_layer = svg.select(dom.background);
+   active_layer = svg.select(dom.interactive);
+
+   events_g = background_layer.select(dom.events);
+   lines_g = background_layer.select(dom.lines);
+   characters_g = background_layer.select(dom.characters);
+   comics_g = background_layer.select(dom.comics);
+
+   events_active_g = active_layer.select(dom.events);
+   lines_active_g = active_layer.select(dom.lines);
+   characters_active_g = active_layer.select(dom.characters);
+   comics_active_g = active_layer.select(dom.comics);
 
    hero_description = document.getElementById(dom.hero_description_id);
    description_image = document.getElementById(dom.description_image_id);
@@ -54,19 +69,26 @@ MarvelApp.MarvelView = function(){
  }
 
  function renderData(data){
-   renderEvents(data.events);
-   renderLines(lines_g, data.lines);
-   renderLines(lines_active_g, data.lines_active);
-   renderComics(data.comics);
-   renderCharacters(characters_g, data.characters, characterMouseIn, characterMouseOut, true);
-   renderCharacters(characters_active_g, data.characters_active, undefined, undefined, false);
+   if(!background_rendered){
+     renderEvents(events_g, data.all.events, true);
+     renderLines(lines_g, data.all.lines);
+     renderCharacters(characters_g, data.all.characters, true);
+     renderComics(comics_g, data.all.comics, true);
+
+     background_rendered = true;
+   }
+
+   renderEvents(events_active_g, data.active.events, false);
+   renderLines(lines_active_g, data.active.lines);
+   renderCharacters(characters_active_g, data.active.characters, false);
+   renderComics(comics_active_g, data.active.comics, false);
  }
 
 
-  function renderEvents(events){
-    let arc_node_selection = events_g
+  function renderEvents(parent, data, allowPointerEvents){
+    let arc_node_selection = parent
     .selectAll(".arc_node")
-    .data(events);
+    .data(data);
 
     arc_node_selection
     .exit()
@@ -92,14 +114,20 @@ MarvelApp.MarvelView = function(){
     .attr('d', function(element){return element.d;})
     .attr('stroke', function(element){return element.color;})
     .attr("fill", "none")
-    .attr("style", "cursor: pointer")
-    .on("mouseover", eventMouseIn)
-    .on("mouseout", eventMouseOut)
-    .on("click", eventClick)
-    .transition()
-    .delay(10)
-    .duration(500)
     .attr('stroke-width', function(element){return element.stroke_width;});
+
+    if(allowPointerEvents){
+      arc_node_selection
+      .select('path')
+      .attr("style", "cursor: pointer")
+      .on("mouseover", eventMouseIn)
+      .on("mouseout", eventMouseOut)
+      .on("click", eventClick);
+    } else {
+      arc_node_selection
+      .select('path')
+      .attr("style", "pointer-events: none")
+    }
 
     arc_node_selection
     .select("g")
@@ -141,10 +169,10 @@ MarvelApp.MarvelView = function(){
     });
   }
 
-  function renderLines(parent, lines){
+  function renderLines(parent, data){
     let line_nodes_selection = parent
     .selectAll(".line_node")
-    .data(lines);
+    .data(data);
 
     line_nodes_selection
     .exit()
@@ -169,10 +197,10 @@ MarvelApp.MarvelView = function(){
     .attr('stroke-width', function(element){return element.stroke_width;});
   }
 
-  function renderComics(comics){
-    let comic_nodes_selection = comics_g
+  function renderComics(parent, data, allowPointerEvents){
+    let comic_nodes_selection = parent
     .selectAll(".comic_node")
-    .data(comics);
+    .data(data);
 
     comic_nodes_selection
     .exit()
@@ -196,24 +224,30 @@ MarvelApp.MarvelView = function(){
     .select("circle")
     .attr("cx", function(element) { return element.x; })
     .attr("cy", function(element) { return element.y; })
-    .attr("style", function(element) { return "fill: " + element.color + ";cursor: pointer";})
-    .on("mouseover", comicMouseIn)
-    .on("mouseout", comicMouseOut)
-    .on("click", comicClick)
-    .transition()
-    .delay(10)
-    .duration(500)
     .attr("r", function(element) { return element.r; });
+
+    if(allowPointerEvents){
+      comic_nodes_selection
+      .select("circle")
+      .attr("style", function(element) { return "fill: " + element.color + ";cursor: pointer";})
+      .on("mouseover", comicMouseIn)
+      .on("mouseout", comicMouseOut)
+      .on("click", comicClick)
+    } else {
+      comic_nodes_selection
+      .select("circle")
+      .attr("style", function(element) { return "fill: " + element.color + ";pointer-events: none";});
+    }
 
     comic_nodes_selection
     .select("title")
     .text(function(element) { return element.name });
   }
 
-  function renderCharacters(parent, characters, mouseIn, mouseOut, allowPointerEvents){
+  function renderCharacters(parent, data, allowPointerEvents){
     var characters_nodes_selection = parent
     .selectAll(".heroe_node")
-    .data(characters);
+    .data(data);
 
     characters_nodes_selection
     .exit()
@@ -238,12 +272,21 @@ MarvelApp.MarvelView = function(){
     .attr("r", function(element) { return element.r; })
     .attr("cx", function(element) { return element.x; })
     .attr("cy", function(element) { return element.y; })
-    .attr("style", function(element) { return "fill: " + element.color + ";cursor: pointer"+ ((allowPointerEvents) ? ";" : "; pointer-events: none;");})
     .attr('stroke', function(element){return element.stroke;})
     .attr("stroke-width", function(element) { return element.stroke_width; })
-    .on("mouseover", mouseIn)
-    .on("mouseout", mouseOut)
-    .on("click", characterClick);
+
+    if(allowPointerEvents){
+      characters_nodes_selection
+      .select("circle")
+      .attr("style", function(element) { return "fill: " + element.color + ";cursor: pointer";})
+      .on("mouseover", characterMouseIn)
+      .on("mouseout", characterMouseOut)
+      .on("click", characterClick);
+    } else {
+      characters_nodes_selection
+      .select("circle")
+      .attr("style", function(element) { return "fill: " + element.color + ";pointer-events: none";});
+    }
 
     characters_nodes_selection
     .select("title")
